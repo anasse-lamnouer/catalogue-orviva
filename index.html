@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orviva Catalogue - Équipements Médicaux</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="catalog-container">
+        <header class="header-section">
+            <div class="header-left">
+                <div class="header-badge">
+                    <span class="dot"></span>
+                    Catalogue en temps réel
+                </div>
+                <h1 class="main-title">
+                    <span class="highlight">Orviva</span> Catalogue
+                </h1>
+                <p class="main-subtitle">Découvrez notre sélection d'équipements médicaux de qualité</p>
+                <p class="main-subtitle">Votre autonomie, notre priorité</p>
+            </div>
+            <div class="header-right">
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <i class="fas fa-box" style="color: var(--accent);"></i>
+                        <span><span class="number" id="product-count">0</span> produits</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <i class="fas fa-layer-group" style="color: var(--accent);"></i>
+                        <span><span class="number" id="category-count">0</span> catégories</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <i class="fas fa-tag" style="color: var(--accent);"></i>
+                        <span><span class="number" id="page-info">Page 1</span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="filter-container">
+            <div class="filter-group" style="flex: 2;">
+                <i class="fas fa-search icon"></i>
+                <input type="text" id="search-bar"
+                    placeholder="Rechercher un produit, une catégorie ou une référence...">
+            </div>
+            <div class="filter-group">
+                <i class="fas fa-folder icon"></i>
+                <div class="select-wrapper">
+                    <select id="category-filter">
+                        <option value="all">Toutes les catégories</option>
+                    </select>
+                </div>
+            </div>
+            <div class="filter-group">
+                <i class="fas fa-folder-open icon"></i>
+                <div class="select-wrapper">
+                    <select id="subcategory-filter">
+                        <option value="all">Toutes les sous-catégories</option>
+                    </select>
+                </div>
+            </div>
+            <button class="filter-clear" id="clear-filters" title="Réinitialiser les filtres">
+                <i class="fas fa-undo-alt"></i>
+            </button>
+        </div>
+
+        <div class="table-wrapper">
+            <table class="custom-table">
+                <thead>
+                    <tr>
+                        <th><span class="th-icon">#</span></th>
+                        <th><span class="th-icon"></span>Catégorie</th>
+                        <th><span class="th-icon"></span>Sous-Catégorie</th>
+                        <th><span class="th-icon"></span>Orviva</th>
+                        <th><span class="th-icon"></span>Locamed</th>
+                        <th><span class="th-icon"></span>Autres Ste</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                </tbody>
+            </table>
+        </div>
+
+        <div class="pagination-container" id="pagination-controls"></div>
+    </div>
+
+    <div class="modal-overlay" id="product-modal">
+        <div class="modal-card">
+            <button class="modal-close-btn" id="close-modal">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="modal-img-wrapper">
+                <img class="modal-img" id="modal-img" src="" alt="Image du produit">
+                <span class="modal-img-badge" id="modal-badge">★</span>
+            </div>
+            <div class="modal-source" id="modal-source"></div>
+            <div class="modal-category" id="modal-cat"></div>
+            <div class="modal-title" id="modal-title"></div>
+            <div class="modal-divider"></div>
+            <div class="modal-ref" id="modal-ref"></div>
+            <div class="modal-price" id="modal-price"></div>
+            <div class="modal-action">
+                <button class="modal-btn modal-btn-secondary" id="modal-close-btn">
+                    <i class="fas fa-times"></i> Fermer
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- main -->
+    <script src="main.js"></script>
+
+    <script src="mobilite/Déambulateurs.js"></script>
+    <script src="mobilite/Fauteuils_roulants_manuels.js"> </script>
+    <script src="mobilite/Fauteuils_roulants_électriques.js"></script>
+    <script src="mobilite/Scooters_électriques.js"></script>
+    <script src="mobilite/Béquilles_et_Cannes_de_marche.js"></script>
+    <script src="mobilite/Transfert.js"></script>
+    <script src="mobilite/Rampes_d’accès.js"></script>
+    <script src="mobilite/Tricycles_adaptés.js"></script>
+    <script src="mobilite/fauteuils-randonnee.js"></script>
+    <script src="mobilite/Élévateurs_de_piscine.js"></script>
+    <script src="mobilite/Pièces_&_Accessoires.js"></script>
+    <!-- bain et WC -->
+    <script src="bain et WC/rehausseurs_cadres.js"></script>
+    <script src="bain et WC/Fauteuils_de_douche.js"></script>
+    <script src="bain et WC/Tabourets&chaises.js"></script>
+    <script src="bain et WC/Élévateurs_de_bain.js"></script>
+    <script src="bain et WC/Chaises_percées.js"></script>
+    <script src="bain et WC/appui-bain.js"></script>
+    <script src="bain et WC/Aides_toilette.js"></script>
+    <script src="bain et WC/Accessoires_bain.js"></script>
+    <!-- Maison -->
+     <script src="Maison/Fauteuil_releveur.js"></script>
+     <script src="Maison/Fauteuils_coquilles.js"></script>
+     <script src="Maison/lits-inclinables.js"></script>
+     <script src="Maison/Lits-médicalisés.js"></script>
+     <script src="Maison/Tables.js"></script>
+     <script src="Maison/Accessoires_literie.js"></script>
+     <script src="Maison/Protections_literie.js"></script>
+     <!-- Bien etre et loisirs -->
+      <script src="Bien-être et loisirs/Aides_techniques.js"></script>
+      <script src="Bien-être et loisirs/Protection_hygiène.js"></script>
+      <script src="Bien-être et loisirs/Vaisselle_ergonomique.js"></script>
+</body>
+
+</html>
