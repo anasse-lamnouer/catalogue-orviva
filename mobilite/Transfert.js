@@ -177,10 +177,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/courroie-de-transfert-paire/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            img: "https://locamed.ma/wp-content/uploads/2023/05/1-1-768x580.jpg.webp",
+            prix: "399.00 MAD",
+            titre: "Ceinture de Transfert Patient",
+            lien: "https://locamed.ma/product/ceinture-de-transfert-patient/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_d06664ab-998a-454f-ad6b-9f4cf0bf39e3_939x939.png?v=1731601832",

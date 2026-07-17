@@ -85,8 +85,8 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://www.aidealautonomie.net/81625-pdt_540/deambulateur-elegant-let-s-shop.jpg",
-            prix: "5 125.30 MAD",
-            titre: "Déambulateur élégant Let’s Shop",
+            prix: "5 125.30 MAD",
+            titre: "Déambulateur élégant Let's Shop",
             lien: "https://www.aidealautonomie.net/deambulateurs-4-roues/19100-deambulateur-elegant-let-s-shop-7350036882488.html"
         }
     },
@@ -106,7 +106,7 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/deambulateur-en-aluminium-bleu/"
         },
         itemC: {
-            img: "https://cdn.webshopapp.com/shops/241535/files/288964431/500x500x1/trustcare-lets-dream-deambulateur-de-luxe-pour-lin.jpg",
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsunP34M-2BSiNJYfnJylcB9rP-KbmwiXPIek5VPmEjQ&s",
             prix: "3 734.30 MAD",
             titre: "Let's Dream: déambulateur de luxe pour l'intérieur - rollatoronline",
             lien: "https://www.rollatoronline.be/fr/lets-dream.html"
