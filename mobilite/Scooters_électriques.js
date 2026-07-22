@@ -61,8 +61,8 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
         },
         itemC: {
-            img: "https://www.seacroftmobility.com/cdn/shop/files/Pridegogocompact.jpg?v=1755599094",
-            prix: "24 005.40 MAD",
+            img: "https://www.hohomedical.com/cdn/shop/files/RobooterQ40productfront.jpg?v=1771236164&width=1800",
+            prix: "175 657.88 MAD",
             titre: "Scooter électrique intelligent Robooter Q40 pour seniors",
             lien: "https://www.hohomedical.com/products/robooter-q40"
         }
@@ -73,19 +73,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_6hbr966hbr966hbr.png",
             prix: "0 MAD",
-            titre: "Scooter électrique pliable Kmina Pliago",
+            titre: "Trottinette électrique pliable blanche pour adultes | PEPE | P10043",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-pliable-europe/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Scooter_Electrico_Blanco_Adultos_ligero_939x939.jpg?v=1776770446",
             prix: "16 049.89 MAD",
-            titre: "Trottinette électrique pliable blanche pour adultes",
+            titre: "Trottinette électrique pliable blanche pour adultes | PEPE | P10043",
             lien: "https://kmina.com/en-int/products/scooter-electrico-plegable-adultos-blanco"
         }
     },
@@ -95,19 +95,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/04/ScooterElectricoTodoterrenoMayores_2400x2400_crop_center.webp",
             prix: "0 MAD",
-            titre: "Scooter électrique Kmina Force Autonome",
+            titre: "Trottinette électrique tout-terrain pour adultes | KMINA | K10073",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-force-autonome/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/ScooterElectricoTodoterrenoMayores_939x939.jpg?v=1753456600",
             prix: "37 664.00 MAD",
-            titre: "Trottinette électrique tout-terrain pour adultes",
+            titre: "Trottinette électrique tout-terrain pour adultes | KMINA | K10073",
             lien: "https://kmina.com/en-int/products/scooter-electrico-todoterreno"
         }
     },
@@ -183,19 +183,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Principalalternativa_869x869.webp",
             prix: "0 MAD",
-            titre: "Scooter électrique Kmina FlexiQuad",
+            titre: "Trottinette électrique pour adultes | PEPE | P10044",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-europe/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Principalalternativa_939x939.png?v=1776770545",
             prix: "11 769.89 MAD",
-            titre: "Trottinette électrique pour adultes",
+            titre: "Trottinette électrique pour adultes | PEPE | P10044",
             lien: "https://kmina.com/en-int/products/scooter-electrico-para-adultos"
         }
     }

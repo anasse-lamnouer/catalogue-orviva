@@ -7,7 +7,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/silla-transferencia-KMINA_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Chaise de transfert Kmina EasyTransfer",
+            titre: "Chaise de transfert pour personnes âgées (hauteur d'assise réglable jusqu'à 58 cm), chaise de toilette à roulettes larges pour personnes âgées | KMINA | K40064",
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/chair-de-transfert/"
         },
         itemB: {
@@ -19,7 +19,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-transferencia-KMINA_939x939.png?v=1739884349",
             prix: "5 349.89 MAD",
-            titre: "Chaise de transfert pour personnes âgées (hauteur d'assise réglable jusqu'à 58 cm), chaise de toilette à roulettes larges pour personnes âgées",
+            titre: "Chaise de transfert pour personnes âgées (hauteur d'assise réglable jusqu'à 58 cm), chaise de toilette à roulettes larges pour personnes âgées | KMINA | K40064",
             lien: "https://kmina.com/en-int/products/silla-transferencia-ancianos"
         }
     },
@@ -73,7 +73,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/1_b3fa9d5d-2ade-4a06-ae20-41908a76df55_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Commode de chevet Kmina DuoCare",
+            titre: "Chaise percée avec siège réglable (3 en 1), siège de toilette, chaise de douche pour seniors, noir | PEPE | P40012",
             lien: "https://orviva.ma/boutique/bain-et-wc/chaises-percees/commode-de-chevet/"
         },
         itemB: {
@@ -85,7 +85,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_b3fa9d5d-2ade-4a06-ae20-41908a76df55_939x939.png?v=1684248912",
             prix: "748.89 MAD",
-            titre: "Chaise percée avec siège réglable (3 en 1), siège de toilette, chaise de douche pour seniors, noir",
+            titre: "Chaise percée avec siège réglable (3 en 1), siège de toilette, chaise de douche pour seniors, noir | PEPE | P40012",
             lien: "https://kmina.com/en-int/products/silla-orinal-negra"
         }
     },
@@ -95,7 +95,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/silla_orinal_acolchada_PEPE_Mobility_producto_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Commode de chevet Kmina NightCare",
+            titre: "Chaise percée rembourrée avec WC portable (2 en 1), siège de toilette pour seniors, rehausseur de toilettes pour personnes âgées | PEPE | P30034",
             lien: "https://orviva.ma/boutique/bain-et-wc/chaises-percees/commode-de-chevet-remplie/"
         },
         itemB: {
@@ -107,7 +107,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla_orinal_acolchada_PEPE_Mobility_producto_939x939.png?v=1739880422",
             prix: "1 069.89 MAD",
-            titre: "Chaise percée rembourrée avec WC portable (2 en 1), siège de toilette pour seniors, rehausseur de toilettes pour personnes âgées",
+            titre: "Chaise percée rembourrée avec WC portable (2 en 1), siège de toilette pour seniors, rehausseur de toilettes pour personnes âgées | PEPE | P30034",
             lien: "https://kmina.com/en-int/products/silla-orinal-wc-elevador-acolchada"
         }
     },
@@ -127,10 +127,10 @@ window.produitsData.push(
             lien: ""
         },
         itemC: {
-            img: "https://www.felgains.com/app/uploads/2020/10/FEL40-175-Mobile-Commode_1-1150x1536.jpg",
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIVW9ARwVga1D3GA-_sbYGbUwSh1dp6kUEE__sTy_ww&s=10",
             prix: "2 003.75 MAD",
             titre: "Chaise percée mobile",
-            lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-2-freins-dietz/"
+            lien: "https://www.felgains.com/care-products/mobile-commode-chair/"
         }
     },
     {
@@ -149,7 +149,7 @@ window.produitsData.push(
             lien: ""
         },
         itemC: {
-            img: "https://www.techniciendesante.fr/4392862-large_default/chaise-percee-a-roulettes-cascata.jpg",
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkRjndwYikKiKqhaAeuI7ANVVFL8S0WrS6oFwHiKRcA&s=10",
             prix: "1 600.93 MAD",
             titre: "Chaise percée à roulettes Cascata",
             lien: "https://www.techniciendesante.fr/offres-de-printemps/2678-chaise-percee-a-roulettes-cascata.html"

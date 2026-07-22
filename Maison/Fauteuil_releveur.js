@@ -61,10 +61,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-releveur-electrique-modena-4-moteurs-dark-taupe/"
         },
         itemC: {
-            img: "https://www.tousergo.com/56541-large_default/table-pour-fauteuil-releveur-.jpg",
-            prix: "2 129.30 MAD",
-            titre: "Table pour fauteuil releveur",
-            lien: "https://www.tousergo.com/table-de-lit-et-desserte/6298-table-pour-fauteuil-releveur-.html"
+            img: "https://www.tousergo.com/54480-large_default/fauteuil-releveur-4-moteurs-lazare.jpg",
+            prix: "10 689.30 MAD",
+            titre: "Fauteuil releveur 4 moteurs Lazare",
+            lien: "https://www.tousergo.com/fauteuil-releveur/5970-28445-fauteuil-releveur-4-moteurs-lazare.html"
         }
     },
     {

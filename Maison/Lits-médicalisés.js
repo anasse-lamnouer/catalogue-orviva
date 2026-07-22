@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medicalise-haut-gamme-invacare-nordbed-ultra/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/02/Lit-electrique-Teide-Avec-4-plans-et-3-articulations.png",
+            prix: "Prix sur devis",
+            titre: "Lit médical électrique TEIDE",
+            lien: "https://locamed.ma/product/lit-medical-electrique-teide/"
         },
         itemC: {
             img: "https://www.materielmedical.fr/50050-thickbox_default/lit-medicalise-invacare-nordbed-ultra.jpg",
@@ -32,11 +32,11 @@ window.produitsData.push(
             titre: "Lit médicalisé Haut de gamme Invacare SB 755",
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medical-invacare-sb-755/"
         },
-        itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+         itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/02/Lit-electrique-Teide-Avec-4-plans-et-3-articulations.png",
+            prix: "Prix sur devis",
+            titre: "Lit médical électrique TEIDE",
+            lien: "https://locamed.ma/product/lit-medical-electrique-teide/"
         },
         itemC: {
             img: "https://www.hospitalbeds.co.uk/user/products/invacare-sb755-profiling-bed-rasied%20(1).jpg",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medicalise-enfant-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Lit-pediatrique-pour-enfants.png",
+            prix: "Prix sur devis",
+            titre: "Lit pédiatrique pour enfants",
+            lien: "https://locamed.ma/product/lit-pediatrique/?srsltid=AfmBOoosGR9iu3CKDpACTMnboGcU0LtyKyhjxy4S-f6TNI60XE-mmoKf"
         },
         itemC: {
             img: "https://www.materielmedical.fr/50113-large_default/lit-medicalise-enfant-invacare-nordbed-kid.jpg",
@@ -105,7 +105,7 @@ window.produitsData.push(
             lien: ""
         },
         itemC: {
-            img: "https://www.france-biomedical-confort.eu/medias/picts/boutique/404x228/lit-medicalise-electrique-luna-basic-2-releve-7wtf.jpg",
+            img: "https://www.france-biomedical-confort.eu/medias/picts/boutique/404x228/lit-medicalise-electrique-luna-basic-dtpp.jpg",
             prix: "13 225.20 MAD",
             titre: "Lit médicalisé électrique Luna 1 barrières METAL et potence",
             lien: "https://www.france-biomedical-confort.eu/nos-produits/chambre-alitement/lits-medicalises-adultes/lit-medicalise-electrique-luna-1-barrieres-metal-et-potence/"
@@ -297,10 +297,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-1600/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Produit-ecom-93.webp",
+            prix: "17 500.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.teamalex-medical.com/12313-large_default/lit-alzheimer-medicalise-euro-1600-hms-vilgo.jpg",
@@ -347,7 +347,7 @@ window.produitsData.push(
             lien: ""
         },
         itemC: {
-            img: "https://medicaldomicile.fr/11329-superlarge_default/lit-medical-1-personne-euro-1000-hms-vilgo.jpg",
+            img: "https://medicaldomicile.fr/11328-superlarge_default/lit-medical-1-personne-euro-1000-hms-vilgo.jpg",
             prix: "11 759.30 MAD",
             titre: "Lit médicalisé électrique 1 personne Euro 1000 HMS Vilgo",
             lien: "https://medicaldomicile.fr/lits-medicalises-1-personne/396-123338-lit-medical-1-personne-euro-1000-hms-vilgo.html"
@@ -355,7 +355,7 @@ window.produitsData.push(
     },
     {
         categorie: "Maison",
-        sousCategorie: "Lits inclinables confort et design",
+        sousCategorie: "Lits médicalisés",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/06/imgi_55_lit-releveur-double-e1780665321542.jpg   ",
             prix: "0 MAD",
@@ -370,14 +370,14 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://www.tousergo.com/47231-large_default/lit-releveur-a-hauteur-variable-eurodesign.jpg",
-            prix: "16 906.00 MAD",
+            prix: "37 277.73 MAD",
             titre: "Lit releveur à hauteur variable Eurodesign",
             lien: "https://www.tousergo.com/lit-medicalise-et-lit-releveur/1321-lit-releveur-a-hauteur-variable-eurodesign.html"
         }
     },
     {
         categorie: "Maison",
-        sousCategorie: "Lits inclinables confort et design",
+        sousCategorie: "Lits médicalisés",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/06/imgi_7_eurodesign-lits-releveurs-simple-e1780665353698.jpg",
             prix: "0 MAD",
@@ -399,7 +399,7 @@ window.produitsData.push(
     },
     {
         categorie: "Maison",
-        sousCategorie: "Lits inclinables confort et design",
+        sousCategorie: "Lits médicalisés",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/lit-junior-1.jpg",
             prix: "0 MAD",
@@ -421,7 +421,7 @@ window.produitsData.push(
     },
     {
         categorie: "Maison",
-        sousCategorie: "Lits inclinables confort et design",
+        sousCategorie: "Lits médicalisés",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/lit-parc-1-1-e1779464061103.jpg",
             prix: "0 MAD",
@@ -429,10 +429,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-inclinables-confort-et-design/lit-parc/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Lit-pediatrique-pour-enfants.png",
+            prix: "Prix sur devis",
+            titre: "Lit pédiatrique pour enfants",
+            lien: "https://locamed.ma/product/lit-pediatrique/?srsltid=AfmBOoosGR9iu3CKDpACTMnboGcU0LtyKyhjxy4S-f6TNI60XE-mmoKf"
         },
         itemC: {
             img: "https://medicaldomicile.fr/11342-superlarge_default/lit-parc-bebe-fonction-proclive-hms-vilgo.jpg",
@@ -443,7 +443,7 @@ window.produitsData.push(
     },
     {
         categorie: "Maison",
-        sousCategorie: "Lits inclinables confort et design",
+        sousCategorie: "Lits médicalisés",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/imgi_71_berceau-demi-lune-inclinable.jpg",
             prix: "0 MAD",
@@ -451,10 +451,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-inclinables-confort-et-design/berceau-demi-lune/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/1-17.jpg",
+            prix: "3 100.00 MAD",
+            titre: "Berceau bébé",
+            lien: "https://locamed.ma/product/berceau-bebe/"
         },
         itemC: {
             img: "https://medicaldomicile.fr/17370-superlarge_default/berceau-maternite-demi-lune.jpg",
@@ -465,7 +465,7 @@ window.produitsData.push(
     },
     {
         categorie: "Maison",
-        sousCategorie: "Lits inclinables confort et design",
+        sousCategorie: "Lits médicalisés",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/berceau-en-x.jpg",
             prix: "0 MAD",
@@ -473,10 +473,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-inclinables-confort-et-design/berceau-en-x/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/1-17.jpg",
+            prix: "3 100.00 MAD",
+            titre: "Berceau bébé",
+            lien: "https://locamed.ma/product/berceau-bebe/"
         },
         itemC: {
             img: "https://medicaldomicile.fr/7613-superlarge_default/berceau-maternite-hms-vilgo.jpg",

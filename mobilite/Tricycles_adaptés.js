@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/tricycles-adaptes/pedalier/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/10/Pedalier-Oxycycle-motorise.jpg",
+            prix: "3 980.00 MAD",
+            titre: "Pédalier Oxycycle motorisé",
+            lien: "https://locamed.ma/product/pedalier-oxycycle-motorise/"
         },
         itemC: {
             img: "https://www.slaugivita.com/Image.php?p=/4681/product_1788-500x500.webp",

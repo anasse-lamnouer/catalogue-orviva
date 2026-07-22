@@ -7,7 +7,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/image_8e08ccac.png",
             prix: "0 MAD",
-            titre: "Barre d’appui de toilette Kmina SoftGrip",
+            titre: "Barre d'appui de toilette pliable et rembourrée 58 cm (1 unité), barre de soutien WC | PEPE | P30027",
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-de-toilette-remplie/"
         },
         itemB: {
@@ -19,7 +19,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/4_77204188-6b20-4184-b1a2-507807a0c579_939x939.png?v=1690533832",
             prix: "374.39 MAD",
-            titre: "Barre d'appui de toilette pliable et rembourrée 58 cm (1 unité), barre de soutien WC",
+            titre: "Barre d'appui de toilette pliable et rembourrée 58 cm (1 unité), barre de soutien WC | PEPE | P30027",
             lien: "https://kmina.com/en-int/products/barra-abatible-acolchada-para-bano-x1-ud"
         }
     },
@@ -29,7 +29,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/image_8fc57d3a.png",
             prix: "0 MAD",
-            titre: "Barre d’appui de toilette Kmina FlexBar",
+            titre: "Barre d'appui pliable pour WC 75 cm (1 unité), barre de support WC | PEPE | P30011",
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-pour-toilette/"
         },
         itemB: {
@@ -41,7 +41,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/198_2b392793-7c87-471d-af35-2bbe0175aa47_939x939.png?v=1684922783",
             prix: "534.89 MAD",
-            titre: "Barre d'appui pliable pour WC 75 cm (1 unité), barre de support WC ",
+            titre: "Barre d'appui pliable pour WC 75 cm (1 unité), barre de support WC | PEPE | P30011",
             lien: "https://kmina.com/en-int/products/barra-abatible-bano-minusvalidos"
         }
     },
@@ -51,7 +51,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/82_869x869.webp",
             prix: "0 MAD",
-            titre: "Barre d’appui Kmina DuoGrip",
+            titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien noire | PEPE | P30007",
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-paire/"
         },
         itemB: {
@@ -63,7 +63,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/82_939x939.png?v=1684159104",
             prix: "106.89 MAD",
-            titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien noire",
+            titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien noire | PEPE | P30007",
             lien: "https://kmina.com/en-int/products/asa-seguridad-bano-negra-x2"
         }
     },
@@ -73,7 +73,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/47_616f6f3e-7cab-4529-8701-345209541979_869x869.webp",
             prix: "0 MAD",
-            titre: "Barre d’appui pour baignoire Kmina BathGrip",
+            titre: "Barre d'appui rembourrée pour salle de bain, poignée de sécurité, blanche et bleue | KMINA | K30024",
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-pour-baignoire/"
         },
         itemB: {
@@ -85,7 +85,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/47_616f6f3e-7cab-4529-8701-345209541979_939x939.png?v=1671698714",
             prix: "641.89 MAD",
-            titre: "Barre d'appui rembourrée pour salle de bain, poignée de sécurité, blanche et bleue",
+            titre: "Barre d'appui rembourrée pour salle de bain, poignée de sécurité, blanche et bleue | KMINA | K30024",
             lien: "https://kmina.com/en-int/collections/kmina/products/asa-banera-azul"
         }
     },

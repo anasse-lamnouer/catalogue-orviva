@@ -7,7 +7,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/84_9f0807de-dc9e-456c-9765-8c06ac52bb62_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Protecteur de couche Nuit Tranquille",
+            titre: "Couche de protection lavable et réutilisable pour adultes, aide contre l'incontinence nocturne | KMINA | K40035",
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/protection-et-hygiene/protecteur-de-couche/"
         },
         itemB: {
@@ -19,7 +19,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/84_9f0807de-dc9e-456c-9765-8c06ac52bb62_939x939.png?v=1673509283",
             prix: "374.39 MAD",
-            titre: "Couche de protection lavable et réutilisable pour adultes, aide contre l'incontinence nocturne",
+            titre: "Couche de protection lavable et réutilisable pour adultes, aide contre l'incontinence nocturne | KMINA | K40035",
             lien: "https://kmina.com/en-int/products/protector-panal"
         }
     },
@@ -29,7 +29,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/1_f6586f6f-9c0c-480b-84ce-267cfe0335ed_869x869.webp",
             prix: "0 MAD",
-            titre: "Protége-plâtre AquaProtect Jambe",
+            titre: "Protection imperméable pour plâtre de jambe (100 cm), Protection pour plâtre de jambe adulte | PEPE | P30033",
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/protection-et-hygiene/couvercle-de-moule-4/"
         },
         itemB: {
@@ -41,7 +41,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_f6586f6f-9c0c-480b-84ce-267cfe0335ed_939x939.png?v=1692363145",
             prix: "160.39 MAD",
-            titre: "Protection imperméable pour plâtre de jambe (100 cm), Protection pour plâtre de jambe adulte",
+            titre: "Protection imperméable pour plâtre de jambe (100 cm), Protection pour plâtre de jambe adulte | PEPE | P30033",
             lien: "https://kmina.com/en-int/products/cubre-escayola-pierna-impermeable-100-cm"
         }
     },
@@ -51,7 +51,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/8_5529485b-cf77-4aec-b96d-749f28d5f1fd_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Protége-plâtre AquaProtect Demi-Jambe",
+            titre: "Protection imperméable pour plâtre de jambe (60 cm), protection pour plâtre de jambe adulte | PEPE | P30032",
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/protection-et-hygiene/couvercle-de-moule-3/"
         },
         itemB: {
@@ -63,7 +63,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/8_5529485b-cf77-4aec-b96d-749f28d5f1fd_939x939.png?v=1692363822",
             prix: "106.89 MAD",
-            titre: "Protection imperméable pour plâtre de jambe (60 cm), protection pour plâtre de jambe adulte",
+            titre: "Protection imperméable pour plâtre de jambe (60 cm), protection pour plâtre de jambe adulte | PEPE | P30032",
             lien: "https://kmina.com/en-int/products/cubre-escayola-pierna-impermeable-60-cm"
         }
     },
@@ -73,7 +73,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/18_63c32bc7-9d60-4b10-89df-bafb5f233b4a_869x869.webp",
             prix: "0 MAD",
-            titre: "Protége-plâtre AquaProtect Bras",
+            titre: "Housse de plâtre étanche pour bras (95 cm), protection pour plâtre adulte | PEPE | P30031",
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/protection-et-hygiene/couvercle-de-moule-2/"
         },
         itemB: {
@@ -85,7 +85,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/18_63c32bc7-9d60-4b10-89df-bafb5f233b4a_939x939.png?v=1692366098",
             prix: "160.39 MAD",
-            titre: "Housse de plâtre étanche pour bras (95 cm), protection pour plâtre adulte",
+            titre: "Housse de plâtre étanche pour bras (95 cm), protection pour plâtre adulte | PEPE | P30031",
             lien: "https://kmina.com/en-int/products/funda-impermeable-escayola-brazo-95-cm"
         }
     },
@@ -95,7 +95,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/22_f189789d-8102-4d9b-8321-486528fd5dc4_869x869.webp",
             prix: "0 MAD",
-            titre: "Protége-plâtre AquaProtect Avant -Bras",
+            titre: "Protection étanche pour plâtre de bras (50 cm), protection pour plâtre adulte | PEPE | P30030",
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/protection-et-hygiene/couvercle-de-moule/"
         },
         itemB: {
@@ -107,7 +107,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/22_f189789d-8102-4d9b-8321-486528fd5dc4_939x939.png?v=1692366608",
             prix: "106.89 MAD",
-            titre: "Protection étanche pour plâtre de bras (50 cm), protection pour plâtre adulte",
+            titre: "Protection étanche pour plâtre de bras (50 cm), protection pour plâtre adulte | PEPE | P30030",
             lien: "https://kmina.com/en-int/products/funda-impermeable-escayola-brazo-50-cm"
         }
     },

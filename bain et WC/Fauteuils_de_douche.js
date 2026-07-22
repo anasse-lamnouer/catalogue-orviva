@@ -139,7 +139,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/silla-autopropulsable-azul-KMINA_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Fauteuil roulant de douche Kmina AquaLiberty",
+            titre: "Fauteuil roulant de douche autopropulsé avec toilettes bleues | KMINA | K30032",
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/aqua-liberty/"
         },
         itemB: {
@@ -151,7 +151,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-autopropulsable-azul-KMINA_939x939.png?v=1739884949",
             prix: "3 744.89 MAD",
-            titre: "Fauteuil roulant de douche autopropulsé avec toilettes bleues",
+            titre: "Fauteuil roulant de douche autopropulsé avec toilettes bleues | KMINA | K30032",
             lien: "https://kmina.com/en-int/products/silla-de-ruedas-para-ducha-autopropulsable-azul"
         }
     },
@@ -161,7 +161,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/IMG_8492-min_2296x2400_crop_center-1-980x1024.webp",
             prix: "0 MAD",
-            titre: "Fauteuil roulant de douche Kmina AquaConfort",
+            titre: "Chaise de douche à roulettes pour seniors, fauteuil roulant avec pot intégré, chaise de bain noire | KMINA | K30010",
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/aqua-wc-confort/"
         },
         itemB: {
@@ -173,7 +173,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/IMG_8492-min_939x982.jpg?v=1703865512",
             prix: "3 209.89 MAD",
-            titre: "Chaise de douche à roulettes pour seniors, fauteuil roulant avec pot de chambre, chaise de bain noire",
+            titre: "Chaise de douche à roulettes pour seniors, fauteuil roulant avec pot intégré, chaise de bain noire | KMINA | K30010",
             lien: "https://kmina.com/en-int/products/silla-bano-pro"
         }
     },

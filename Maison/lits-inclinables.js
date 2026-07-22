@@ -150,7 +150,7 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://www.hopmoov.com/web/image/product.product/17092/image_1024/%5B7000198%5D%20Lit%20Double%20M%C3%A9dicalis%C3%A9%20Habillage%20Excellence%20(rel%C3%A8ves%20jambes%20manuels,%20160%20cm,%20Sans%20t%C3%A9l%C3%A9commande%20bluetooth)?unique=f5fa014",
-            prix: "11 021.00 MAD",
+            prix: "37 277.73 MAD",
             titre: "Lit Double Médicalisé Habillage Excellence",
             lien: "https://www.hopmoov.com/shop/lit-double-medicalise-habillage-excellence-19486?attribute_values=7554%2C7555%2C7556%2C7558%2C7560%2C7583%2C7557"
         }

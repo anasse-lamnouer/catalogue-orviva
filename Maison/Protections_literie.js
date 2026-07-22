@@ -271,7 +271,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Empapadorcama_869x869-1.webp",
             prix: "0 MAD",
-            titre: "Alèse réutilisable BedSafe",
+            titre: "Alèse lavable et réutilisable pour adulte, 135 cm | KMINA | K40046",
             lien: "https://orviva.ma/boutique/maison/protections-de-literie/alese-reutilisable-90cm/"
         },
         itemB: {
@@ -283,7 +283,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Empapadorcama_939x939.png?v=1690462949",
             prix: "235.29 MAD",
-            titre: "Alèse lavable et réutilisable pour adulte, 135 cm ",
+            titre: "Alèse lavable et réutilisable pour adulte, 135 cm | KMINA | K40046",
             lien: "https://kmina.com/en-int/products/empapador-cama-adulto-lavable-135-cm"
         }
     },

@@ -227,13 +227,13 @@ window.produitsData.push(
         sousCategorie: "Déambulateurs",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/02/taima_xc__12__luftbereift__leicht_n200107_i1863740_800x800.jpg",
-            prix: "1 100.00 MAD",
+            prix: "0 MAD",
             titre: "Rollator 4 roues avec siège et dossier",
             lien: "https://locamed.ma/product/rollator-4-roues-avec-siege-et-dossier/"
         },
         itemB: {
             img: "https://locamed.ma/wp-content/uploads/2018/01/Rollator-4-roues-avec-siege-et-dossier-3.jpg",
-            prix: "0.00 MAD",
+            prix: "1 100.00 MAD",
             titre: "Rollator 4 roues avec siège et dossier",
             lien: "https://locamed.ma/product/rollator-4-roues-avec-siege-et-dossier/"
         },
@@ -272,7 +272,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/16_8ad23804-4ef0-4293-8414-7ce4b1603e1f_869x869.webp",
             prix: "0 MAD",
-            titre: "Déambulateur étroit Kmina SlimTray",
+            titre: "Déambulateur étroit pour la maison et l'extérieur, pour personnes âgées et adultes, avec plateau, blanc et noir | KMINA | K10009",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/pro-i-debarqueur/"
         },
         itemB: {
@@ -282,9 +282,9 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/cadre-de-marche-articule-pliant/"
         },
         itemC: {
-            img: "https://www.tousergo.com/49771-home_default/deambulateur-4-roues-kmina-8436584360049.jpg",
-            prix: "1 915.30 MAD",
-            titre: "Déambulateur 4 roues KMINA - Tous Ergo",
+            img: "https://kmina.com/cdn/shop/products/16_8ad23804-4ef0-4293-8414-7ce4b1603e1f_939x939.png?v=1667817291",
+            prix: "1 915.30 MAD",
+            titre: "Déambulateur étroit pour la maison et l'extérieur, pour personnes âgées et adultes, avec plateau, blanc et noir | KMINA | K10009",
             lien: "https://www.tousergo.com/deambulateur/4125-deambulateur-4-roues-kmina-8436584360049.html"
         }
     },
@@ -294,20 +294,20 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Andador_todoterreno_ruedas_neum_ticas_producto_KMINA_1500x1500_crop_center-e1776599585281.webp",
             prix: "0 MAD",
-            titre: "Déambulateur d'extérieur Kmina TrailMaster",
+            titre: "Déambulateurs tout-terrain pour adultes et seniors, avec 4 roues pneumatiques | KMINA | K10060",
             lien: "https://orviva.ma/boutique/non-classe/tout-terrain/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Rollator en Aluminium 4 roues",
-            lien: "https://locamed.ma/product/rollator-en-aluminium-4-roues/"
+            titre: "",
+            lien: ""
         },
         itemC: {
-            img: "https://kmina.com/cdn/shop/files/andador-antebrazo_939x939.png?v=1701272776",
-            prix: "2 139.89 MAD",
-            titre: "Déambulateur à appui sur les avant-bras pour adultes, déambulateur vertical avec support pour les avant-bras",
-            lien: "https://kmina.com/en-int/products/andador-para-adultos-vertical-antebrazo?srsltid=AfmBOoqunSKtFxTCZCBLNCO2DLExCqOTdJey1JIlI0rh-ArolRx58NZJ"
+            img: "https://kmina.com/cdn/shop/files/Andador_Todoterreno_KMINA_939x939.png?v=1777992098",
+            prix: "2 995.89 MAD",
+            titre: "Déambulateurs tout-terrain pour adultes et seniors, avec 4 roues pneumatiques | KMINA | K10060",
+            lien: "https://www.rehabmart.com/product/all-terrain-rollator-walker-kmina-56632.html"
         }
     },
     {
@@ -316,19 +316,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/47_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Déambulateur Kmina AlteraGo",
+            titre: "Déambulateurs pour adultes de grande taille (environ 1,70 à 2,00 m), déambulateur pour personnes âgées avec siège | KMINA | K10017",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/altos/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Rollator 4 roues avec siège",
-            lien: "https://locamed.ma/product/rollator-4-roues-avec-siege/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/47_939x939.png?v=1652807386",
             prix: "3 209.89 MAD",
-            titre: "Déambulateurs pour adultes de grande taille (environ 1,70 à 2,00 m), déambulateur pour personnes âgées avec siège",
+            titre: "Déambulateurs pour adultes de grande taille (environ 1,70 à 2,00 m), déambulateur pour personnes âgées avec siège | KMINA | K10017",
             lien: "https://kmina.com/en-int/products/andador-pro-2"
         }
     },
@@ -338,19 +338,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/andador-antebrazo_1000x1000_crop_center-e1776599832511.webp",
             prix: "0 MAD",
-            titre: "Déambulateur avec appui d'avant-bras Kmina ErgoBrace",
+            titre: "Déambulateur à appui sur les avant-bras pour adultes, déambulateur vertical avec support pour les avant-bras | KMINA | K10063",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/rollator-davant-bras/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Cadre de marche fixe",
-            lien: "https://locamed.ma/product/cadre-de-marche-fixe/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/andador-antebrazo_939x939.png?v=1701272776",
             prix: "2 139.89 MAD",
-            titre: "Déambulateur à appui sur les avant-bras pour adultes, déambulateur vertical avec support pour les avant-bras",
+            titre: "Déambulateur à appui sur les avant-bras pour adultes, déambulateur vertical avec support pour les avant-bras | KMINA | K10063",
             lien: "https://kmina.com/en-int/products/andador-para-adultos-vertical-antebrazo?srsltid=AfmBOopkpLX-bGR7PW088kknLQSEohC1aKM5z2D2CtFHEDXHClzof__R"
         }
     },
@@ -360,7 +360,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/218_faf8f38c-b3ca-48c4-9656-aa54545ecc91_1000x1000_crop_center-600x600.webp",
             prix: "0 MAD",
-            titre: "Déambulateur d'extérieur Kmina Cushiontrek",
+            titre: "Déambulateur pour adultes, modèle senior avec siège, 4 roues, freins, gris et noir | KMINA | K10012",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/sereno/"
         },
         itemB: {
@@ -372,7 +372,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/212_5921fdec-0b91-47e2-b2ca-928bf33a2b3b_939x939.png?v=1686131087",
             prix: "1 711.89 MAD",
-            titre: "Déambulateur pour adultes, modèle senior avec siège, 4 roues, freins, gris et noir",
+            titre: "Déambulateur pour adultes, modèle senior avec siège, 4 roues, freins, gris et noir | KMINA | K10012",
             lien: "https://kmina.com/en-int/products/andador-comfort-maneta-gris"
         }
     },
@@ -382,19 +382,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/51_810e29c6-1169-4b5b-90e0-ea010001a1e4_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Déambulateur d'extérieur Kmina Pack'nGo",
+            titre: "Déambulateur pliable à 4 roues pour adultes et seniors | PEPE | P10032",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/le-guide/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur en Aluminium Gold",
-            lien: "https://locamed.ma/product/deambulateur-en-aluminium-gold/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/51_810e29c6-1169-4b5b-90e0-ea010001a1e4_939x939.png?v=1683727413",
             prix: "1 391.00 MAD",
-            titre: "Déambulateur pliable à 4 roues pour adultes et seniors",
+            titre: "Déambulateur pliable à 4 roues pour adultes et seniors | PEPE | P10032",
             lien: "https://kmina.com/en-int/products/andador-para-adultos-4-ruedas-plegable"
         }
     },
@@ -404,19 +404,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/142_e832a7ce-6b08-4d5e-be17-de8ed35fa792_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Déambulateur 2 en 1 Kmina FlexiRoll",
+            titre: "Déambulateur 2 en 1 pour personnes âgées et adultes (noir) | KMINA | K10047",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/deambulateurs-2-en-1/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Rollator 4 roues avec siège et dossier",
-            lien: "https://locamed.ma/product/rollator-4-roues-avec-siege-et-dossier/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/AndadorSilla_939x939.jpg?v=1653587778",
             prix: "2 139.89 MAD",
-            titre: "Déambulateur 2 en 1 pour personnes âgées et adultes (noir)",
+            titre: "Déambulateur 2 en 1 pour personnes âgées et adultes (noir) | KMINA | K10047",
             lien: "https://kmina.com/en-int/products/andador-silla-ruedas"
         }
     },
@@ -436,10 +436,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/rollator-en-aluminium-4-roues/"
         },
         itemC: {
-            img: "https://walz-live.cdn.aboutyou.cloud/images/8936af7c5f63f5fd3a01a2bd1959c2cf.jpg?quality=85&width=1200&height=1200",
-            prix: "2 696.29 MAD",
-            titre: "Déambulateur pour arthrite FAKTO+ avec support d'avant-bras",
-            lien: "https://www.walzvital.de/p/dietz-reha-produkte-arthritis-rollator-fakto-mit-unterarmauflage-6699324/"
+            img: "https://ferruccicomfort.fr/cdn/shop/files/61zsCrNIdjL._AC_SL1500.jpg?v=1766046840&width=5000",
+            prix: "1 258.32 MAD",
+            titre: "Rollator 4 Roues Pliable pour Seniors - Déambulateur avec Siège, Panier et Plateau",
+            lien: "https://ferruccicomfort.fr/products/rollator-4-roues-pliable-pour-seniors-deambulateur-avec-siege-panier-et-plateau"
         }
     },
     {
@@ -448,20 +448,20 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Confort-2RuedasNegro1_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Déambulateur d'intérieur Kmina coussin Duo",
+            titre: "Déambulateur adulte à 2 roues et siège viscoélastique, noir | KMINA | K10015",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/le-duo-grip/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Cadre de marche articulé pliant",
-            lien: "https://locamed.ma/product/cadre-de-marche-articule-pliant/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://media.farmacianuriapau.com/product/andador-kmina-2-ruedas-2-tacos-y-asiento-confort-800x800.jpg?width=1200",
-            prix: "962.89 MAD",
-            titre: "Kmina Walker 2 Roues 2 Crampons et Selle Confort Noir",
-            lien: "https://fr.farmacianuriapau.com/kmina-walker-2-roues-2-crampons-et-selle-confort-noir-k10015gris-k10016-b8f8/"
+            prix: "1 085.83 MAD",
+            titre: "Déambulateur adulte à 2 roues et siège viscoélastique, noir | KMINA | K10015",
+            lien: "https://kmina.com/en-int/products/andador-comfort-2ruedas-negro"
         }
     },
     {
@@ -470,19 +470,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/andador_rodilla_PEPE_Mobility_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Déambulateur Kmina le Move Orthopédique",
+            titre: "Déambulateur à genoux, déambulateur orthopédique à genoux | PEPE | P10022",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/le-move-expert/"
         },
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Cadre de marche fixe",
-            lien: "https://locamed.ma/product/cadre-de-marche-fixe/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/andador_rodilla_PEPE_Mobility_939x939.png?v=1739348941",
             prix: "427.89 MAD",
-            titre: "Déambulateur à genoux, déambulateur orthopédique à genoux",
+            titre: "Déambulateur à genoux, déambulateur orthopédique à genoux | PEPE | P10022",
             lien: "https://kmina.com/en-int/products/alquiler-andador-de-rodilla"
         }
     },
@@ -503,7 +503,7 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://www.aidealautonomie.net/80556-pdt_540/rollator-posterieur-kaiman.jpg",
-            prix: "35 203.00 MAD",
+            prix: "3 520,30 MAD",
             titre: "Rollator postérieur Kaiman inversé enfant",
             lien: "https://www.aidealautonomie.net/aides-a-la-marche-enfant/18809-rollator-posterieur-kaiman-8436533452184.html"
         }
@@ -525,7 +525,7 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7sYA3ZVVJTfH_MXvyxRlzCDxZBu0Ej3FXsI3fHimWg&s=10",
-            prix: "8 667.00 MAD",
+            prix: "1 068.93 MAD",
             titre: "Trotteur pour bébé AIR-N",
             lien: "https://www.ortopediamimas.com/ortopedia-infantil/andadores-infantiles/6479-andador-infantil-air-n.html"
         }
@@ -602,19 +602,19 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/49_b9b9593f-e9fc-4309-a65c-b8461b9fa2f3_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Déambulateur d'intérieur Kmina Air Compact",
+            titre: "Déambulateur à 2 roues pour adultes, déambulateurs légers pour seniors | PEPE | P10003",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/pepe-air-compact/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur en Aluminium Bleu",
-            lien: "https://locamed.ma/product/deambulateur-en-aluminium-bleu/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Rollator-2-roues.jpg",
+            prix: "1 200.00 MAD",
+            titre: "Rollator 2 roues",
+            lien: "https://locamed.ma/product/rollator-2-roues/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/49_b9b9593f-e9fc-4309-a65c-b8461b9fa2f3_939x939.png?v=1686756820",
             prix: "641.89 MAD",
-            titre: "Déambulateur à 2 roues pour adultes, déambulateurs légers pour seniors",
+            titre: "Déambulateur à 2 roues pour adultes, déambulateurs légers pour seniors | PEPE | P10003",
             lien: "https://kmina.com/en-int/products/andador-para-adultos-2-ruedas"
         }
     },
@@ -630,8 +630,8 @@ window.produitsData.push(
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Gold",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-gold/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://www.fortasl.es/resizer/image.php/andador-airon-zero-coral.jpg?height=700&image=/bdimages/andador-airon-zero-coral.jpg",
@@ -652,8 +652,8 @@ window.produitsData.push(
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur en Aluminium Noir",
-            lien: "https://locamed.ma/product/deambulateur-en-aluminium-noir/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Fn0TAPvlwy4wQIDPFo3kREXrtnUwGBUXHSaXOMb8A11ehhPt",
@@ -674,8 +674,8 @@ window.produitsData.push(
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Cadre de marche fixe",
-            lien: "https://locamed.ma/product/cadre-de-marche-fixe/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://senior.market/cdn/shop/files/Ara_34569781-e60b-47ba-b12e-d44a5b6936a3_1197x1197.png?v=1745575177",
@@ -696,8 +696,8 @@ window.produitsData.push(
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Rollator 4 roues avec siège",
-            lien: "https://locamed.ma/product/rollator-4-roues-avec-siege/"
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://www.queralto.com/pt/368745-large_default/andarilho-para-idosos-aluminio-4-rodas-dobravel-pistachio-rollatino-forta.jpg",
@@ -712,7 +712,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/57_a17d70bf-bdc6-4f8f-9493-50d2d84a3255_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Cadre de marche Kmina Plume",
+            titre: "Déambulateur pour adultes sans roues (noir), déambulateur en aluminium pour personnes âgées | PEPE | P10012",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/pepe-plume/"
         },
         itemB: {
@@ -724,7 +724,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/57_a17d70bf-bdc6-4f8f-9493-50d2d84a3255_939x939.png?v=1683728635",
             prix: "534.89 MAD",
-            titre: "Déambulateur pour adultes sans roues (noir), déambulateur en aluminium pour personnes âgées",
+            titre: "Déambulateur pour adultes sans roues (noir), déambulateur en aluminium pour personnes âgées | PEPE | P10012",
             lien: "https://kmina.com/en-int/products/andador-adultos-sin-ruedas",
         }
     }

@@ -51,7 +51,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/03/90_107f22d9-9abb-4099-b4c2-2f8d8a9d65a4_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Tabouret de douche Kmina SofeTab",
+            titre: "Tabouret de douche rond pour personnes âgées | PEPE | P30001",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/tabouret-de-douche-sofetab/"
         },
         itemB: {
@@ -63,7 +63,7 @@ window.produitsData.push(
          itemC: {
             img: "https://kmina.com/cdn/shop/files/90_107f22d9-9abb-4099-b4c2-2f8d8a9d65a4_939x939.png?v=1684161468",
             prix: "320,893 MAD",
-            titre: "Tabouret de douche rond pour personnes âgées",
+            titre: "Tabouret de douche rond pour personnes âgées | PEPE | P30001",
             lien: "https://kmina.com/en-int/products/taburete-banera-redondo"
         }
     },
@@ -73,7 +73,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/taburete_redondo_ducha_cojin_2_869x869.webp",
             prix: "0 MAD",
-            titre: "Tabouret de douche Kmina SoftTab",
+            titre: "Tabouret de douche rond (100 kg), tabouret de salle de bain pour seniors | KMINA | K30027",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/tabouret-rond-confort/"
         },
         itemB: {
@@ -85,7 +85,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/taburete_redondo_ducha_cojin_2_939x939.jpg?v=1744872062",
             prix: "641.89 MAD",
-            titre: "Tabouret de douche rond (100 kg), tabouret de salle de bain pour seniors",
+            titre: "Tabouret de douche rond (100 kg), tabouret de salle de bain pour seniors | KMINA | K30027",
             lien: "https://kmina.com/en-int/products/taburete-redondo-bano-ducha"
         }
     },
@@ -95,7 +95,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/105_77a81d54-bb63-4cf6-9c94-714844f28555_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Tabouret de douche Kmina ErgoBain",
+            titre: "Chaise de douche pour seniors avec dossier, siège de douche réglable pour personnes âgées | PEPE | P30003",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/orviva-classic/"
         },
         itemB: {
@@ -107,7 +107,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/105_77a81d54-bb63-4cf6-9c94-714844f28555_939x939.png?v=1684220396",
             prix: "427.89 MAD",
-            titre: "Chaise de douche pour seniors avec dossier, siège de douche réglable pour personnes âgées",
+            titre: "Chaise de douche pour seniors avec dossier, siège de douche réglable pour personnes âgées | PEPE | P30003",
             lien: "https://kmina.com/en-int/products/silla-para-ducha-negra"
         }
     },
@@ -117,7 +117,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/103_4a474aaa-051c-4d64-a176-64756ccb9af7_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Chaise de douche avec accoudoirs Kmina ArmSeat",
+            titre: "Siège de douche pour seniors avec accoudoirs, siège de douche réglable pour personnes âgées | PEPE | P30016",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/orviva-facile-douche/"
         },
         itemB: {
@@ -129,7 +129,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/103_4a474aaa-051c-4d64-a176-64756ccb9af7_939x939.png?v=1684164531",
             prix: "641.89 MAD",
-            titre: "Siège de douche pour seniors avec accoudoirs, siège de douche réglable pour personnes âgées",
+            titre: "Siège de douche pour seniors avec accoudoirs, siège de douche réglable pour personnes âgées | PEPE | P30016",
             lien: "https://kmina.com/en-int/products/silla-para-ducha-negra-reposabrazos"
         }
     },
@@ -139,7 +139,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/184_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Chaise de douche Kmina SerenitySeat",
+            titre: "Chaise de douche rembourrée (150 kg), chaises de bain pour seniors, siège blanc | KMINA | K30017",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/ergo-bain/"
         },
         itemB: {
@@ -151,7 +151,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/184_939x939.png?v=1663838222",
             prix: "962.89 MAD",
-            titre: "Chaise de douche rembourrée (150 kg), chaises de bain pour seniors, siège blanc",
+            titre: "Chaise de douche rembourrée (150 kg), chaises de bain pour seniors, siège blanc | KMINA | K30017",
             lien: "https://kmina.com/en-int/products/silla-comfort-blanca"
         }
     },
@@ -161,7 +161,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/05/Tabourets_chaises-de-douche.jbg_.webp",
             prix: "0 MAD",
-            titre: "Aqua Kmina Style Bois",
+            titre: "Chaise de douche (136 kg), Chaises de salle de bain pour seniors, Assise effet bois | KMINA | K30025",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/aqua-style-bois/"
         },
         itemB: {
@@ -173,7 +173,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/51_939x939.png?v=1671526272",
             prix: "962.89 MAD",
-            titre: "Chaise de douche (136 kg), Chaises de salle de bain pour seniors, Assise effet bois",
+            titre: "Chaise de douche (136 kg), Chaises de salle de bain pour seniors, Assise effet bois | KMINA | K30025",
             lien: "https://kmina.com/en-int/products/silla-ducha-madera"
         }
     },
@@ -205,7 +205,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/96_869x869.webp",
             prix: "0 MAD",
-            titre: "Tabouret de douche Kmina GripSeat",
+            titre: "Tabouret de douche rectangulaire pour personnes âgées | PEPE | P30002",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/tabouret-rectangulaire/"
         },
         itemB: {
@@ -217,7 +217,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/96_939x939.png?v=1684162950",
             prix: "374.39 MAD",
-            titre: "Tabouret de douche rectangulaire pour personnes âgées",
+            titre: "Tabouret de douche rectangulaire pour personnes âgées | PEPE | P30002",
             lien: "https://kmina.com/en-int/products/taburete-ducha-rectangular"
         }
     },
@@ -227,7 +227,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/05/178_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Confort-Bain Kmina150",
+            titre: "Tabouret de douche rembourré (150 kg), tabouret de salle de bain blanc pour seniors | KMINA | K30018",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/orviva-confort-bain-150/"
         },
         itemB: {
@@ -239,7 +239,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/178_939x939.png?v=1663592348",
             prix: "641.89 MAD",
-            titre: "Tabouret de douche rembourré (150 kg), tabouret de salle de bain blanc pour seniors",
+            titre: "Tabouret de douche rembourré (150 kg), tabouret de salle de bain blanc pour seniors | KMINA | K30018",
             lien: "https://kmina.com/en-int/products/taburete-comfort-blanco"
         }
     },
@@ -271,7 +271,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/asiento_banera_asa_blanco_PEPE_Mobility_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Banc de Transfer Kmina BainAccess",
+            titre: "Siège de bain pour adultes avec poignée rembourrée, banc de transfert blanc pour personnes âgées | PEPE | P30026",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/banc-de-transfert-2/"
         },
         itemB: {
@@ -283,7 +283,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/asiento_banera_asa_blanco_PEPE_Mobility_939x939.jpg?v=1739352165",
             prix: "855.89 MAD",
-            titre: "Siège de bain pour adultes avec poignée rembourrée, banc de transfert blanc pour personnes âgées",
+            titre: "Siège de bain pour adultes avec poignée rembourrée, banc de transfert blanc pour personnes âgées | PEPE | P30026",
             lien: "https://kmina.com/en-int/products/asiento-para-banera-blanco-asa-acolchada"
         }
     },
@@ -293,7 +293,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Asiento_Banera_con_asa_KMINA_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Banc de transfert Kmina SoftAccess",
+            titre: "Siège de bain pour adultes avec poignée d'accès facile, banc de transfert rembourré pour baignoire | KMINA | K30036",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/banc-de-transfert/"
         },
         itemB: {
@@ -305,7 +305,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Asiento_Banera_con_asa_KMINA_939x939.png?v=1748872739",
             prix: "2 139.89 MAD",
-            titre: "Siège de bain pour adultes avec poignée d'accès facile, banc de transfert rembourré pour baignoire",
+            titre: "Siège de bain pour adultes avec poignée d'accès facile, banc de transfert rembourré pour baignoire | KMINA | K30036",
             lien: "https://kmina.com/en-int/products/asiento-banera-asa-acolchada"
         }
     },
@@ -315,7 +315,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/1_54210f3b-9334-4c6c-9565-45ec2220e960_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Chaise pivotante Kmina TurnEase",
+            titre: "Chaise de bain pivotante pour seniors, chaise de baignoire à 360° | PEPE | P30013",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/chaise-pivotante/"
         },
         itemB: {
@@ -327,7 +327,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_54210f3b-9334-4c6c-9565-45ec2220e960_939x939.png?v=1684409453",
             prix: "1 069.89 MAD",
-            titre: "",
+            titre: "Chaise de bain pivotante pour seniors, chaise de baignoire à 360° | PEPE | P30013",
             lien: "https://kmina.com/en-int/products/silla-giratoria-bano-360%C2%BA"
         }
     },
@@ -337,7 +337,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/1_51f84ad5-5556-4593-8c91-0fef5f6b883f_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Planche de baignoire Kmina BathBoard",
+            titre: "Planche de baignoire pour adultes, chaise de bain ou siège de bain pour personnes âgées | PEPE | P30020",
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/planche-de-baignoire/"
         },
         itemB: {
@@ -349,7 +349,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_51f84ad5-5556-4593-8c91-0fef5f6b883f_150x150_crop_center.png?v=1686206358",
             prix: "374.39 MAD",
-            titre: "Planche de baignoire pour adultes, chaise de bain ou siège de bain pour personnes âgées",
+            titre: "Planche de baignoire pour adultes, chaise de bain ou siège de bain pour personnes âgées | PEPE | P30020",
             lien: "https://kmina.com/en-int/products/tabla-banera-adulto-75"
         }
     },

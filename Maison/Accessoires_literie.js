@@ -29,7 +29,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Barandilla_cama_abatible_muestra_KMINA_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Barrière de lit pliable Kmina AltaFlex",
+            titre: "Barrière de lit pliable pour adultes avec pieds, réglable | KMINA | K40069",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/pro-barre-de-lit/"
         },
         itemB: {
@@ -41,8 +41,8 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Barandilla_cama_abatible_muestra_KMINA_939x939.png?v=1738933866",
             prix: "1 390.89 MAD",
-            titre: "Barrière de lit pliable pour adultes avec pieds, réglable",
-            lien: "https://kmina.com/en-int/products/barandilla-cama-adulto"
+            titre: "Barrière de lit pliable pour adultes avec pieds, réglable | KMINA | K40069",
+            lien: "https://kmina.com/en-int/products/barandilla-cama-abatible-patas?_pos=1&_sid=68330ca34&_ss=r"
         }
     },
     {
@@ -51,7 +51,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Disenosintitulo_99153ec0-8a88-4a28-b560-b3ac90d68657_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Barrière de lit Kmina BarTray",
+            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 50 cm), barrière antichute, barrière de sécurité | KMINA | K40014",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-lit-adulte-avec-pieds/"
         },
         itemB: {
@@ -63,8 +63,8 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/Disenosintitulo_99153ec0-8a88-4a28-b560-b3ac90d68657_939x939.png?v=1666942739",
             prix: "1 069.89 MAD",
-            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 50 cm), barrière antichute, barrière de sécurité",
-            lien: "https://kmina.com/en-int/products/barandilla-cama-adulto"
+            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 50 cm), barrière antichute, barrière de sécurité | KMINA | K40014",
+            lien: "https://kmina.com/en-int/products/barandilla-cama-adulto?_pos=1&_sid=0ef1e4bbd&_ss=r"
         }
     },
     {
@@ -73,7 +73,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/barandilla-uso-cama_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Barrière de lit Kmina FlexBar",
+            titre: "Barrière de lit pliable pour adultes, barrière de lit réglable | KMINA | K40050",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-lit-pliante/"
         },
         itemB: {
@@ -85,7 +85,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/barandilla-uso-cama_939x939.png?v=1703776692",
             prix: "855.89 MAD",
-            titre: "Barrière de lit pliable pour adultes, barrière de lit réglable",
+            titre: "Barrière de lit pliable pour adultes, barrière de lit réglable | KMINA | K40050",
             lien: "https://kmina.com/en-int/products/barandilla-cama-adulto-abatible"
         }
     },
@@ -95,7 +95,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/barandilla-cama-habitacion_c3d12b85-3d8d-4160-9b71-c45824515954_869x869.webp",
             prix: "0 MAD",
-            titre: "Barrière de lit Kmina SafeBar",
+            titre: "Barrière de lit (hauteur de lit 42 à 54 cm), Barrière de lit rembourrée pour adultes, Barrière de lit noire | PEPE | P40020",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-protection-pour-lit/"
         },
         itemB: {
@@ -107,7 +107,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/barandilla-cama-habitacion_c3d12b85-3d8d-4160-9b71-c45824515954_939x939.png?v=1699525498",
             prix: "641.89 MAD",
-            titre: "Barrière de lit (hauteur de lit 42 à 54 cm), Barrière de lit rembourrée pour adultes, Barrière de lit noire",
+            titre: "Barrière de lit (hauteur de lit 42 à 54 cm), Barrière de lit rembourrée pour adultes, Barrière de lit noire | PEPE | P40020",
             lien: "https://kmina.com/en-int/products/barandilla-protectora-cama-negra"
         }
     },
@@ -117,7 +117,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/03/161_c20d6ac6-cd9c-4975-8d2c-e475df80d035_869x869.webp",
             prix: "0 MAD",
-            titre: "Le Relève-Buste réglable pour Lit",
+            titre: "Dossier pour lits pour personnes âgées (25-80°), lit avec dossier intégré | PEPE | P40007",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/le-releve-buste-reglable-pour-lit/"
         },
         itemB: {
@@ -129,7 +129,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/161_c20d6ac6-cd9c-4975-8d2c-e475df80d035_939x939.png?v=1684487493",
             prix: "641.89 MAD",
-            titre: "Dossier pour lits pour personnes âgées (25-80°), lit avec dossier intégré",
+            titre: "Dossier pour lits pour personnes âgées (25-80°), lit avec dossier intégré | PEPE | P40007",
             lien: "https://kmina.com/en-int/products/respaldo-para-cama"
         }
     },
@@ -227,7 +227,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/03/cojin_oreja_azul_defrente_869x869.webp",
             prix: "0 MAD",
-            titre: "Oreiller chondrodermatite",
+            titre: "Coussin pour les oreilles, coussin pour chondrodermatite, coussin de soulagement des oreilles, bleu | KMINA | K40053",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/oreiller-chondrodermatite/"
         },
         itemB: {
@@ -239,7 +239,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/cojin_oreja_azul_939x939.png?v=1690531181",
             prix: "374.39 MAD",
-            titre: "Coussin pour les oreilles, coussin pour chondrodermatite, coussin de soulagement des oreilles, bleu",
+            titre: "Coussin pour les oreilles, coussin pour chondrodermatite, coussin de soulagement des oreilles, bleu | KMINA | K40053",
             lien: "https://kmina.com/en-int/products/almohada-agujero-oreja-azul"
         }
     },
@@ -249,7 +249,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/03/almohada-oreja_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Coussin anti-escarres Kmina pour chondrodermatite",
+            titre: "Coussin d'oreille à scratch avec trou, coussin anti-escarres pour chondrodermatite | KMINA | K40051",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/coussin-anti-escarres-pour-chondrodermatite/"
         },
         itemB: {
@@ -261,7 +261,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Uso_nuevamodelo_fondoblanco_939x939.png?v=1779095578",
             prix: "213.89 MAD",
-            titre: "Coussin d'oreille à scratch avec trou, coussin anti-escarres pour chondrodermatite",
+            titre: "Coussin d'oreille à scratch avec trou, coussin anti-escarres pour chondrodermatite | KMINA | K40051",
             lien: "https://kmina.com/en-int/products/almohada-agujero-oreja-velcro"
         }
     },
@@ -271,7 +271,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/174_0f3baca4-7528-4af8-ace8-d19a171622fc_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Kmina Cuvette de lit",
+            titre: "Cale pour urinoir, urinoir adulte | PEPE | P40005",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/cuvette-de-lit/"
         },
         itemB: {
@@ -283,7 +283,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/174_0f3baca4-7528-4af8-ace8-d19a171622fc_939x939.png?v=1684490458",
             prix: "149.69 MAD",
-            titre: "Cale pour urinoir, urinoir adulte",
+            titre: "Cale pour urinoir, urinoir adulte | PEPE | P40005",
             lien: "https://kmina.com/en-int/products/cuna-para-orinar-blanca"
         }
     },

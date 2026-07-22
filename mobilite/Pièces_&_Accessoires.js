@@ -7,7 +7,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/141_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Coussin pour fauteuil roulant Visco (L-XL)",
+            titre: "Coussin anti-escarres pour fauteuil roulant (41 x 41 x 7 cm, haute densité), coussins viscoélastiques pour seniors | KMINA | K40011",
             lien: "https://orviva.ma/boutique/mobilite/accessoires-pieces-optionnelles/wheelchair-cushion-visco-1-and-2-2/"
         },
         itemB: {
@@ -19,7 +19,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/141_939x939.png?v=1652871679",
             prix: "534.89 MAD",
-            titre: "Coussin anti-escarres pour fauteuil roulant (41 x 41 x 7 cm, haute densité), coussins viscoélastiques pour seniors",
+            titre: "Coussin anti-escarres pour fauteuil roulant (41 x 41 x 7 cm, haute densité), coussins viscoélastiques pour seniors | KMINA | K40011",
             lien: "https://kmina.com/en-int/products/cojin-antiescaras-alta-densidad"
         }
     },
@@ -29,7 +29,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/100_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Coussin pour fauteuil roulant Visco + pu",
+            titre: "Coussin anti-escarres pour fauteuil roulant (42 x 42 x 8 cm, faible densité), coussins viscoélastiques pour personnes âgées (PU + VISCO) | KMINA | K40003",
             lien: "https://orviva.ma/boutique/mobilite/accessoires-pieces-optionnelles/coussin-pour-fauteuil-roulant-visco-pu/"
         },
         itemB: {
@@ -51,7 +51,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/55_869x869.webp",
             prix: "0 MAD",
-            titre: "Coussin de fauteuil roulant en forme de beignet",
+            titre: "Coussin rond anti-escarres avec trou (42,5 x 42,5 x 9 cm, haute densité), coussins viscoélastiques pour personnes âgées | KMINA | K40017",
             lien: "https://orviva.ma/boutique/mobilite/accessoires-pieces-optionnelles/coussin-de-fauteuil-roulant-en-forme-de-beignet/"
         },
         itemB: {
@@ -63,7 +63,7 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/products/55_939x939.png?v=1653567296",
             prix: "534.89 MAD",
-            titre: "Coussin rond anti-escarres avec trou (42,5 x 42,5 x 9 cm, haute densité), coussins viscoélastiques pour personnes âgées",
+            titre: "Coussin rond anti-escarres avec trou (42,5 x 42,5 x 9 cm, haute densité), coussins viscoélastiques pour personnes âgées | KMINA | K40017",
             lien: "https://kmina.com/en-int/products/cojin-antiescaras-redondo"
         }
     },
