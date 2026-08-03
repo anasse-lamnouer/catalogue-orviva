@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/protection-et-hygiene/protecteur-de-couche/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/08/Couches-Pour-Adultes-Indaslip%C2%AE-10-gouttes-3-768x538.png.webp",
+            prix: "280.00 Dh",
+            titre: "Couches Pour Adultes Indaslip® 10+ gouttes",
+            lien: "https://locamed.ma/product/couches-pour-adultes-indaslip-10-gouttes-2/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/84_9f0807de-dc9e-456c-9765-8c06ac52bb62_939x939.png?v=1673509283",

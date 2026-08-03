@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/protections-de-literie/drap-housse-impermeable/"
         },
         itemB: {
-            img: "https://locamed.ma/wp-content/uploads/2018/01/Produit-ecom-94-768x538.webp",
-            prix: "17 500.00 MAD",
-            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence",
-            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            prix: "0.00 MAD",
+            titre: "",
+            lien: ""
         },
         itemC: {
             img: "https://media.castorama.fr/is/image/Castorama/drap-housse-en-coton-57-fils-180x200-cm-uni-vert-d-eau-par-soleil-d-ocre~3615436158491_02c_MP?$MOB_PREV$&$width=1200&$height=1200",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/protections-de-literie/drap-housse-impermeable-avec-bonnets-impermeables-select/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/09/Alese-pour-matelas-anti-escarres2.jpg",
+            prix: "190.00 MAD",
+            titre: "Alèse lavable Pour Matelas Anti-escarres",
+            lien: "https://locamed.ma/product/alese-pour-matelas-anti-escarres/"
         },
         itemC: {
             img: "https://www.topfactory.es/productos/imagenes/img_17811_93212c718a996eb5019db871f90ac5b2_20.png",
@@ -127,7 +127,7 @@ window.produitsData.push(
             lien: ""
         },
         itemC: {
-            img: "https://www.techniciendesante.fr/4410410-large_default/housse-de-couette-impermeable-200-x-200-cm.jpg",
+            img: "https://www.techniciendesante.fr/4460815-large_default/housse-de-couette-impermeable-200-x-200-cm.jpg",
             prix: "1 026.13 MAD",
             titre: "Housse de couette imperméable 200 x 200 cm",
             lien: "https://www.techniciendesante.fr/confort-et-vie-quotidienne/11292-housse-de-couette-impermeable-200-x-200-cm.html"
@@ -260,7 +260,7 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://www.capvital.fr/media/catalog/product/cache/67033ba6e3d347c497daad4c4a5658f6/1/1/1120252010.jpg",
-            prix: " MAD",
+            prix: "266.43 MAD",
             titre: "Alèse matelas - Lavable - 85 x 90 cm - Winncare",
             lien: "https://www.capvital.fr/aleses-de-lit-douceur-sans-rabat-85-x-90-cm.html"
         }
@@ -275,10 +275,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/protections-de-literie/alese-reutilisable-90cm/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/09/Alese-pour-matelas-anti-escarres2.jpg",
+            prix: "190.00 MAD",
+            titre: "Alèse lavable Pour Matelas Anti-escarres",
+            lien: "https://locamed.ma/product/alese-pour-matelas-anti-escarres/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Empapadorcama_939x939.png?v=1690462949",

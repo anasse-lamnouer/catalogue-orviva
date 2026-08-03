@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-premium-xl-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-bonn.jpg",
+            prix: "5 490.00 MAD",
+            titre: "Chaise de douche et garde-robe bonn",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-bonn/"
         },
         itemC: {
             img: "https://www.medicaleshop.com/_next/image?url=https%3A%2F%2Fcdn.medicaleshop.com%2Fff0b698f-4846-4211-afc4-5787c9f7819d_CLA1641994_image-0.jpg&w=1920&q=75",
@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-premium-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-bonn.jpg",
+            prix: "5 490.00 MAD",
+            titre: "Chaise de douche et garde-robe bonn",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-bonn/"
         },
         itemC: {
             img: "https://medaco.co.uk/wp-content/uploads/2022/03/OceanErgo-1.jpg",
@@ -55,13 +55,13 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/fauteuil-roulant-de-douche-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Fauteuil-roulant-garde-robe.jpg",
+            prix: "2 780.00 MAD",
+            titre: "Fauteuil roulant Aluminium garde robe",
+            lien: "https://locamed.ma/product/fauteuil-roulant-garde-robe/"
         },
         itemC: {
-            img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfSsAf--y-ThBO0rhtjFCyuJKsHln9-Q7ywrn4sC3LQvfIj25W",
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Fauteuil-roulant-garde-robe.jpg.webp",
             prix: "4 493.57 MAD",
             titre: "CHAISE DE BAIN ET TOILETTES LIMA H273",
             lien: "https://lojaortopedica.pt/fr/chaise-de-douche-et-toilettes-h273"
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Fauteuil-roulant-garde-robe.jpg",
+            prix: "2 780.00 MAD",
+            titre: "Fauteuil roulant Aluminium garde robe",
+            lien: "https://locamed.ma/product/fauteuil-roulant-garde-robe/"
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NTFz-We8i4N_i5tY8RoZpL3n6rruXQzB9VmVHxBoZSB0O_Wq",
@@ -99,10 +99,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/fauteuil-roulant-de-douche-perce-dietz-en-aluminium/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-bonn.jpg",
+            prix: "5 490.00 MAD",
+            titre: "Chaise de douche et garde-robe bonn",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-bonn/"
         },
         itemC: {
             img: "https://www.feneticwellbeing.com/cdn/shop/files/self_propel_shower_commode_chair_1.jpg?v=1749719203&width=1125",
@@ -121,10 +121,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-percee-dietz-en-aluminium/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-bonn.jpg",
+            prix: "5 490.00 MAD",
+            titre: "Chaise de douche et garde-robe bonn",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-bonn/"
         },
         itemC: {
             img: "https://www.kuhnbieri.ch/media/2b/b8/17/1768986041/DI140021_Levina_320-2-Dusch-Toilettenschieberollstuhl.jpg",
@@ -143,10 +143,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/aqua-liberty/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/01/Chaise-fauteuil-garde-avec-grandes-roues-pose-pieds.png",
+            prix: "5 500.00 MAD",
+            titre: "Chaise fauteuil garde avec grandes roues + pose pieds",
+            lien: "https://locamed.ma/product/chaise-de-douche-moem/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-autopropulsable-azul-KMINA_939x939.png?v=1739884949",
@@ -165,10 +165,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/aqua-wc-confort/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-en-aluminium-Obana1.jpg",
+            prix: "2 450.00 MAD",
+            titre: "Chaise de douche et garde-robe en aluminium Obana",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-en-aluminium-obana/?srsltid=AfmBOopCC87IBNCtm6vX1_fAyxQbdplLRSpTchGNSwp9oFV3irBo_-Lx"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/IMG_8492-min_939x982.jpg?v=1703865512",
@@ -187,10 +187,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/tsu-4-mobilite-dignite/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-en-aluminium-Obana1.jpg",
+            prix: "2 450.00 MAD",
+            titre: "Chaise de douche et garde-robe en aluminium Obana",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-en-aluminium-obana/?srsltid=AfmBOopCC87IBNCtm6vX1_fAyxQbdplLRSpTchGNSwp9oFV3irBo_-Lx"
         },
         itemC: {
             img: "https://www.felgains.com/app/uploads/2020/10/FEL40-175-Mobile-Commode_1-1150x1536.jpg",
@@ -209,10 +209,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-2-freins-dietz/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-garde-robe.jpg",
+            prix: "1 250.00 MAD",
+            titre: "Chaise garde-robe",
+            lien: "https://locamed.ma/product/chaise-garde-robe/?srsltid=AfmBOopVYFrDurFv9fKhn7_lijyA5DyFldXi6S2ZJ5XH7KBnyrU0eRyd"
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxehMvNWYcTPxk2u7ITUxRmzur9DVUJopPUhmFUMV6Ig&s=10",

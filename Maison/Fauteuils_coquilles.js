@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/fauteuils-coquilles/fauteuil-coquille-vermerein/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2026/04/png-8-768x538.webp",
+            prix: "10 800.00 MAD",
+            titre: "Fauteuil coquille ELYSEE Gris",
+            lien: "https://locamed.ma/product/fauteuil-coquille-elysee-gris/"
         },
         itemC: {
             img: "https://www.johnpreston.co.uk/media/catalog/product/cache/4abe7fab55d08c76b1a18b21d7554da5/s/h/shxm.02_-_2025-01-22t114904.121.jpg",
@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/fauteuils-coquilles/fauteuil-coquille-electrique-vermerein/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/05/Fauteuil-coquille-essentiel-manuel-Cacao.png1_-768x538.png.webp",
+            prix: "8 990.00 MAD",
+            titre: "Fauteuil Coquille Essentiel Manuel Cacao",
+            lien: "https://locamed.ma/product/fauteuil-coquille-essentiel-manuel-cacao/?srsltid=AfmBOoqX0giMAUvVw31IE4epUc-xtpJi_Eixk38pXWtO7u-1PNMBzuBL"
         },
         itemC: {
             img: "https://handimed.fr/img/p/1/2/5/7/1257.jpg",
@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/fauteuils-coquilles/fauteuil-coquille-coraille/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/05/Fauteuil-coquille-essentiel-manuel-Cacao.png1_-768x538.png.webp",
+            prix: "8 990.00 MAD",
+            titre: "Fauteuil Coquille Essentiel Manuel Cacao",
+            lien: "https://locamed.ma/product/fauteuil-coquille-essentiel-manuel-cacao/?srsltid=AfmBOoqX0giMAUvVw31IE4epUc-xtpJi_Eixk38pXWtO7u-1PNMBzuBL"
         },
         itemC: {
             img: "https://behelzi.com/wp-content/uploads/2025/10/coraille3.png",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/fauteuils-coquilles/fauteuil-coquille-coraille-e/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/05/Fauteuil-coquille-essentiel-manuel-Cacao.png1_-768x538.png.webp",
+            prix: "8 990.00 MAD",
+            titre: "Fauteuil Coquille Essentiel Manuel Cacao",
+            lien: "https://locamed.ma/product/fauteuil-coquille-essentiel-manuel-cacao/?srsltid=AfmBOoqX0giMAUvVw31IE4epUc-xtpJi_Eixk38pXWtO7u-1PNMBzuBL"
         },
         itemC: {
             img: "https://www.sofamed.com/medias/siege-coquille-manuel-coraille-2.jpg",

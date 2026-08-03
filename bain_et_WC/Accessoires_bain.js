@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/accessoires-de-salle-de-bain/coussin-de-tabouret/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Photos-site-26.webp",
+            prix: "470.00 MAD",
+            titre: "Chaise de douche sans dossier pliable Aluminium",
+            lien: "https://locamed.ma/product/chaise-de-douche-pliable/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/CojinTabureteBano2_939x939.jpg?v=1748872825",

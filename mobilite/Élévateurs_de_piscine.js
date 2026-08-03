@@ -84,7 +84,7 @@ window.produitsData.push(
             lien: ""
         },
         itemC: {
-            img: "https://www.ortopediamimas.com/22949-large_default/elevador-para-piscina-metalu-turia.jpg",
+            img: "../assets/AQZQA.jpg",
             prix: "46 780,40 MAD",
             titre: "Élévateur de piscine Metalu Turia",
             lien: "https://www.ortopediamimas.com/gruas-hospitalarias/gruas-piscinas/5521-elevador-para-piscina-metalu-turia.html"

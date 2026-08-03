@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/non-classe/scooter-whill-3-roues-2/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique2-1-600x453.jpg.webp",
+            prix: "28 500.00 MAD",
+            titre: "Fauteuil roulant électrique Scooter Sapphire",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-sapphire-2/?srsltid=AfmBOookvlnaZGkD9BplzuOqCoIWnb3FvBkfd-yVO5f9Fzbyk0xuqkRS"
         },
         itemC: {
             img: "https://whill.inc/us/wp-content/uploads/2025/06/Model-R3-product-1.webp",
@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/scooter-whill-4-roues-2/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique2-1-600x453.jpg.webp",
+            prix: "28 500.00 MAD",
+            titre: "Fauteuil roulant électrique Scooter Sapphire",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-sapphire-2/?srsltid=AfmBOookvlnaZGkD9BplzuOqCoIWnb3FvBkfd-yVO5f9Fzbyk0xuqkRS"
         },
         itemC: {
             img: "https://www.hammer-international.de/cdn/shop/files/R3_005_720x.jpg?v=1741873445",
@@ -57,14 +57,14 @@ window.produitsData.push(
         itemB: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            titre: "",
+            lien: ""
         },
         itemC: {
-            img: "https://www.hohomedical.com/cdn/shop/files/RobooterQ40productfront.jpg?v=1771236164&width=1800",
-            prix: "175 657.88 MAD",
-            titre: "Scooter électrique intelligent Robooter Q40 pour seniors",
-            lien: "https://www.hohomedical.com/products/robooter-q40"
+            img: "https://medias.fortress.com.hk/publishing/FTRHK-14127432-FRONT-zoom.png?version=1780665964&imageresize=440_440",
+            prix: "22 380.00 MAD",
+            titre: "Scooter de mobilité intelligent Q40",
+            lien: "https://www.fortress.com.hk/en/product/q40-smart-mobility-scooter/p/BP_14127432?variant=14127432"
         }
     },
     {
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-pliable-europe/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique2-1-600x453.jpg.webp",
+            prix: "28 500.00 MAD",
+            titre: "Fauteuil roulant électrique Scooter Sapphire",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-sapphire-2/?srsltid=AfmBOookvlnaZGkD9BplzuOqCoIWnb3FvBkfd-yVO5f9Fzbyk0xuqkRS"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Scooter_Electrico_Blanco_Adultos_ligero_939x939.jpg?v=1776770446",
@@ -94,15 +94,15 @@ window.produitsData.push(
         sousCategorie: "Scooters électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/04/ScooterElectricoTodoterrenoMayores_2400x2400_crop_center.webp",
-            prix: "0 MAD",
+            prix: "38000.00 MAD",
             titre: "Trottinette électrique tout-terrain pour adultes | KMINA | K10073",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-force-autonome/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique-scooter-600x453.jpg.webp",
+            prix: "24 500.00 MAD",
+            titre: "Fauteuil roulant électrique scooter",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/ScooterElectricoTodoterrenoMayores_939x939.jpg?v=1753456600",
@@ -121,10 +121,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-vermerein-pliable/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique-scooter-600x453.jpg.webp",
+            prix: "24 500.00 MAD",
+            titre: "Fauteuil roulant électrique scooter",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter/"
         },
         itemC: {
             img: "https://accesshub.at/wp-content/uploads/2025/05/ONE-25AH-Air-tires-3Q-view-1024x912.jpg.webp",
@@ -143,7 +143,7 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique-scooter-600x453.jpg.webp",
             prix: "24 500.00 MAD",
             titre: "Fauteuil roulant électrique scooter",
             lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter/"
@@ -182,19 +182,19 @@ window.produitsData.push(
         sousCategorie: "Scooters électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Principalalternativa_869x869.webp",
-            prix: "0 MAD",
+            prix: "13500.00 MAD",
             titre: "Trottinette électrique pour adultes | PEPE | P10044",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-europe/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique-Scooter-Little-GEM-2-1.jpg",
             prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            titre: "Fauteuil roulant électrique Scooter Little GEM 2",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-little-gem-2/ "
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Principalalternativa_939x939.png?v=1776770545",
-            prix: "11 769.89 MAD",
+            prix: "16 500.00 MAD",
             titre: "Trottinette électrique pour adultes | PEPE | P10044",
             lien: "https://kmina.com/en-int/products/scooter-electrico-para-adultos"
         }

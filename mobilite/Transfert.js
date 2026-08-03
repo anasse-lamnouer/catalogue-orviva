@@ -28,15 +28,15 @@ window.produitsData.push(
         sousCategorie: "Transfert",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Silla_de_transferencia_elevadora_PEPE_Mobility_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "4 050.00 MAD",
             titre: "Fauteuil de transfert, fauteuil releveur pour le transfert des personnes âgées et des patients | PEPE | P40032",
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/levee-de-la-position-assise-a-la-position-debout/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Verticalisateur-roulant-Dynamico-3-adolescent-interieur-.jpg",
+            prix: "9 900.00 MAD",
+            titre: "Verticalisateur roulant Dynamico 3 , adolescent ( intérieur )",
+            lien: "https://locamed.ma/product/verticalisateur-roulant-dynamico-3-adolescent-interieur/?srsltid=AfmBOoqcOcDYnJ3LMDsaL8Uaj_Db3xyL6zmQOYeDLWU-hp8B9q86_hjZ"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Silla_de_transferencia_elevadora_PEPE_Mobility_939x939.png?v=1739350199",
@@ -50,15 +50,15 @@ window.produitsData.push(
         sousCategorie: "Transfert",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/silla-transferencia-KMINA_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "5350.00 MAD",
             titre: "Chaise de transfert pour personnes âgées (hauteur d'assise réglable jusqu'à 58 cm), chaise de toilette à roulettes larges pour personnes âgées | KMINA | K40064",
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/chair-de-transfert/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Fauteuil-roulant-de-transfert-hydraulique-manuel.jpg",
+            prix: "8 500.00 MAD",
+            titre: "Fauteuil roulant de transfert hydraulique manuel",
+            lien: "https://locamed.ma/product/fauteuil-roulant-de-transfert-hydraulique-manuel/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-transferencia-KMINA_939x939.png?v=1739884349",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/fauteuil-roulant-manuel-de-transfert-vermeiren-bobby-evo/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliant-Unix-2.jpg.webp",
+            prix: "3 550.00 MAD",
+            titre: "Fauteuil roulant pliant Unix 2",
+            lien: "https://locamed.ma/product/fauteuil-roulant-pliant-unix-2/"
         },
         itemC: {
             img: "https://www.helanzorgwinkel.be/web/image/product.product/33207/image_1024/%5B044162%5D%20Fauteuil%20roulant%20pliant%20l%C3%A9ger%20Bobby%20Evo%20%2842cm%29?unique=a95d34c",
@@ -99,10 +99,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/fauteuil-roulant-manuel-swifttransfer/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/08/Fauteuil-de-transfert-en-aluminium-Noir.jpg",
+            prix: "2 550.00 MAD",
+            titre: "Fauteuil de transfert en aluminium Noir",
+            lien: "https://locamed.ma/product/fauteuil-de-transfert-en-aluminium-noir/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-ruedas-estrecha_939x939.png?v=1698072703",
@@ -138,19 +138,19 @@ window.produitsData.push(
         sousCategorie: "Transfert",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Silla_Salvaescaleras_Manual_producto_PEPE_Mobility_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "2 450.00 MAD",
             titre: "Monte-escalier manuel, chaise d'escalier, chaise d'évacuation pliante noire | PEPE | P40031",
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/monte-escales-manuel/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/08/Fauteuil-de-transfert-en-aluminium-Noir.jpg",
+            prix: "2 550.00 MAD",
+            titre: "Fauteuil de transfert en aluminium Noir",
+            lien: "https://locamed.ma/product/fauteuil-de-transfert-en-aluminium-noir/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Silla_Salvaescaleras_Manual_producto_PEPE_Mobility_939x939.png?v=1739353127",
-            prix: "21 38.25 MAD",
+            prix: "2 138.25 MAD",
             titre: "Monte-escalier manuel, chaise d'escalier, chaise d'évacuation pliante noire | PEPE | P40031",
             lien: "https://kmina.com/en-int/collections/silla-transferencia-adultos/products/silla-salvaescaleras"
         }
@@ -187,10 +187,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/courroie-de-transfert/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/05/1-1-768x580.jpg.webp",
+            prix: "399.00 MAD",
+            titre: "Ceinture de Transfert Patient",
+            lien: "https://locamed.ma/product/ceinture-de-transfert-patient/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Cinturon_transferencia_producto_PEPE_Mobility_939x939.png?v=1738327648",
@@ -292,15 +292,15 @@ window.produitsData.push(
         sousCategorie: "Transfert",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/1_59870729-85c8-4a83-8d9d-a959b06feb8e_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "585.00 MAD",
             titre: "Oreiller rotatif pour personnes âgées, dispositif de retournement de lit | PEPE | P40013",
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/urinoir/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/10/Coussin-de-retournement.jpg",
+            prix: "395.00 MAD",
+            titre: "Coussin de retournement",
+            lien: "https://locamed.ma/product/coussin-de-retournement/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_59870729-85c8-4a83-8d9d-a959b06feb8e_939x939.png?v=1684853805",

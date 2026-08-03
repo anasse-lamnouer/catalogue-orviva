@@ -29,7 +29,7 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_55_Silla_Ruedas_KMINA_PRO_Transporte_Blanco_plegable_869x869.jpg",
-            prix: "0 MAD",
+            prix: "7 200.00.0 MAD",
             titre: "Fauteuil roulant pliant léger, fauteuil roulant de transport, blanc | KMINA PRO | K10083",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/la-plume-pro/"
         },
@@ -57,10 +57,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-de-transfert-vermerein/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Fauteuil roulant adulte avec repose-pieds démontables",
-            lien: "https://locamed.ma/product/fauteuil-adulte-avec-reposes-pieds-demontables/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliant-Unix-2.jpg.webp",
+            prix: "3 550.00 MAD",
+            titre: "Fauteuil roulant pliant Unix 2",
+            lien: "https://locamed.ma/product/fauteuil-roulant-pliant-unix-2/"
         },
         itemC: {
             img: "https://www.rolstoelen.shop/wp-content/uploads/web_Bobby-EVO-3Q-view.jpeg",
@@ -121,15 +121,15 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Silla_Ruedas_KMINA_PRO_Autopropulsable_Blanco_principal_2400x2400_crop_center.webp",
-            prix: "0 MAD",
+            prix: "8 500.00 MAD",
             titre: "Fauteuil roulant pliant autopropulsé léger, fauteuils roulants autopropulsés, blanc | KMINA PRO | K10085",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/litemove-pro/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliant-Basix-2-dossier-fixe-1-1.jpg.webp",
+            prix: "6 590.00 MAD",
+            titre: "Fauteuil roulant pliant Basix 2 ( Dossier inclinable )",
+            lien: "https://locamed.ma/product/fauteuil-roulant-pliant-basix-2-dossier-inclinable/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Silla_Ruedas_KMINA_PRO_Autopropulsable_Horizontal_ruedas_PREMIO-04_939x939.png?v=1768981057",
@@ -172,10 +172,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-roulant-de-confort-leger-et-pliable-premium-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-aluminium-Relax-1.jpg.webp",
+            prix: "16 950.00 MAD",
+            titre: "Fauteuil roulant aluminium RelaX² ",
+            lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-relax/"
         },
         itemC: {
             img: "https://www.ability-plus.co.uk/cdn/shop/files/3_NG_1.jpg?v=1760083275&width=800",
@@ -287,10 +287,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-roulant-modulaire-junior-care/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Poussette-en-aluminium-pour-enfant-handicape.jpg",
+            prix: "4 150.00 MAD",
+            titre: "Poussette en aluminium pour enfant handicapé",
+            lien: "https://locamed.ma/product/poussette-en-aluminium-pour-enfant-handicape/"
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmTxcwiit3ctCO_jQCdDOEUM3VLGP4HyxOEsE0RqSeA&s=10",
@@ -310,10 +310,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-enfant-actif-vermeiren/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Poussette-en-aluminium-pour-enfant-handicape.jpg",
+            prix: "4 150.00 MAD",
+            titre: "Poussette en aluminium pour enfant handicapé",
+            lien: "https://locamed.ma/product/poussette-en-aluminium-pour-enfant-handicape/"
         },
         itemC: {
             img: "https://www.techniciendesante.fr/4027631-large_default/fauteuil-roulant-manuel-actif-pediatrique-sagitta-kids-vermeiren.jpg",
@@ -397,15 +397,15 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_41_sillaruedasautopropulsable_a15b542f-f1fa-4662-9f26-42dce5c5c43a_869x869-e1780916769903.png",
-            prix: "0 MAD",
+            prix: "2 760.00 MAD",
             titre: "Fauteuil roulant manuel (largeur d'assise 46 cm), fauteuil roulant pliable pour personnes âgées | PEPE | P10034",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/pepe-classique-autopropulsable/"
         },
         itemB: {
-            img: "https://locamed.ma/wp-content/uploads/2025/01/Fauteuil-Roulant-Aluminium-Pliable-%E2%80%93-Leger-Confortable-et-Pratique-Ce-fauteuil-roulant-manuel-allie-legerete-confort-et-robustesse-pour-offrir-une-experience-optimale-aux-utilisateurs.-Concu-av-1-768x538.webp",
-            prix: "3 200.00 MAD",
-            titre: "Fauteuil Roulant Aluminium Pliable",
-            lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-pliable/?srsltid=AfmBOoprkNUYG8JPDnFyGNF1B2LuzLVKg8lm-foIKzIRI4vOfKXNZNpZ"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-BREEZY-90-grandes-roues-1-1.webp",
+            prix: "2 350.00 MAD",
+            titre: "Fauteuil BREEZY 90 petites roues",
+            lien: "https://locamed.ma/product/fauteuil-breezy-90-petites-roues/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/sillaruedasautopropulsable_fff5d45b-9f20-490a-89c1-c9c848b7ee40_939x939.png?v=1720449248",
@@ -448,10 +448,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/liberte-max/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/01/Fauteuil-Roulant-Aluminium-Pliable-%E2%80%93-Leger-Confortable-et-Pratique-Ce-fauteuil-roulant-manuel-allie-legerete-confort-et-robustesse-pour-offrir-une-experience-optimale-aux-utilisateurs.-Concu-av-1-768x538.webp",
+            prix: "3 200.00 MAD",
+            titre: "Fauteuil Roulant Aluminium Pliable",
+            lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-pliable/?srsltid=AfmBOoprkNUYG8JPDnFyGNF1B2LuzLVKg8lm-foIKzIRI4vOfKXNZNpZ"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/sillaruedasautopropulsable_a15b542f-f1fa-4662-9f26-42dce5c5c43a_939x939.png?v=1698421975",
@@ -460,27 +460,48 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/silla-de-ruedas-todoterreno"
         }
     },
- 
     {
         categorie: "Mobilite",
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_91_Silla_RUEDAS_TODOTERRENO_10grados_40228392-57cf-4bb1-83b9-9af0495c1486_869x869-1-e1780917546782.jpg",
-            prix: "0 MAD",
+            prix: "4 400.00 MAD",
             titre: "Fauteuil roulant pliable léger en aluminium pour seniors (largeur d'assise 46 cm), Fauteuils roulants pour personnes âgées | KMINA | K10078",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-roulant-tout-terrain-pliable-silla-a-roues/"
         },
         itemB: {
-            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliable-avec-releve-jambes-768x538.webp",
-            prix: "1 250.00 MAD",
-            titre: "Fauteuil roulant adulte avec repose-pieds démontables",
-            lien: "https://locamed.ma/product/fauteuil-adulte-avec-reposes-pieds-demontables/"
+            img: "https://locamed.ma/wp-content/uploads/2025/01/Fauteuil-Roulant-Aluminium-Pliable-%E2%80%93-Leger-Confortable-et-Pratique-Ce-fauteuil-roulant-manuel-allie-legerete-confort-et-robustesse-pour-offrir-une-experience-optimale-aux-utilisateurs.-Concu-av-1-768x538.webp",
+            prix: "3 200.00 MAD",
+            titre: "Fauteuil Roulant Aluminium Pliable",
+            lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-pliable/?srsltid=AfmBOoprkNUYG8JPDnFyGNF1B2LuzLVKg8lm-foIKzIRI4vOfKXNZNpZ"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla_de_ruedas_aluminio_2_939x939.jpg?v=1770196915",
             prix: "4 421.56 MAD",
             titre: "Fauteuil roulant pliable léger en aluminium pour seniors (largeur d'assise 46 cm), Fauteuils roulants pour personnes âgées | KMINA | K10078",
-            lien: "https://kmina.com/en-int/collections/sillas-ruedas/products/silla-de-ruedas-plegable-y-ligera-para-ancianos-ancho-asiento-46-cm-sillas-de-ruedas-para-personas-mayores-kmina-k10078"
+            lien: "https://kmina.com/en-int/products/silla-de-ruedas-plegable-y-ligera-para-ancianos-ancho-asiento-46-cm-sillas-de-ruedas-para-personas-mayores-kmina-k10078?_pos=18&_sid=5427ec513&_ss=r"
+        }
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Fauteuils roulants manuels",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_91_Silla_RUEDAS_TODOTERRENO_10grados_40228392-57cf-4bb1-83b9-9af0495c1486_869x869-1-e1780917546782.jpg",
+            prix: "4 400.00 MAD",
+            titre: "Fauteuil roulant pliable léger en aluminium pour seniors (largeur d'assise 43 cm), Fauteuils roulants pour personnes âgées | KMINA | K10079",
+            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-roulant-tout-terrain-pliable-silla-a-roues/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2025/01/Fauteuil-Roulant-Aluminium-Pliable-%E2%80%93-Leger-Confortable-et-Pratique-Ce-fauteuil-roulant-manuel-allie-legerete-confort-et-robustesse-pour-offrir-une-experience-optimale-aux-utilisateurs.-Concu-av-1-768x538.webp",
+            prix: "3 200.00 MAD",
+            titre: "Fauteuil Roulant Aluminium Pliable",
+            lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-pliable/?srsltid=AfmBOoprkNUYG8JPDnFyGNF1B2LuzLVKg8lm-foIKzIRI4vOfKXNZNpZ"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/silla_de_ruedas_aluminio_2_939x939.jpg?v=1770196915",
+            prix: "4 421.56 MAD",
+            titre: "Fauteuil roulant pliable léger en aluminium pour seniors (largeur d'assise 43 cm), Fauteuils roulants pour personnes âgées | KMINA | K10079",
+            lien: "https://kmina.com/en-int/products/silla-de-ruedas-plegable-y-ligera-de-aluminio-para-ancianos-ancho-asiento-43-cm-sillas-de-ruedas-para-personas-mayores-kmina-k10079?_pos=9&_sid=5427ec513&_ss=r"
         }
     },
     {
@@ -488,15 +509,15 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/silla-ruedas-estrecha_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "1 495.00 MAD",
             titre: "Fauteuil roulant pliable léger pour personnes âgées, fauteuil roulant étroit pour usage domestique | PEPE | P10019",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/pepe-easy-home/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/08/Fauteuil-de-transfert-en-aluminium-Noir.jpg",
+            prix: "2 550.00 MAD",
+            titre: "Fauteuil de transfert en aluminium Noir",
+            lien: "https://locamed.ma/product/fauteuil-de-transfert-en-aluminium-noir/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-ruedas-estrecha_939x939.png?v=1698072703",
@@ -510,15 +531,15 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/silla-ruedas-exterior_869x869.webp",
-            prix: "0 MAD",
+            prix: "2 760.00 MAD",
             titre: "Fauteuil roulant pliable pour personnes âgées (largeur d'assise 46 cm), Fauteuils roulants pour seniors | PEPE | P10033",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/liberte-compacte/"
         },
         itemB: {
-            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliant-Basix-2-dossier-fixe-1-1-600x453.jpg.webp",
-            prix: "6 590.00 MAD",
-            titre: "Fauteuil roulant pliant Basix 2 ( Dossier inclinable )",
-            lien: "https://locamed.ma/product/fauteuil-roulant-pliant-basix-2-dossier-inclinable/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-BREEZY-90-grandes-roues-1-1.webp",
+            prix: "2 350.00 MAD",
+            titre: "Fauteuil BREEZY 90 petites roues",
+            lien: "https://locamed.ma/product/fauteuil-breezy-90-petites-roues/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-ruedas-exterior_939x939.png?v=1698073709",

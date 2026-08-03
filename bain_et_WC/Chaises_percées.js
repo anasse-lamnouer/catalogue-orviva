@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/chair-de-transfert/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Fauteuil-roulant-de-transfert-hydraulique-manuel.jpg",
+            prix: "8 500.00 MAD",
+            titre: "Fauteuil roulant de transfert hydraulique manuel",
+            lien: "https://locamed.ma/product/fauteuil-roulant-de-transfert-hydraulique-manuel/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla-transferencia-KMINA_939x939.png?v=1739884349",
@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/fauteuil-roulant-de-douche-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Fauteuil-roulant-garde-robe.jpg",
+            prix: "2 780.00 MAD",
+            titre: "Fauteuil roulant Aluminium garde robe",
+            lien: "https://locamed.ma/product/fauteuil-roulant-garde-robe/"
         },
         itemC: {
             img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfSsAf--y-ThBO0rhtjFCyuJKsHln9-Q7ywrn4sC3LQvfIj25W",
@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-invacare/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Fauteuil-roulant-garde-robe.jpg",
+            prix: "2 780.00 MAD",
+            titre: "Fauteuil roulant Aluminium garde robe",
+            lien: "https://locamed.ma/product/fauteuil-roulant-garde-robe/"
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NTFz-We8i4N_i5tY8RoZpL3n6rruXQzB9VmVHxBoZSB0O_Wq",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/chaises-percees/commode-de-chevet/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-Garde-robe-Pliable-aluminium1.jpg",
+            prix: "750.00 MAD",
+            titre: "Chaise Garde-robe Pliable aluminium sans roues",
+            lien: "https://locamed.ma/product/chaise-garde-robe-pliable-aluminium/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_b3fa9d5d-2ade-4a06-ae20-41908a76df55_939x939.png?v=1684248912",
@@ -94,15 +94,15 @@ window.produitsData.push(
         sousCategorie: "Chaises percées",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/silla_orinal_acolchada_PEPE_Mobility_producto_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "1 200.00 MAD",
             titre: "Chaise percée rembourrée avec WC portable (2 en 1), siège de toilette pour seniors, rehausseur de toilettes pour personnes âgées | PEPE | P30034",
             lien: "https://orviva.ma/boutique/bain-et-wc/chaises-percees/commode-de-chevet-remplie/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2026/04/5-3-768x538.webp",
+            prix: "1 800.00 MAD",
+            titre: "Chaise garde-robe confort large",
+            lien: "https://locamed.ma/product/chaise-garde-robe-confort-large/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/silla_orinal_acolchada_PEPE_Mobility_producto_939x939.png?v=1739880422",
@@ -121,10 +121,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/tsu-4-mobilite-dignite/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-garde-robe.jpg",
+            prix: "1 250.00 MAD",
+            titre: "Chaise garde-robe",
+            lien: "https://locamed.ma/product/chaise-garde-robe/"
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIVW9ARwVga1D3GA-_sbYGbUwSh1dp6kUEE__sTy_ww&s=10",
@@ -143,10 +143,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/chaise-de-douche-2-freins-dietz/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-garde-robe.jpg",
+            prix: "1 250.00 MAD",
+            titre: "Chaise garde-robe",
+            lien: "https://locamed.ma/product/chaise-garde-robe/"
         },
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkRjndwYikKiKqhaAeuI7ANVVFL8S0WrS6oFwHiKRcA&s=10",

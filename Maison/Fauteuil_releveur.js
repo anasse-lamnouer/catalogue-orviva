@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/fauteuils-releveurs/fauteuil-releveur-le-palma/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/11/Fauteuil-releveur-electrique-Bergamo-2-moteurs-Taupe.webp",
+            prix: "9 900.00 MAD",
+            titre: "Fauteuil releveur électrique Bergamo 2 moteurs Taupe",
+            lien: "https://locamed.ma/product/fauteuil-releveur-electrique-bergamo-2-moteurs-taupe/"
         },
         itemC: {
             img: "https://i0.wp.com/medibloux2.com/wp-content/uploads/2025/10/920.050_3-scaled.jpg?fit=2355%2C2560&ssl=1",

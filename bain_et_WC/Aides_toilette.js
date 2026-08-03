@@ -121,10 +121,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/aides-a-la-toilette/vitalys/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Bac-a-shampoing-gonflable-pour-les-personnes-alitees.jpg",
+            prix: "390.00 MAD",
+            titre: "Bac à shampoing gonflable pour les personnes alitées",
+            lien: "https://locamed.ma/product/bac-a-shampoing-gonflable-pour-les-personnes-alitees/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/2_04eb2884-4412-4479-bf31-7873b4f6deee_939x939.png?v=1684851783",

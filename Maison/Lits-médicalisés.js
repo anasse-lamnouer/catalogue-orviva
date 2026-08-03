@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medical-invacare-medley-ergo/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Produit-ecom-93.webp",
+            prix: "17 500.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://enableliving.com/image/cache/catalog/image/catalog/invacare/beds/medley-ergo-bedroom-solo-1100x1100.jpg",
@@ -99,9 +99,9 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medicalise-vermeiren-illico/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
+            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_17_web_Illico-Beech-3Q-view-Wooden-slats.jpg",
+            prix: "18 700.00 MAD",
+            titre: "Lit médicalisé facile à monter Vermeiren Illico",
             lien: ""
         },
         itemC: {
@@ -121,9 +121,9 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medicalise-vermeiren-club/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
+            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_17_web_Illico-Beech-3Q-view-Wooden-slats.jpg",
+            prix: "18 700.00 MAD",
+            titre: "Lit médicalisé facile à monter Vermeiren Illico",
             lien: ""
         },
         itemC: {
@@ -143,9 +143,9 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/lit-medicalise-vermeiren-alois/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
+            img: "https://locamed.ma/wp-content/uploads/2019/05/Lit-electrique-1.jpg.webp",
+            prix: "17 200.00 MAD",
+            titre: "Lit médicalisé ultra bas pour Alzheimer-Parkinson Vermeiren Alzeis",
             lien: ""
         },
         itemC: {
@@ -165,9 +165,9 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-9702/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
+            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_17_web_Illico-Beech-3Q-view-Wooden-slats.jpg",
+            prix: "18 700.00 MAD",
+            titre: "Lit médicalisé facile à monter Vermeiren Illico",
             lien: ""
         },
         itemC: {
@@ -187,9 +187,9 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-5302/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
+            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_17_web_Illico-Beech-3Q-view-Wooden-slats.jpg",
+            prix: "18 700.00 MAD",
+            titre: "Lit médicalisé facile à monter Vermeiren Illico + Potence de lit électrique",
             lien: ""
         },
         itemC: {
@@ -209,10 +209,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-3800/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://orviva.ma/wp-content/uploads/2026/01/euro-3800-ultra-bas.jpg",
+            prix: "19 200.00 MAD",
+            titre: "Lit électrique Amplitude 3 fonctions avec barrières et potence + Potence de lit électrique",
+            lien: "https://locamed.ma/product/lit-electrique-amplitude-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.tousergo.com/37825-large_default/lit-medicalise-alzheimer-euro-3800.jpg",
@@ -231,10 +231,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-3000/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://orviva.ma/wp-content/uploads/2026/01/euro-3000.jpg",
+            prix: "19 700.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence + Potence de lit électrique",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.hopmoov.com/web/image/product.product/16571/image_1024/%5B9011032%5D%20Lit%20m%C3%A9dicalis%C3%A9%20%C3%89l%C3%A9gance%20Confort%20avec%20boiserie%20(Avec%20barri%C3%A8re%20et%20potence)?unique=68cf969",
@@ -253,10 +253,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-3000-fortissimo/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://orviva.ma/wp-content/uploads/2026/01/euro-3000-lm-fortissimo.jpg",
+            prix: "19 700.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence + Potence de lit électrique",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.sofamed.com/medias/lit-euro-3000-fortissimo.jpg",
@@ -275,10 +275,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-9200/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://orviva.ma/wp-content/uploads/2026/01/euro-9200-pieds-ronds.jpg",
+            prix: "19 700.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence + Potence de lit électrique",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.sofamed.com/medias/lit-medicalise-euro-9202.jpg",
@@ -319,10 +319,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-1000/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://orviva.ma/wp-content/uploads/2026/01/euro-1000-premium.jpg",
+            prix: "19 700.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence + Potence de lit électrique",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.inresamedical.fr/3417-product_main/lit-medicalise-electrique-euro-1000-hms-vilgo.jpg",
@@ -341,10 +341,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-medicalises/euro-1000-boiserie/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://orviva.ma/wp-content/uploads/2026/01/euro-1000-boiserie-1.jpg",
+            prix: "19 700.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence + Potence de lit électrique",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://medicaldomicile.fr/11328-superlarge_default/lit-medical-1-personne-euro-1000-hms-vilgo.jpg",
@@ -362,11 +362,11 @@ window.produitsData.push(
             titre: "Lit releveur double – HMS-Vilgo",
             lien: "https://orviva.ma/boutique/maison/lits-inclinables-confort-et-design/lit-releveur-double-hms-vilgo/"
         },
-        itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+         itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2026/03/2-4-768x538.webp",
+            prix: "Prix sur devis",
+            titre: "Lit électrique Duo Divisys",
+            lien: "https://locamed.ma/product/lit-electrique-duo-divisys/"
         },
         itemC: {
             img: "https://www.tousergo.com/47231-large_default/lit-releveur-a-hauteur-variable-eurodesign.jpg",
@@ -385,10 +385,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-inclinables-confort-et-design/lit-releveur-a-hauteur-variable/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Produit-ecom-93.webp",
+            prix: "17 500.00 MAD",
+            titre: "Lit électrique Hayden 3 fonctions avec barrières et potence",
+            lien: "https://locamed.ma/product/lit-electrique-hayden-3-fonctions-avec-barrieres-et-potence/"
         },
         itemC: {
             img: "https://www.tousergo.com/47232-large_default/lit-releveur-a-hauteur-variable-eurodesign.jpg",
@@ -407,10 +407,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/lits-inclinables-confort-et-design/lit-junior/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2019/05/Lit-electrique-1-768x580.jpg.webp",
+            prix: "16 000.00 MAD",
+            titre: "Lit électrique avec barrière et potence : 6 positions",
+            lien: "https://locamed.ma/product/lit-electrique-avec-barriere-et-potence-6-positions/"
         },
         itemC: {
             img: "https://www.teamalex-medical.com/26697-large_default/lit-medicalise-junior-hms-vilgo.jpg",

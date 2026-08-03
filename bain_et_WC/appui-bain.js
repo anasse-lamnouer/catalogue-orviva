@@ -6,7 +6,7 @@ window.produitsData.push(
         sousCategorie: "Barres d’appui pour salle de bain",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/image_8e08ccac.png",
-            prix: "0 MAD",
+            prix: "395.00 MAD",
             titre: "Barre d'appui de toilette pliable et rembourrée 58 cm (1 unité), barre de soutien WC | PEPE | P30027",
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-de-toilette-remplie/"
         },
@@ -28,7 +28,7 @@ window.produitsData.push(
         sousCategorie: "Barres d’appui pour salle de bain",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/image_8fc57d3a.png",
-            prix: "0 MAD",
+            prix: "650.00 MAD",
             titre: "Barre d'appui pliable pour WC 75 cm (1 unité), barre de support WC | PEPE | P30011",
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-pour-toilette/"
         },
@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-paire/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Barres-de-maintien-droites2.jpg.webp",
+            prix: "250.00 MAD",
+            titre: "Barres de maintien droites",
+            lien: "https://locamed.ma/product/barres-de-maintien-droites/?srsltid=AfmBOopeEH3S_6my1rF2POeXASFuxvYe7W91meYrOUW3poRCaLpnG_p3"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/82_939x939.png?v=1684159104",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-pour-baignoire/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/1-0.jpg",
+            prix: "790.00 MAD",
+            titre: "Barre d'appui relevable sans béquille",
+            lien: "https://locamed.ma/product/barre-dappui-relevable-sans-bequille/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/47_616f6f3e-7cab-4529-8701-345209541979_939x939.png?v=1671698714",

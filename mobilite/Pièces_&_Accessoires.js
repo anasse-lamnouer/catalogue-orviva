@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/accessoires-pieces-optionnelles/coussin-pour-fauteuil-roulant-visco-pu/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Coussin-Anti-Escarres-a-memoire-de-forme-2.jpg",
+            prix: "950.00 MAD",
+            titre: "Coussin Anti-Escarres à mémoire de forme",
+            lien: "https://locamed.ma/product/coussin-anti-escarres-a-memoire-de-forme/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/100_939x939.png?v=1654178744",

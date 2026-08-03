@@ -19,8 +19,8 @@ window.produitsData.push(
         itemC: {
             img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
             prix: "0.00 MAD",
-            titre: "Déambulateur a roulettes pliable - Tous Ergo",
-            lien: "https://www.tousergo.com/deambulateurs/257-deambulateur-a-roulettes-let-s-go-out-7350036880118.html"
+            titre: "",
+            lien: ""
         }
     },
     {
@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/modele-c2/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2022/10/Fauteuil-roulant-electrique-Sunrise-Q200R3.jpg.webp",
+            prix: "35 000.00 MAD",
+            titre: "Fauteuil roulant électrique Sunrise Q200R",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-sunrise-q200r/"
         },
         itemC: {
             img: "https://whill.inc/us/wp-content/uploads/2025/05/Model-C2-main-1.webp",
@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/modele-f/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/08/Fauteuil-electrique-XSTO-1.webp",
+            prix: "Prix sur devis",
+            titre: "Fauteuil roulant électrique XSTO",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-xsto/"
         },
         itemC: {
             img: "https://www.tousergo.com/62439-large_default/whill-fauteuil-roulant-electrique.jpg",
@@ -99,10 +99,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/robooter-e60/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            img: "https://locamed.ma/wp-content/uploads/2022/10/Fauteuil-roulant-electrique-Sunrise-Q200R-1-768x580.jpg.webp",
+            prix: "35 000.00 MAD",
+            titre: "Fauteuil roulant électrique Sunrise Q200R",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-sunrise-q200r/"
         },
         itemC: {
             img: "https://glebemobility.co.uk/cdn/shop/files/E60_20240221.E60_20240222.1788.jpg?v=1720618719",
@@ -165,10 +165,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/xz-droid-smart/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Verticalisateur-Dynamico-5-2-768x538.webp",
+            prix: "15 050.00 MAD",
+            titre: "Verticalisateur Dynamico 5",
+            lien: "https://locamed.ma/product/verticalisateur-dynamico-5/"
         },
         itemC: {
             img: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlH_Wz0IAPKK3chEGOfoltfuIeEtx6LC43OH8Dc1B1CX_M4RJr",
@@ -186,11 +186,11 @@ window.produitsData.push(
             titre: "Fauteuil électrique multifonctions Vermeiren Inovys II Evo-E",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/fauteuil-multifonctions-inovys-ii-evo-e/"
         },
-        itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+       itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-aluminium-Relax-1-768x580.jpg.webp",
+            prix: "16 950.00 MAD",
+            titre: "Fauteuil roulant aluminium RelaX² ",
+            lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-relax/"
         },
         itemC: {
             img: "https://www.tousergo.com/61300-large_default/fauteuil-roulant-de-confort-inovys.jpg",
@@ -204,15 +204,15 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_cpo7cwcpo7cwcpo7.png",
-            prix: "0 MAD",
+            prix: "35 000.00 MAD",
             titre: "Fauteuil roulant électrique en fibre de carbone | KMINA | K10076",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/kmina-f1-tech/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2022/10/Fauteuil-roulant-electrique-Sunrise-Q200R3.jpg.webp",
+            prix: "35 000.00 MAD",
+            titre: "Fauteuil roulant électrique Sunrise Q200R",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-sunrise-q200r/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/SILL_RUEDAS_ELECTRICA_FIBRA_CARBONO_3_939x939.jpg?v=1759495497",
@@ -226,15 +226,15 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_yf73uzyf73uzyf73.png",
-            prix: "0 MAD",
+            prix: "27 000.00 MAD",
             titre: "Fauteuil roulant électrique gris | KMINA | K10075",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/leclat-turbo/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2022/10/Fauteuil-releveur-electrique-3.png",
+            prix: "30 000.00 MAD",
+            titre: "Fauteuil roulant électrique Pliant Q50R",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-sunrise-q50-r/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Silla_Ruedas_Electrica_KMINA_GRIS_939x939.png?v=1770911621",
@@ -252,11 +252,11 @@ window.produitsData.push(
             titre: "Fauteuil roulant électrique pliable Invacare Kompas",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/fauteuil-roulant-electrique-pliable-kompas-invacare/"
         },
-        itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "Déambulateur articulé pliable Noir",
-            lien: "https://locamed.ma/product/deambulateur-articule-pliable-noir/"
+         itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2022/10/Fauteuil-releveur-electrique-3.png",
+            prix: "30 000.00 MAD",
+            titre: "Fauteuil roulant électrique Pliant Q50R",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-sunrise-q50-r/"
         },
         itemC: {
             img: "https://www.aidealautonomie.net/87802-pdt_540/fauteuil-roulant-electrique-kompas.jpg",

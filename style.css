@@ -629,6 +629,7 @@ body {
   padding: 0.5rem 0.8rem;
 }
 
+/* ===== MODALE ===== */
 .modal-overlay {
   position: fixed;
   inset: 0;
@@ -776,7 +777,9 @@ body {
   font-size: 0.8rem;
   color: var(--text-secondary);
   background: var(--bg);
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
   padding: 0.2rem 1.2rem;
   border-radius: 100px;
   font-weight: 500;
@@ -797,6 +800,69 @@ body {
   font-weight: 600;
   color: var(--text-muted);
 }
+
+/* ===== BOUTON DE LIEN DANS LA MODALE ===== */
+.modal-link-container {
+  margin: 16px 0 12px 0;
+  width: 100%;
+}
+
+.modal-link-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: white !important;
+  padding: 12px 24px;
+  border-radius: 100px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.95rem;
+  transition: all 0.3s var(--transition);
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(37, 99, 235, 0.35);
+  letter-spacing: 0.3px;
+}
+
+.modal-link-btn:hover {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 8px 30px rgba(37, 99, 235, 0.45);
+  background: linear-gradient(135deg, #1d4ed8, #1e40af);
+  color: white !important;
+  text-decoration: none;
+}
+
+.modal-link-btn:active {
+  transform: scale(0.97);
+}
+
+.modal-link-btn i {
+  font-size: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.modal-link-btn:hover i {
+  transform: translateX(4px);
+}
+
+/* Variante secondaire du bouton (optionnelle) */
+.modal-link-btn-secondary {
+  background: transparent;
+  color: #2563eb !important;
+  border: 2px solid #2563eb;
+  box-shadow: none;
+}
+
+.modal-link-btn-secondary:hover {
+  background: #2563eb;
+  color: white !important;
+  box-shadow: 0 4px 20px rgba(37, 99, 235, 0.3);
+}
+
+/* ===== FIN BOUTON DE LIEN ===== */
 
 .modal-action {
   margin-top: 1.2rem;
@@ -830,6 +896,7 @@ body {
 .modal-btn-secondary {
   background: var(--bg);
   color: var(--text-secondary);
+  width: 100%;
 }
 
 .modal-btn-secondary:hover {
@@ -1046,6 +1113,11 @@ body {
     font-size: 1.4rem;
   }
 
+  .modal-link-btn {
+    font-size: 0.85rem;
+    padding: 10px 20px;
+  }
+
   .pagination-btn {
     padding: 0.4rem 0.8rem;
     font-size: 0.8rem;
@@ -1142,6 +1214,12 @@ body {
   .modal-title {
     font-size: 1rem;
   }
+
+  .modal-link-btn {
+    font-size: 0.8rem;
+    padding: 8px 16px;
+    gap: 8px;
+  }
 }
 
 .fade-in {
@@ -1194,4 +1272,31 @@ body {
 }
 .stagger-children > *:nth-child(10) {
   animation-delay: 0.5s;
+}
+
+.search-group {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.clear-search-btn {
+    position: absolute;
+    right: 12px;
+    background: transparent;
+    border: none;
+    color: #888;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 4px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.2s, background 0.2s;
+}
+
+.clear-search-btn:hover {
+    color: #e74c3c;
+    background-color: rgba(0, 0, 0, 0.05);
 }

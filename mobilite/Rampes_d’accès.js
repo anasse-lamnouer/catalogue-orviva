@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/rampes-dacces/rampe-dacces-portable/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/12/Rampe-en-Aluminium-pour-Fauteuil-Roulant-Telescopique-4-1.webp",
+            prix: "2 900.00 MAD",
+            titre: "Rampe d’Accès en Aluminium à Pliage Multiple",
+            lien: "https://locamed.ma/product/rampe-en-aluminium-pour-fauteuil-roulant-pliable/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/rampaplegable_1_939x939.jpg?v=1745505161",
@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/rampes-dacces/rampe-dacces-pour-fauteuil-roulant/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2024/12/Rampe-en-Aluminium-pour-Fauteuil-Roulant-Telescopique-4-1.webp",
+            prix: "2 900.00 MAD",
+            titre: "Rampe d’Accès en Aluminium à Pliage Multiple",
+            lien: "https://locamed.ma/product/rampe-en-aluminium-pour-fauteuil-roulant-pliable/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/rampa_para_silla_de_ruedas_2_939x939.jpg?v=1746776639",
@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/rampes-dacces/rampe-de-slim-tep/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/07/Rampe-dacces-en-caoutchouc-4.jpg.webp",
+            prix: "290.00 MAD",
+            titre: "Rampe de Seuil en Caoutchouc 1000×250×50 mm",
+            lien: "https://locamed.ma/product/rampe-de-seuil-en-caoutchouc/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/rampa_umbral_puerta_silla_de_ruedas_KMINA_939x939.png?v=1739351626",
@@ -99,10 +99,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/mobilite/rampes-dacces/rampa-de-umbral/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/07/Rampe-dacces-en-caoutchouc-4.jpg.webp",
+            prix: "290.00 MAD",
+            titre: "Rampe de Seuil en Caoutchouc 1000×250×50 mm",
+            lien: "https://locamed.ma/product/rampe-de-seuil-en-caoutchouc/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/RAMPA_DE_UMBRAL_PEPE_1_2_CM_ANTIDESLIZANTE_3_-07_939x939.jpg?v=1760424935",

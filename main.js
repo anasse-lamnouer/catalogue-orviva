@@ -125,8 +125,6 @@ function genererBoutonsPagination(totalArticles) {
     const nombreDePages = Math.ceil(totalArticles / articlesParPage);
 
     if (nombreDePages <= 1) return;
-
-    // Précédent
     if (pageActuelle > 1) {
         const prevBtn = document.createElement("button");
         prevBtn.innerHTML = '<i class="fas fa-chevron-left"></i>';
@@ -203,6 +201,7 @@ function genererBoutonsPagination(totalArticles) {
         paginationControls.appendChild(nextBtn);
     }
 }
+
 function preparerModale(index, itemKey, source) {
     const ligne = donneesActuelles[index];
     if (!ligne) return;
@@ -210,26 +209,47 @@ function preparerModale(index, itemKey, source) {
     if (!item) return;
 
     const categorieComplete = `${ligne.categorie} / ${ligne.sousCategorie}`;
-    ouvrirModale(source, categorieComplete, item.titre || "Produit", item.prix || "—", item.img || "", item.ref || "",);
+    ouvrirModale(
+        source, 
+        categorieComplete, 
+        item.titre || "Produit", 
+        item.prix || "—", 
+        item.img || "", 
+        item.ref || "",
+        item.lien || ""
+    );
 }
 
-function ouvrirModale(source, categorie, titre, prix, imageSrc, reference) {
-    document.getElementById("modal-source").innerHTML = `<i class="fas fa-tag"></i> ${source}`;
+function ouvrirModale(source, categorie, titre, prix, imageSrc, reference, lien) {
+    document.getElementById("modal-source").textContent = source;
     document.getElementById("modal-cat").textContent = categorie;
     document.getElementById("modal-title").textContent = titre;
-    document.getElementById("modal-price").innerHTML = `${prix} <span class="currency"></span>`;
-    document.getElementById("modal-img").src = imageSrc || "https://via.placeholder.com/160/e9edf2/aaa?text=Image";
+    document.getElementById("modal-price").innerHTML = `${prix}`;
+    
+    const modalImg = document.getElementById("modal-img");
+    modalImg.src = imageSrc || "https://via.placeholder.com/160/e9edf2/aaa?text=Image";
+    modalImg.alt = titre || "Image du produit";
 
     const badge = document.getElementById("modal-badge");
-    const sourceMap = { "Orviva": "", "Locamed": "", "Autre Ste": "" };
+    const sourceMap = { "Orviva": "★", "Locamed": "◆", "Autre Ste": "●" };
     badge.textContent = sourceMap[source] || "★";
 
     const modalRefElement = document.getElementById("modal-ref");
     if (reference && reference.trim() !== "") {
         modalRefElement.innerHTML = `<i class="fas fa-barcode"></i> ${reference}`;
-        modalRefElement.style.display = "inline-block";
+        modalRefElement.style.display = "flex";
     } else {
         modalRefElement.style.display = "none";
+    }
+
+    const modalLinkContainer = document.getElementById("modal-link-container");
+    const modalLink = document.getElementById("modal-link");
+    
+    if (lien && lien.trim() !== "") {
+        modalLink.href = lien;
+        modalLinkContainer.style.display = "block";
+    } else {
+        modalLinkContainer.style.display = "none";
     }
 
     modal.classList.add("active");
@@ -323,6 +343,7 @@ function resetFilters() {
     subcategoryFilter.value = "all";
     filtrerProduits();
 }
+
 categoryFilter.addEventListener("change", () => {
     actualiserFiltreSousCategories();
     filtrerProduits();
@@ -333,10 +354,47 @@ subcategoryFilter.addEventListener("change", filtrerProduits);
 clearFiltersBtn.addEventListener("click", resetFilters);
 
 document.addEventListener("DOMContentLoaded", () => {
+    // Vérification des liens dans les données (optionnel - pour déboguer)
+    console.log("Données chargées :", window.produitsData.length, "produits");
+    
+    let produitsAvecLiens = 0;
+    window.produitsData.forEach((produit, index) => {
+        if (produit.itemA?.lien) produitsAvecLiens++;
+        if (produit.itemB?.lien) produitsAvecLiens++;
+        if (produit.itemC?.lien) produitsAvecLiens++;
+    });
+    console.log("Produits avec liens :", produitsAvecLiens);
+    
     initialiserFiltreCategories();
     actualiserFiltreSousCategories();
     afficherTableau(window.produitsData, 1);
 });
 
-// Exposer les fonctions pour les appels onclick
 window.preparerModale = preparerModale;
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('search-bar');
+    const clearSearchBtn = document.getElementById('clear-search');
+
+    if (searchInput && clearSearchBtn) {
+        // Afficher ou masquer la croix selon si l'input contient du texte
+        searchInput.addEventListener('input', () => {
+            if (searchInput.value.trim() !== '') {
+                clearSearchBtn.style.display = 'flex';
+            } else {
+                clearSearchBtn.style.display = 'none';
+            }
+        });
+
+        // Vider la barre de recherche lors du clic sur la croix
+        clearSearchBtn.addEventListener('click', () => {
+            searchInput.value = '';
+            clearSearchBtn.style.display = 'none';
+            searchInput.focus(); // Redonne le focus à la barre de recherche
+
+            // Déclenche l'événement 'input' pour mettre à jour votre tableau de filtres
+            searchInput.dispatchEvent(new Event('input'));
+        });
+    }
+});

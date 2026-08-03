@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/pro-barre-de-lit/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Poignee-sortie-de-lit.jpg",
+            prix: "850.00 MAD",
+            titre: "Poignée sortie de lit",
+            lien: "https://locamed.ma/product/poignee-sortie-de-lit/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Barandilla_cama_abatible_muestra_KMINA_939x939.png?v=1738933866",
@@ -55,10 +55,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-lit-adulte-avec-pieds/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Poignee-sortie-de-lit.jpg",
+            prix: "850.00 MAD",
+            titre: "Poignée sortie de lit",
+            lien: "https://locamed.ma/product/poignee-sortie-de-lit/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/Disenosintitulo_99153ec0-8a88-4a28-b560-b3ac90d68657_939x939.png?v=1666942739",
@@ -77,10 +77,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-lit-pliante/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Poignee-sortie-de-lit.jpg",
+            prix: "850.00 MAD",
+            titre: "Poignée sortie de lit",
+            lien: "https://locamed.ma/product/poignee-sortie-de-lit/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/barandilla-uso-cama_939x939.png?v=1703776692",
@@ -94,15 +94,15 @@ window.produitsData.push(
         sousCategorie: "Accessoires de literie",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/barandilla-cama-habitacion_c3d12b85-3d8d-4160-9b71-c45824515954_869x869.webp",
-            prix: "0 MAD",
+            prix: "645.00 MAD",
             titre: "Barrière de lit (hauteur de lit 42 à 54 cm), Barrière de lit rembourrée pour adultes, Barrière de lit noire | PEPE | P40020",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-protection-pour-lit/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Poignee-sortie-de-lit.jpg",
+            prix: "850.00 MAD",
+            titre: "Poignée sortie de lit",
+            lien: "https://locamed.ma/product/poignee-sortie-de-lit/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/barandilla-cama-habitacion_c3d12b85-3d8d-4160-9b71-c45824515954_939x939.png?v=1699525498",
@@ -143,10 +143,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/oreiller-voyajet/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Oreiller-Orthopedique-CERVI2.jpg.webp",
+            prix: "550.00 MAD",
+            titre: "Oreiller Orthopédique CERVI+",
+            lien: "https://locamed.ma/product/oreiller-orthopedique-cervi/"
         },
         itemC: {
             img: "https://www.my-medical.fr/cdn/shop/files/tourdecou_6468b871-7c16-4b4d-be3b-4b88763904df.png?v=1746783273&width=1946",
@@ -165,10 +165,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/oreiller-cervical/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Oreiller-Orthopedique-CERVI2.jpg.webp",
+            prix: "550.00 MAD",
+            titre: "Oreiller Orthopédique CERVI+",
+            lien: "https://locamed.ma/product/oreiller-orthopedique-cervi/"
         },
         itemC: {
             img: "https://www.capvital.fr/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/o/r/oreiller-cervical-bdermofresh-2015104629.jpg",
@@ -187,10 +187,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/oreiller-ice/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Oreiller-Orthopedique-CERVI2.jpg.webp",
+            prix: "550.00 MAD",
+            titre: "Oreiller Orthopédique CERVI+",
+            lien: "https://locamed.ma/product/oreiller-orthopedique-cervi/"
         },
         itemC: {
             img: "https://www.tuortopedia.es/wp-content/uploads/2024/07/caracteristicas-almohada-fresca-ice-bdermofresh.jpg",
@@ -270,7 +270,7 @@ window.produitsData.push(
         sousCategorie: "Accessoires de literie",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/174_0f3baca4-7528-4af8-ace8-d19a171622fc_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "150.00 MAD",
             titre: "Cale pour urinoir, urinoir adulte | PEPE | P40005",
             lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/cuvette-de-lit/"
         },

@@ -11,10 +11,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/atteigneur/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/10/Pinces-de-prehension.webp",
+            prix: "195.00 MAD",
+            titre: "Pince de préhension ultralégère 79 cm",
+            lien: "https://locamed.ma/product/pince-de-prehension-ultralegere-79-cm/?srsltid=AfmBOoofN2UpAueeIFKPmk605Yxbd5DehlMUKCrtTZsA7JFLXw015OFp"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/71PD9DvuYsL._AC_SL1500_1500x1243_crop_center_42f72219-7343-452e-a8d5-65697d568462_939x939.png?v=1697058572",
@@ -99,10 +99,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/boite-de-pilules-hebdomadaire-1-fois-par-jour/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2025/05/Pilulier-Semainier-a-bouton-poussoir-768x538.webp",
+            prix: "60.00 MAD",
+            titre: "Pilulier Semainier à bouton poussoir",
+            lien: "https://locamed.ma/product/pilulier-semainier-a-bouton-poussoir/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/KMINA_pastillero_semanal_1_toma_939x939.png?v=1739539612",
@@ -121,10 +121,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/boite-de-pilules-hebdomadaire-2-fois-par-jour/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Pilulier-2-en-1-768x580.jpg.webp",
+            prix: "60.00 MAD",
+            titre: "Pilulier 2 en 1",
+            lien: "https://locamed.ma/product/pilulier-2-en-1/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/KMINA_pastillero_semanal_2_tomas_939x939.png?v=1739880256",
@@ -143,10 +143,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/boite-de-pilules-hebdomadaire-4-fois-par-jour/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Pilulier-semainier-28-comprimes-1.jpg",
+            prix: "85.00 MAD",
+            titre: "Pilulier-semainier 28 comprimés",
+            lien: "https://locamed.ma/product/pilulier-semainier-28-comprimes/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/KMINA_Pastillero_semanal_4_tomas_939x939.png?v=1739873800",
@@ -165,10 +165,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/boite-de-pilules-hebdomadaire-3-fois-par-jour/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Pilulier-semainier-28-comprimes-1.jpg",
+            prix: "85.00 MAD",
+            titre: "Pilulier-semainier 28 comprimés",
+            lien: "https://locamed.ma/product/pilulier-semainier-28-comprimes/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/Disenosintitulo_2_939x939.png?v=1673969965",
@@ -275,10 +275,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/coupe-comprimes-diviseurs-de-medicaments/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            img: "https://locamed.ma/wp-content/uploads/2025/05/Pilulier-de-voyage-avec-coupe-Comprimes-integre-768x538.webp",
             prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            titre: "Pilulier de voyage avec coupe – Comprimés intégré",
+            lien: "https://locamed.ma/product/pilulier-de-voyage-avec-coupe-comprimes-integre/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/products/61TaYuvwTcL._AC_SL1500_939x939.jpg?v=1681490439",
@@ -297,10 +297,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/broyeur-de-comprimes/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Broyeur-de-comprimes-768x580.jpg.webp",
+            prix: "48.00 MAD",
+            titre: "Broyeur de comprimés",
+            lien: "https://locamed.ma/product/broyeur-de-comprimes/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/7_0798db93-c2c7-446b-8baf-60bd1938f6c1_939x939.png?v=1690537913",

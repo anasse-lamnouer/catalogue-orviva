@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,9 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
     <div class="catalog-container">
         <header class="header-section">
             <div class="header-left">
@@ -46,10 +43,14 @@
         </header>
 
         <div class="filter-container">
-            <div class="filter-group" style="flex: 2;">
+           <div class="filter-group search-group" style="flex: 2; position: relative;">
                 <i class="fas fa-search icon"></i>
                 <input type="text" id="search-bar"
                     placeholder="Rechercher un produit, une catégorie ou une référence...">
+                <!-- Bouton croix pour vider la recherche -->
+                <button type="button" id="clear-search" class="clear-search-btn" style="display: none;">
+                    <i class="fas fa-times"></i>
+                </button>
             </div>
             <div class="filter-group">
                 <i class="fas fa-folder icon"></i>
@@ -107,6 +108,13 @@
             <div class="modal-divider"></div>
             <div class="modal-ref" id="modal-ref"></div>
             <div class="modal-price" id="modal-price"></div>
+            
+            <div id="modal-link-container" class="modal-link-container" style="display: none;">
+                <a id="modal-link" href="#" target="_blank" class="modal-link-btn">
+                    <i class="fas fa-external-link-alt"></i> Voir le source
+                </a>
+            </div>
+
             <div class="modal-action">
                 <button class="modal-btn modal-btn-secondary" id="modal-close-btn">
                     <i class="fas fa-times"></i> Fermer
@@ -117,7 +125,7 @@
 
     <!-- main -->
     <script src="main.js"></script>
-
+    <!-- mobilite -->
     <script src="mobilite/Déambulateurs.js"></script>
     <script src="mobilite/Fauteuils_roulants_manuels.js"> </script>
     <script src="mobilite/Fauteuils_roulants_électriques.js"></script>
@@ -130,26 +138,25 @@
     <script src="mobilite/Élévateurs_de_piscine.js"></script>
     <script src="mobilite/Pièces_&_Accessoires.js"></script>
     <!-- bain et WC -->
-    <script src="bain et WC/rehausseurs_cadres.js"></script>
-    <script src="bain et WC/Fauteuils_de_douche.js"></script>
-    <script src="bain et WC/Tabourets&chaises.js"></script>
-    <script src="bain et WC/Élévateurs_de_bain.js"></script>
-    <script src="bain et WC/Chaises_percées.js"></script>
-    <script src="bain et WC/appui-bain.js"></script>
-    <script src="bain et WC/Aides_toilette.js"></script>
-    <script src="bain et WC/Accessoires_bain.js"></script>
+    <script src="bain_et_WC/rehausseurs_cadres.js"></script>
+    <script src="bain_et_WC/Fauteuils_de_douche.js"></script>
+    <script src="bain_et_WC/Tabourets&chaises.js"></script>
+    <script src="bain_et_WC/Élévateurs_de_bain.js"></script>
+    <script src="bain_et_WC/Chaises_percées.js"></script>
+    <script src="bain_et_WC/appui-bain.js"></script>
+    <script src="bain_et_WC/Aides_toilette.js"></script>
+    <script src="bain_et_WC/Accessoires_bain.js"></script>
     <!-- Maison -->
-     <script src="Maison/Fauteuil_releveur.js"></script>
-     <script src="Maison/Fauteuils_coquilles.js"></script>
-     <script src="Maison/lits-inclinables.js"></script>
-     <script src="Maison/Lits-médicalisés.js"></script>
-     <script src="Maison/Tables.js"></script>
-     <script src="Maison/Accessoires_literie.js"></script>
-     <script src="Maison/Protections_literie.js"></script>
-     <!-- Bien etre et loisirs -->
-      <script src="Bien-être et loisirs/Aides_techniques.js"></script>
-      <script src="Bien-être et loisirs/Protection_hygiène.js"></script>
-      <script src="Bien-être et loisirs/Vaisselle_ergonomique.js"></script>
+    <script src="Maison/Fauteuil_releveur.js"></script>
+    <script src="Maison/Fauteuils_coquilles.js"></script>
+    <script src="Maison/lits-inclinables.js"></script>
+    <script src="Maison/Lits-médicalisés.js"></script>
+    <script src="Maison/Tables.js"></script>
+    <script src="Maison/Accessoires_literie.js"></script>
+    <script src="Maison/Protections_literie.js"></script>
+    <!-- Bien etre et loisirs -->
+    <script src="Bien-être et loisirs/Aides_techniques.js"></script>
+    <script src="Bien-être et loisirs/Protection_hygiène.js"></script>
+    <script src="Bien-être et loisirs/Vaisselle_ergonomique.js"></script>
 </body>
-
 </html>
