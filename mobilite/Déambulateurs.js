@@ -525,7 +525,7 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/andador_rodilla_PEPE_Mobility_939x939.png?v=1739348941",
-            prix: "130 €",
+            prix: "1 391.00 MAD",
             titre: "Déambulateur à genoux, déambulateur orthopédique à genoux | PEPE | P10022",
             lien: "https://kmina.com/en-int/products/alquiler-andador-de-rodilla"
         }
