@@ -33,10 +33,10 @@ window.produitsData.push(
             lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/planche-de-baignoire/"
         },
         itemB: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
-            prix: "0.00 MAD",
-            titre: "",
-            lien: ""
+            img: "https://locamed.ma/wp-content/uploads/2018/01/13.jpg",
+            prix: "2 600.00 MAD",
+            titre: "Chaise de bain rotative Atlantis",
+            lien: "https://locamed.ma/product/chaise-de-bain-rotative-atlantis/"
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/1_51f84ad5-5556-4593-8c91-0fef5f6b883f_939x939.png?v=1686206358",
