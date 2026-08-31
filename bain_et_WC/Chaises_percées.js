@@ -25,7 +25,7 @@ window.produitsData.push(
     },
     {
         categorie: "bain et WC",
-        sousCategorie: "Fauteuils roulants de douche",
+        sousCategorie: "Chaises percées",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/1737590073_MPIC002155_H273LIMA-CV03.jpg",
             prix: "0 MAD",
@@ -47,7 +47,7 @@ window.produitsData.push(
     },
     {
         categorie: "bain et WC",
-        sousCategorie: "Fauteuils roulants de douche",
+        sousCategorie: "Chaises percées",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/1737590073_MPIC001749_H273-Lima-CV01.jpg",
             prix: "0 MAD",
@@ -61,9 +61,9 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-roulant-garde-robe/"
         },
         itemC: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NTFz-We8i4N_i5tY8RoZpL3n6rruXQzB9VmVHxBoZSB0O_Wq",
-            prix: "2 888.46 MAD",
-            titre: "CHAISE DE SALLE DE BAIN ET SANITAIRELIMA H263",
+            img: "https://www.vimedis.fr/cdn/shop/files/chaise-de-douche-invacare-lima-h263.jpg?v=1742308023&width=550%20550w",
+            prix: "4 590.30 MAD",
+            titre: "Chaise de douche Invacare Lima H263",
             lien: "https://lojaortopedica.pt/en/chair-bathroom-and-sanitary-lima-h263"
         }
     },
@@ -127,10 +127,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/chaise-garde-robe/"
         },
         itemC: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIVW9ARwVga1D3GA-_sbYGbUwSh1dp6kUEE__sTy_ww&s=10",
-            prix: "2 003.75 MAD",
-            titre: "Chaise percée mobile",
-            lien: "https://www.felgains.com/care-products/mobile-commode-chair/"
+            img: "https://www.buma.swiss/1002-large_default/dietz-tsu.jpg",
+            prix: "2 063.31 MAD",
+            titre: "Chaise percée mobile TSU 4",
+            lien: "https://www.buma.swiss/wc-chaises-percees/15-1363-dietz-tsu.html"
         }
     },
     {

@@ -17,10 +17,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-sapphire-2/?srsltid=AfmBOookvlnaZGkD9BplzuOqCoIWnb3FvBkfd-yVO5f9Fzbyk0xuqkRS"
         },
         itemC: {
-            img: "https://whill.inc/us/wp-content/uploads/2025/06/Model-R3-product-1.webp",
-            prix: "25 669.30 MAD",
-            titre: "WHILL Model R 3-Wheel",
-            lien: "https://whill.inc/us/whill-model-r-3-wheel/"
+            img: "https://whill-dev.imgix.net/media/modelR-4W-shadow-alt.png?ixlib=js-3.8.0&auto=format&fm=avif&fit=crop&crop=focalpoint&fp-x=0.52&fp-y=0.52&fp-z=1&w=700&h=520&dpr=2&q=50&s=1c0918f984a25c416c98fc569a807832",
+            prix: "40 553.00 MAD",
+            titre: "WHILL Model R 4 roues 6 km/h",
+            lien: "https://whill.inc/ch/fr/model-r-4-wheel"
         }
     },
     {
@@ -39,10 +39,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-sapphire-2/?srsltid=AfmBOookvlnaZGkD9BplzuOqCoIWnb3FvBkfd-yVO5f9Fzbyk0xuqkRS"
         },
         itemC: {
-            img: "https://www.hammer-international.de/cdn/shop/files/R3_005_720x.jpg?v=1741873445",
-            prix: "42 789.30 MAD",
-            titre: "Whill Modèle R 3 roues 6 km/h",
-            lien: "https://www.hammer-international.de/en/products/whill-model_r-3-rad-6-km-h"
+            img: "https://whill-dev.imgix.net/media/modelR-3W-shadow-alt.png?ixlib=js-3.8.0&auto=format&fm=avif&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&fp-z=1&w=700&h=520&dpr=2&q=50&s=9a3d2cdd0f35e40380c675f3451545ca",
+            prix: "40 553.00 MAD",
+            titre: "WHILL Model R 3 roues 6 km/h",
+            lien: "https://whill.inc/ch/fr/model-r-3-wheel"
         }
     },
     {
@@ -72,7 +72,7 @@ window.produitsData.push(
         sousCategorie: "Scooters électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_6hbr966hbr966hbr.png",
-            prix: "0 MAD",
+            prix: "17 200.00 MAD",
             titre: "Trottinette électrique pliable blanche pour adultes | PEPE | P10043",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-pliable-europe/"
         },
@@ -117,7 +117,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/web_ONE-25AH-Air-tires-3Q-view-e1776600466991.jpg",
             prix: "0 MAD",
-            titre: "Scooter électrique Vermeiren One Air+",
+            titre: "Scooter électrique Vermeiren One",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-vermerein-pliable/"
         },
         itemB: {
@@ -182,19 +182,19 @@ window.produitsData.push(
         sousCategorie: "Scooters électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Principalalternativa_869x869.webp",
-            prix: "13500.00 MAD",
+            prix: "12 900.00 MAD",
             titre: "Trottinette électrique pour adultes | PEPE | P10044",
             lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-europe/"
         },
         itemB: {
             img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique-Scooter-Little-GEM-2-1.jpg",
-            prix: "0.00 MAD",
+            prix: "16 500.00 MAD",
             titre: "Fauteuil roulant électrique Scooter Little GEM 2",
             lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-little-gem-2/ "
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Principalalternativa_939x939.png?v=1776770545",
-            prix: "16 500.00 MAD",
+            prix: "10 914.00 MAD",
             titre: "Trottinette électrique pour adultes | PEPE | P10044",
             lien: "https://kmina.com/en-int/products/scooter-electrico-para-adultos"
         }

@@ -420,9 +420,9 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_41_sillaruedasautopropulsable_a15b542f-f1fa-4662-9f26-42dce5c5c43a_869x869-e1780916769903.png",
-            prix: "0 MAD",
+            prix: "2 760.00 MAD",
             titre: "Fauteuil roulant manuel (largeur d'assise 46 cm), fauteuil roulant pliable pour personnes âgées | PEPE | P10034",
-            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/pepe-robustesse-active/"
+            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/pepe-classique-autopropulsable/"
         },
         itemB: {
             img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliant-Unix-2-768x580.jpg.webp",

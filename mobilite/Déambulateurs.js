@@ -327,9 +327,9 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://kmina.com/cdn/shop/files/Andador_Todoterreno_KMINA_939x939.png?v=1777992098",
-            prix: "3 560.00 MAD",
+            prix: "2 67489 MAD",
             titre: "Déambulateurs tout-terrain pour adultes et seniors, avec 4 roues pneumatiques | KMINA | K10060",
-            lien: "https://www.rehabmart.com/product/all-terrain-rollator-walker-kmina-56632.html"
+            lien: "https://kmina.com/en-int/products/andador-todoterreno?_pos=1&_sid=08cf68b49&_ss=r"
         }
     },
     {
@@ -337,7 +337,7 @@ window.produitsData.push(
         sousCategorie: "Déambulateurs",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/47_1000x1000_crop_center.webp",
-            prix: "2 425.00 MAD",
+            prix: "3 450.00 MAD",
             titre: "Déambulateurs pour adultes de grande taille (environ 1,70 à 2,00 m), déambulateur pour personnes âgées avec siège | KMINA | K10017",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/altos/"
         },
@@ -480,10 +480,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/rollator-en-aluminium-4-roues/"
         },
         itemC: {
-            img: "https://ferruccicomfort.fr/cdn/shop/files/61zsCrNIdjL._AC_SL1500.jpg?v=1766046840&width=5000",
-            prix: "1 258.32 MAD",
-            titre: "Rollator 4 Roues Pliable pour Seniors - Déambulateur avec Siège, Panier et Plateau",
-            lien: "https://ferruccicomfort.fr/products/rollator-4-roues-pliable-pour-seniors-deambulateur-avec-siege-panier-et-plateau"
+            img: "https://reha-concept.ch/5202-tm_large_default/fakto.jpg",
+            prix: "1 499.22 MAD",
+            titre: "Fakto",
+            lien: "https://reha-concept.ch/rollator/127-fakto.html"
         }
     },
     {
@@ -788,10 +788,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/deambulateur-articule-pliable/"
         },
         itemC: {
-            img: "https://www.queralto.com/pt/368745-large_default/andarilho-para-idosos-aluminio-4-rodas-dobravel-pistachio-rollatino-forta.jpg",
-            prix: "1 572.36 MAD",
-            titre: "Déambulateur pour seniors en aluminium à 4 roues pliable Rollatino Forta",
-            lien: "https://www.queralto.com/pt/23493-andarilho-para-idosos-aluminio-4-rodas-dobravel-pistachio-rollatino-forta.html"
+            img: "https://senior.market/cdn/shop/files/AndadorAir_1197x1197.png?v=1745492367",
+            prix: "900.00 MAD",
+            titre: "Déambulateur d'intérieur léger Forta, 2,56 kg, compact (48,5 cm), pliable, poignées réglables (85-91 cm)",
+            lien: "https://senior.market/products/andador-de-interior-air-forta-ligero-2-56-kg-compacto-48-5-cm-plegable-punos-regulables-85-91-cm"
         }
     },
     {

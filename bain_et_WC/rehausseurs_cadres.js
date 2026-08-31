@@ -204,7 +204,7 @@ window.produitsData.push(
         sousCategorie: "Rehausseurs WC et cadres de toilette",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/07/imgi_72_51fKwhmF_TL._AC_SL1500_869x872-e1784542326874.jpg",
-            prix: "535.00",
+            prix: "535.00 MAD",
             titre: "Rehausseur de siège de toilette avec accoudoirs (10 cm), rehausseur de siège de toilette adulte avec couvercle | PEPE | P30012",
             lien: "https://orviva.ma/boutique/bain-et-wc/rehausseurs-wc-et-cadres-de-toilette/rehausseur-de-siege-de-toilette-avec-accoudoirs/"
         },

@@ -94,7 +94,7 @@ window.produitsData.push(
         sousCategorie: "Transfert",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/05/imgi_5_silla-ruedas-estrecha_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "1 495.00 MAD",
             titre: "Fauteuil roulant pliable léger pour personnes âgées, fauteuil roulant étroit pour usage domestique | PEPE | P10019",
             lien: "https://orviva.ma/boutique/mobilite/aides-au-transfert/fauteuil-roulant-manuel-swifttransfer/"
         },

@@ -50,7 +50,7 @@ window.produitsData.push(
         sousCategorie: "Fauteuils releveurs",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/127faeae1221453faed0ad420c2ff6f9-1-e1778682105871.avif",
-            prix: "0 MAD",
+            prix: "11 450.00 MAD",
             titre: "Fauteuil releveur Majesty",
             lien: "https://orviva.ma/boutique/maison/fauteuils-releveurs/fauteuil-relax-4-moteurs/"
         },
@@ -72,7 +72,7 @@ window.produitsData.push(
         sousCategorie: "Fauteuils releveurs",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/03/Gemini_Generated_Image_s8iiufs8iiufs8ii-300x300.png.webp",
-            prix: "0 MAD",
+            prix: "12 000.00 MAD",
             titre: "Fauteuil releveur Piana",
             lien: "https://orviva.ma/boutique/maison/fauteuils-releveurs/fauteuil-releveur-le-palma/"
         },
@@ -85,7 +85,7 @@ window.produitsData.push(
         itemC: {
             img: "https://i0.wp.com/medibloux2.com/wp-content/uploads/2025/10/920.050_3-scaled.jpg?fit=2355%2C2560&ssl=1",
             prix: "2 129.30 MAD",
-            titre: "Fauteuil Confort Medium – cuir Mokka Gcare",
+            titre: "Fauteuil Confort Medium - cuir Mokka Gcare",
             lien: "https://medibloux2.com/produit/fauteuil-gcare-home-confort-medium-cuir-mokka/"
         }
     },
@@ -94,7 +94,7 @@ window.produitsData.push(
         sousCategorie: "Fauteuils releveurs",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/03/Gemini_Generated_Image_cz1httcz1httcz1h.png",
-            prix: "0 MAD",
+            prix: "6 000.00 MAD",
             titre: "Fauteuil releveur Doria",
             lien: "https://orviva.ma/boutique/maison/fauteuils-releveurs/fauteuil-releveur-le-dali/"
         },

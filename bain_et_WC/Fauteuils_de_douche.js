@@ -83,9 +83,9 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-roulant-garde-robe/"
         },
         itemC: {
-            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NTFz-We8i4N_i5tY8RoZpL3n6rruXQzB9VmVHxBoZSB0O_Wq",
-            prix: "2 888.46 MAD",
-            titre: "CHAISE DE SALLE DE BAIN ET SANITAIRELIMA H263",
+            img: "https://www.vimedis.fr/cdn/shop/files/chaise-de-douche-invacare-lima-h263.jpg?v=1742308023&width=550%20550w",
+            prix: "4 590.30 MAD",
+            titre: "Chaise de douche Invacare Lima H263",
             lien: "https://lojaortopedica.pt/en/chair-bathroom-and-sanitary-lima-h263"
         }
     },
@@ -105,10 +105,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-bonn/"
         },
         itemC: {
-            img: "https://www.feneticwellbeing.com/cdn/shop/files/self_propel_shower_commode_chair_1.jpg?v=1749719203&width=1125",
-            prix: "3 756.91 MAD",
-            titre: "Chaise percée de douche à roulettes autopropulsée ECSCOMSP",
-            lien: "https://www.feneticwellbeing.com/products/self-propel-wheeled-shower-commode-chair"
+            img: "https://careshop.de/cdn/shop/files/Dietz-Levina-400-2_1000x.jpg?v=1785919349",
+            prix: "6 088.30 MAD",
+            titre: "Fauteuil roulant de douche et de toilettes Dietz Levina 400-2",
+            lien: "https://careshop.de/products/dietz-levina-400-2-duschtoilettenrollstuhl"
         }
     },
     {
@@ -193,10 +193,10 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-en-aluminium-obana/?srsltid=AfmBOopCC87IBNCtm6vX1_fAyxQbdplLRSpTchGNSwp9oFV3irBo_-Lx"
         },
         itemC: {
-            img: "https://www.felgains.com/app/uploads/2020/10/FEL40-175-Mobile-Commode_1-1150x1536.jpg",
-            prix: "2 003.75 MAD",
-            titre: "Chaise percée mobile",
-            lien: "https://www.felgains.com/care-products/mobile-commode-chair/"
+            img: "https://www.buma.swiss/1002-large_default/dietz-tsu.jpg",
+            prix: "2 063.31 MAD",
+            titre: "Chaise percée mobile TSU 4",
+            lien: "https://www.buma.swiss/wc-chaises-percees/15-1363-dietz-tsu.html"
         }
     },
     {

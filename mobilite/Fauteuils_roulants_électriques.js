@@ -40,7 +40,7 @@ window.produitsData.push(
         },
         itemC: {
             img: "https://whill.inc/us/wp-content/uploads/2025/05/Model-C2-main-1.webp",
-            prix: "42 789,30 MAD",
+            prix: "66 340.00 MAD",
             titre: "Modèle WHILL C2",
             lien: "https://whill.inc/us/whill-model-c2/"
         }
@@ -204,7 +204,7 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_cpo7cwcpo7cwcpo7.png",
-            prix: "35 000.00 MAD",
+            prix: "34 950.00 MAD",
             titre: "Fauteuil roulant électrique en fibre de carbone | KMINA | K10076",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/kmina-f1-tech/"
         },
@@ -226,7 +226,7 @@ window.produitsData.push(
         sousCategorie: "Fauteuils roulants électriques",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_yf73uzyf73uzyf73.png",
-            prix: "27 000.00 MAD",
+            prix: "26 975.00 MAD",
             titre: "Fauteuil roulant électrique gris | KMINA | K10075",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/leclat-turbo/"
         },
