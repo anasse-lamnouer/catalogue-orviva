@@ -29,6 +29,28 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/212_869x869.webp",
             prix: "0 MAD",
+            titre: "Chausse-pied et dissolvant de chaussures, manche long, 76 cm (2 en 1), chausse-pieds et dissolvant de chaussures modernes, noir | KMINA | K40001",
+            lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/chaussure/"
+        },
+        itemB: {
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            prix: "0.00 MAD",
+            titre: "",
+            lien: ""
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/223_939x939.png?v=1680514765",
+            prix: "320.89 MAD",
+            titre: "Chausse-pied et dissolvant de chaussures, manche long, 76 cm (2 en 1), chausse-pieds et dissolvant de chaussures modernes, noir | KMINA | K40001",
+            lien: "https://kmina.com/en-int/products/calzador-largo-negro?_pos=1&_sid=1862105c0&_ss=r"
+        }
+    },
+    {
+        categorie: "Bien-être et loisirs",
+        sousCategorie: "Aides techniques",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/212_869x869.webp",
+            prix: "0 MAD",
             titre: "Chausse-pied et dissolvant de chaussures à long manche, 76 cm (2 en 1), Chausse-pieds et dissolvant de chaussures modernes, Blanc et Noir | KMINA | K40002",
             lien: "https://orviva.ma/boutique/bien-etre-et-loisirs/aides-techniques/chaussure/"
         },

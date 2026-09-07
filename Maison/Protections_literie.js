@@ -271,6 +271,28 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/Empapadorcama_869x869-1.webp",
             prix: "0 MAD",
+            titre: "Alèse lavable et réutilisable pour adulte, 90 cm | KMINA | K40037",
+            lien: "https://orviva.ma/boutique/maison/protections-de-literie/alese-reutilisable-90cm/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/09/Alese-pour-matelas-anti-escarres2.jpg",
+            prix: "190.00 MAD",
+            titre: "Alèse lavable Pour Matelas Anti-escarres",
+            lien: "https://locamed.ma/product/alese-pour-matelas-anti-escarres/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/79_b631b618-05ad-4c15-af1a-b69acc52f5ad_939x939.png?v=1673430988",
+            prix: "235.29 MAD",
+            titre: "Alèse lavable et réutilisable pour adulte, 90 cm | KMINA | K40037",
+            lien: "https://kmina.com/en-int/products/empapador-cama-1ud?_pos=1&_sid=c0d88045d&_ss=r"
+        }
+    },
+    {
+        categorie: "Maison",
+        sousCategorie: "Protections de literie",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/Empapadorcama_869x869-1.webp",
+            prix: "0 MAD",
             titre: "Alèse lavable et réutilisable pour adulte, 135 cm | KMINA | K40046",
             lien: "https://orviva.ma/boutique/maison/protections-de-literie/alese-reutilisable-90cm/"
         },

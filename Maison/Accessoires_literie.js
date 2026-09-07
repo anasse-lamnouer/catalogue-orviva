@@ -111,6 +111,51 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/barandilla-protectora-cama-negra"
         }
     },
+    // -----------------------------------------------------------------------------------------------
+    {
+        categorie: "Maison",
+        sousCategorie: "Accessoires de literie",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/barandilla-cama-habitacion_c3d12b85-3d8d-4160-9b71-c45824515954_869x869.webp",
+            prix: "645.00 MAD",
+            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 41 cm), rembourrée, noire | PEPE | P40025",
+            lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-protection-pour-lit/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Poignee-sortie-de-lit.jpg",
+            prix: "850.00 MAD",
+            titre: "Poignée sortie de lit",
+            lien: "https://locamed.ma/product/poignee-sortie-de-lit/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/PEPE-Mobility_barandila_cama_negra_939x939.png?v=1739871994",
+            prix: "534.893 MAD",
+            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 41 cm), rembourrée, noire | PEPE | P40025",
+            lien: "https://kmina.com/en-int/products/barandilla-cama-adulto-negra?_pos=1&_sid=9aa589ff3&_ss=r"
+        }
+    },
+    {
+        categorie: "Maison",
+        sousCategorie: "Accessoires de literie",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/barandilla-cama-habitacion_869x869.webp",
+            prix: "645.00 MAD",
+            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 41 cm), rembourrée, blanche | PEPE | P40026",
+            lien: "https://orviva.ma/boutique/maison/accessoires-de-literie/barriere-de-protection-pour-lit/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2023/11/Poignee-sortie-de-lit.jpg",
+            prix: "850.00 MAD",
+            titre: "Poignée sortie de lit",
+            lien: "https://locamed.ma/product/poignee-sortie-de-lit/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/B0CTTDRY2J-MAIN_939x939.jpg?v=1769779059",
+            prix: "534.893 MAD",
+            titre: "Barrière de lit adulte avec pieds (hauteur du cadre de lit : 26 à 41 cm), rembourrée, blanche | PEPE | P40026",
+            lien: "https://kmina.com/en-int/products/barandilla-cama-adulto-blanca?_pos=1&_sid=7568ca22c&_ss=r"
+        }
+    },
     {
         categorie: "Maison",
         sousCategorie: "Accessoires de literie",

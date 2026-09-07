@@ -247,6 +247,28 @@ window.produitsData.push(
         categorie: "bain et WC",
         sousCategorie: "Rehausseurs WC et cadres de toilette",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/elevador5cmcontapa_alzainodoroparadultos_5_869x869.webp",
+            prix: "0 MAD",
+            titre: "Rehausseur de siège de toilette (5 cm) Duroplast, Rehausseur de siège de toilette pour adultes avec couvercle | KMINA | K30038Rehausseur de siège de toilette (7,5 cm) Duroplast, Rehausseur de siège de toilette pour adultes avec couvercle | KMINA | K30040",
+            lien: "https://orviva.ma/boutique/bain-et-wc/rehausseurs-wc-et-cadres-de-toilette/rehausseur-de-toilettes-en-duraplast/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/1-1-1.jpg",
+            prix: "599.00 MAD",
+            titre: "Rehausse toilette Contact",
+            lien: "https://locamed.ma/product/rehausse-toilette-contact/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/elevador5cmcontapa_alzainodoroparadultos_5_939x939.jpg?v=1763982698",
+            prix: "748.89 MAD",
+            titre: "Rehausseur de siège de toilette (5 cm) Duroplast, Rehausseur de siège de toilette pour adultes avec couvercle | KMINA | K30038",
+            lien: "https://kmina.com/en-int/products/elevador-wc-5-cm-con-tapa?_pos=1&_sid=e3d04fc15&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Rehausseurs WC et cadres de toilette",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/elevadorcontapawc7_5cm_869x869.webp",
             prix: "0 MAD",
             titre: "Rehausseur de siège de toilette (7,5 cm) Duroplast, Rehausseur de siège de toilette pour adultes avec couvercle | KMINA | K30040",

@@ -137,6 +137,50 @@ window.produitsData.push(
         categorie: "bain et WC",
         sousCategorie: "Tabourets et chaises de douche",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/103_4a474aaa-051c-4d64-a176-64756ccb9af7_1000x1000_crop_center.webp",
+            prix: "695.00 MAD",
+            titre: "Siège de douche pour seniors avec accoudoirs, siège de douche réglable pour personnes âgées | PEPE | P30029",
+            lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/orviva-facile-douche/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-avec-dossier.jpg",
+            prix: "430.00 MAD",
+            titre: "Chaise de douche avec dossier",
+            lien: "https://locamed.ma/product/chaise-de-douche-avec-dossier/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/124_2eb6d7be-51ee-4b9d-a1a2-275ee5a0152e_939x939.png?v=1684229444",
+            prix: "641.89 MAD",
+            titre: "Siège de douche pour seniors avec accoudoirs, siège de douche réglable pour personnes âgées | PEPE | P30029",
+            lien: "https://kmina.com/en-int/products/silla-para-ducha-blanca-reposabrazos?_pos=1&_sid=3385935e3&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Tabourets et chaises de douche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_2_17_004fc15b-d9fb-468d-b098-b42d57940d46_700x700.png",
+            prix: "0 MAD",
+            titre: "Chaise de douche rembourrée (150 kg), chaises de bain pour seniors, assise noire | KMINA | K30016",
+            lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/ergo-bain/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-avec-dossier.jpg",
+            prix: "430.00 MAD",
+            titre: "Chaise de douche avec dossier",
+            lien: "https://locamed.ma/product/chaise-de-douche-avec-dossier/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/17_004fc15b-d9fb-468d-b098-b42d57940d46_939x939.png?v=1667817335",
+            prix: "962.89 MAD",
+            titre: "Chaise de douche rembourrée (150 kg), chaises de bain pour seniors, assise noire | KMINA | K30016",
+            lien: "https://kmina.com/en-int/products/silla-comfort-negra?_pos=1&_sid=fe24f1a1c&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Tabourets et chaises de douche",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/184_1000x1000_crop_center.webp",
             prix: "0 MAD",
             titre: "Chaise de douche rembourrée (150 kg), chaises de bain pour seniors, siège blanc | KMINA | K30017",
@@ -225,6 +269,28 @@ window.produitsData.push(
         categorie: "bain et WC",
         sousCategorie: "Tabourets et chaises de douche",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/05/imgi_2_83_700x700.png",
+            prix: "0 MAD",
+            titre: "Tabouret de douche rembourré (150 kg), tabouret de salle de bain pour seniors, noir | KMINA | K30009",
+            lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/orviva-confort-bain-150/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Photos-site-24-768x538.webp",
+            prix: "300.00 MAD",
+            titre: "Tabouret de douche",
+            lien: "https://locamed.ma/product/tabouret-de-douche/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/83_939x939.png?v=1652809148",
+            prix: "641.89 MAD",
+            titre: "Tabouret de douche rembourré (150 kg), tabouret de salle de bain pour seniors, noir | KMINA | K30009",
+            lien: "https://kmina.com/en-int/products/taburete-bano-comfort?_pos=1&_sid=6fb6cbd78&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Tabourets et chaises de douche",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/05/178_1000x1000_crop_center.webp",
             prix: "0 MAD",
             titre: "Tabouret de douche rembourré (150 kg), tabouret de salle de bain blanc pour seniors | KMINA | K30018",
@@ -263,6 +329,28 @@ window.produitsData.push(
             prix: "1 048.6 MAD",
             titre: "Marchepied salle de bain TrustCare Let's Step – antidérapant design 150 kg",
             lien: "https://couleursenior.com/marche-pieds-pour-salle-de-bain/2874-marchepied-salle-de-bain-trustcare-let-s-step-antiderapant-design-150-kg-7350036882150.html"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Tabourets et chaises de douche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/imgi_6_BancodeTransferencia_3_727x700.jpg",
+            prix: "1 050.00MAD",
+            titre: "Siège de bain pour adultes avec poignée, banc de transfert noir pour personnes âgées | PEPE | P30019",
+            lien: "https://orviva.ma/boutique/bain-et-wc/tabourets-et-chaises-de-douche/banc-de-transfert-2/"
+        },
+        itemB: {
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            prix: "0.00 MAD",
+            titre: "",
+            lien: ""
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/asiento_banera_asa_negro_PEPE_Mobility_939x939.jpg?v=1739352113",
+            prix: "855.89 MAD",
+            titre: "Siège de bain pour adultes avec poignée, banc de transfert noir pour personnes âgées | PEPE | P30019",
+            lien: "https://kmina.com/en-int/products/asiento-para-banera-adulto-con-asa?_pos=1&_sid=8a2a1e762&_ss=r"
         }
     },
     {

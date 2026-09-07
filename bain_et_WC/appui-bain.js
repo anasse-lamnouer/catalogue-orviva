@@ -49,6 +49,28 @@ window.produitsData.push(
         categorie: "bain et WC",
         sousCategorie: "Barres d’appui pour salle de bain",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/imgi_90_77_fdcacad7-1be8-4f03-b566-720917ce2c2f_869x869.png",
+            prix: "0 MAD",
+            titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien blanche | PEPE | P30006",
+            lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-paire/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Barres-de-maintien-droites2.jpg.webp",
+            prix: "250.00 MAD",
+            titre: "Barres de maintien droites",
+            lien: "https://locamed.ma/product/barres-de-maintien-droites/?srsltid=AfmBOopeEH3S_6my1rF2POeXASFuxvYe7W91meYrOUW3poRCaLpnG_p3"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/77_fdcacad7-1be8-4f03-b566-720917ce2c2f_939x939.png?v=1684153204",
+            prix: "106.89 MAD",
+            titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien blanche | PEPE | P30006",
+            lien: "https://kmina.com/en-int/products/asa-seguridad-bano-x2?_pos=1&_sid=69cda4001&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Barres d’appui pour salle de bain",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/82_869x869.webp",
             prix: "0 MAD",
             titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien noire | PEPE | P30007",
@@ -65,6 +87,28 @@ window.produitsData.push(
             prix: "106.89 MAD",
             titre: "Barre d'appui de salle de bain 30 cm (x2 unités), barre de sécurité pour salle de bain, barre de soutien noire | PEPE | P30007",
             lien: "https://kmina.com/en-int/products/asa-seguridad-bano-negra-x2"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Barres d’appui pour salle de bain",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/imgi_2_43_64c7e2b8-c7a4-4b74-9f4e-e14518a1d633_700x700.png",
+            prix: "0 MAD",
+            titre: "Barre d'appui rembourrée pour salle de bain, poignée de sécurité, blanche et grise | KMINA | K30023",
+            lien: "https://orviva.ma/boutique/bain-et-wc/barres-dappui-pour-salle-de-bain/barre-dappui-pour-baignoire/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/1-0.jpg",
+            prix: "790.00 MAD",
+            titre: "Barre d'appui relevable sans béquille",
+            lien: "https://locamed.ma/product/barre-dappui-relevable-sans-bequille/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/43_64c7e2b8-c7a4-4b74-9f4e-e14518a1d633_939x939.png?v=1671698730",
+            prix: "641.89 MAD",
+            titre: "Barre d'appui rembourrée pour salle de bain, poignée de sécurité, blanche et grise | KMINA | K30023",
+            lien: "https://kmina.com/en-int/products/asa-banera-gris?_pos=1&_sid=30565b20c&_ss=r"
         }
     },
     {

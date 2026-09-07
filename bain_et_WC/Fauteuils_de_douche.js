@@ -137,6 +137,28 @@ window.produitsData.push(
         categorie: "bain et WC",
         sousCategorie: "Fauteuils roulants de douche",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_93_B0DPL2BWDM-MAIN_2400x2400_crop_center.jpg",
+            prix: "0 MAD",
+            titre: "Fauteuil roulant de douche autopropulsé avec toilettes, noir | KMINA | K30031",
+            lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/aqua-liberty/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/01/Chaise-fauteuil-garde-avec-grandes-roues-pose-pieds.png",
+            prix: "5 500.00 MAD",
+            titre: "Chaise fauteuil garde avec grandes roues + pose pieds",
+            lien: "https://locamed.ma/product/chaise-de-douche-moem/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/B0DPL2BWDM-MAIN_939x939.jpg?v=1775137570",
+            prix: "3 744.89 MAD",
+            titre: "Fauteuil roulant de douche autopropulsé avec toilettes, noir | KMINA | K30031",
+            lien: "https://kmina.com/en-int/products/silla-de-ruedas-para-ducha-autopropulsable-negro?_pos=1&_sid=2a606a874&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Fauteuils roulants de douche",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/silla-autopropulsable-azul-KMINA_1000x1000_crop_center.webp",
             prix: "0 MAD",
             titre: "Fauteuil roulant de douche autopropulsé avec toilettes bleues | KMINA | K30032",
@@ -175,6 +197,28 @@ window.produitsData.push(
             prix: "3 209.89 MAD",
             titre: "Chaise de douche à roulettes pour seniors, fauteuil roulant avec pot intégré, chaise de bain noire | KMINA | K30010",
             lien: "https://kmina.com/en-int/products/silla-bano-pro"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Fauteuils roulants de douche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/IMG_8494_2253x2400_crop_center-1.webp",
+            prix: "0 MAD",
+            titre: "Chaise de douche à roulettes pour seniors, fauteuil roulant avec pot de chambre, chaise de bain bleue | KMINA | K30014",
+            lien: "https://orviva.ma/boutique/bain-et-wc/fauteuils-roulants-de-douche/aqua-wc-confort/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-de-douche-et-garde-robe-en-aluminium-Obana1.jpg",
+            prix: "2 450.00 MAD",
+            titre: "Chaise de douche et garde-robe en aluminium Obana",
+            lien: "https://locamed.ma/product/chaise-de-douche-et-garde-robe-en-aluminium-obana/?srsltid=AfmBOopCC87IBNCtm6vX1_fAyxQbdplLRSpTchGNSwp9oFV3irBo_-Lx"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/IMG_8494_939x1000.jpg?v=1703865496",
+            prix: "3 209.89 MAD",
+            titre: "Chaise de douche à roulettes pour seniors, fauteuil roulant avec pot de chambre, chaise de bain bleue | KMINA | K30014",
+            lien: "https://kmina.com/en-int/products/silla-pro-azul?_pos=1&_sid=422d3d01c&_ss=r"
         }
     },
     {

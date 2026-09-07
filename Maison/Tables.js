@@ -23,6 +23,28 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/mesa-adaptada-silla-ruedas-geriatrica"
         }
     },
+     {
+        categorie: "Maison",
+        sousCategorie: "Tables",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/mesa_auxiliar_cama_con_ruedas_medidas_KMINA_869x869.webp",
+            prix: "0 MAD",
+            titre: "Table de lit à roulettes, table de chevet haute pour hôpital | KMINA | K40012",
+            lien: "https://orviva.ma/boutique/maison/tables/table-de-lit/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/05/58637bfb-a672-4536-a7ca-2e92e5f50861.png",
+            prix: "2 600.00 MAD",
+            titre: "Table de Lit avec Plateau Stratifié et Roulettes Pivotantes 360°",
+            lien: "https://locamed.ma/product/table-de-lit-plateau-stratifie-avec-roulettes-pivotantes-360/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/mesa_auxiliar_cama_con_ruedas_producto_KMINA_939x939.png?v=1738935912",
+            prix: "1 604.89 MAD",
+            titre: "Table de lit à roulettes, table de chevet haute pour hôpital | KMINA | K40012",
+            lien: "https://kmina.com/en-int/products/mesa-auxiliar-para-cama?_pos=1&_sid=80af85280&_ss=rhttps://kmina.com/en-int/products/mesa-auxiliar-cama-negra"
+        }
+    },
     {
         categorie: "Maison",
         sousCategorie: "Tables",

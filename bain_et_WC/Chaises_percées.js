@@ -71,6 +71,28 @@ window.produitsData.push(
         categorie: "bain et WC",
         sousCategorie: "Chaises percées",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/01/1_ebf4ef68-d17f-4e8e-9b89-33f702f2bced_869x869.webp",
+            prix: "0 MAD",
+            titre: "Chaise percée avec siège réglable (3 en 1), siège de toilette, chaise de douche pour seniors (gris) | PEPE | P40010",
+            lien: "https://orviva.ma/boutique/bain-et-wc/chaises-percees/commode-de-chevet/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Chaise-Garde-robe-Pliable-aluminium1.jpg",
+            prix: "750.00 MAD",
+            titre: "Chaise Garde-robe Pliable aluminium sans roues",
+            lien: "https://locamed.ma/product/chaise-garde-robe-pliable-aluminium/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/1_ebf4ef68-d17f-4e8e-9b89-33f702f2bced_939x939.png?v=1684248181",
+            prix: "748.89 MAD",
+            titre: "Chaise percée avec siège réglable (3 en 1), siège de toilette, chaise de douche pour seniors (gris) | PEPE | P40010",
+            lien: "https://kmina.com/en-int/products/silla-orinal-gris?_pos=1&_sid=e998b6ed7&_ss=r"
+        }
+    },
+    {
+        categorie: "bain et WC",
+        sousCategorie: "Chaises percées",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2026/01/1_b3fa9d5d-2ade-4a06-ae20-41908a76df55_1000x1000_crop_center.webp",
             prix: "0 MAD",
             titre: "Chaise percée avec siège réglable (3 en 1), siège de toilette, chaise de douche pour seniors, noir | PEPE | P40012",

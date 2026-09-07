@@ -728,6 +728,28 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/muletas-axilares-acolchadas"
         },
     },
+     {
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/07/imgi_2_BastonProExtensibleAluminio1_700x700-150x150.jpg",
+            prix: "375.00 MAD",
+            titre: "Canne extensible, bâton de marche pour seniors, aluminium noir | KMINA | K10023",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/canne-extensible-en-aluminium-pour-personnes-agees-noir-couleur-bois-kmina-k10023-k10031/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Canne-reglable-en-aluminium-noir-et-avec-manche-en-bois.png",
+            prix: "200.00 MAD",
+            titre: "Canne réglable en aluminium noir et avec manche en bois",
+            lien: "https://locamed.ma/product/canne-reglable-en-aluminium-noir-et-avec-manche-en-bois/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/BastonProExtensibleAluminio1_939x939.jpg?v=1654172975",
+            prix: "374,39 MAD",
+            titre: "Canne extensible, bâton de marche pour seniors, aluminium noir | KMINA | K10023",
+            lien: "https://kmina.com/en-int/products/baston-extensible-negro?_pos=1&_sid=9a2ee3844&_ss=r"
+        }
+    },
     {
         categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
@@ -750,13 +772,80 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/baston-extensible-madera"
         }
     },
+    
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/07/imgi_95_2_3596dffa-0d37-401e-bee8-7052c6e3f3fb_869x869.png",
+            prix: "160.00 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, noir | PEPE | P10004",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/canne-pliable-pour-personnes-agees-noir-bronze-pepe-p10004-p10005/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-reglable-pliable-3.jpg",
+            prix: "120.00 MAD",
+            titre: "Canne réglable pliable",
+            lien: "https://locamed.ma/product/canne-reglable-pliable/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/2_3596dffa-0d37-401e-bee8-7052c6e3f3fb_939x939.png?v=1683884730",
+            prix: "160.39 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, noir | PEPE | P10004",
+            lien: "https://kmina.com/en-int/products/baston-plegable-negro-1?_pos=1&_sid=ca2b82327&_ss=r"
+        }
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/07/imgi_95_2_3596dffa-0d37-401e-bee8-7052c6e3f3fb_869x869.png",
+            prix: "160.00 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, noir | PEPE | P10004",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/canne-pliable-pour-personnes-agees-noir-bronze-pepe-p10004-p10005/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-reglable-pliable-3.jpg",
+            prix: "120.00 MAD",
+            titre: "Canne réglable pliable",
+            lien: "https://locamed.ma/product/canne-reglable-pliable/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/2_3596dffa-0d37-401e-bee8-7052c6e3f3fb_939x939.png?v=1683884730",
+            prix: "160.39 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, noir | PEPE | P10004",
+            lien: "https://kmina.com/en-int/products/baston-plegable-negro-1?_pos=1&_sid=ca2b82327&_ss=r"
+        }
+    },
+    {
+        categorie: "Mobilite",  
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/07/imgi_93_2_c3190167-3024-4da0-97bd-a6bb97a9a7d6_869x869.png",
+            prix: "160.00 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, bronze | PEPE | P10005",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/canne-pliable-pour-personnes-agees-noir-bronze-pepe-p10004-p10005/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-reglable-pliable-3.jpg",
+            prix: "120.00 MAD",
+            titre: "Canne réglable pliable",
+            lien: "https://locamed.ma/product/canne-reglable-pliable/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/2_c3190167-3024-4da0-97bd-a6bb97a9a7d6_939x939.png?v=1683885148",
+            prix: "160.39 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, bronze | PEPE | P10005",
+            lien: "https://kmina.com/en-int/products/baston-plegable-bronce?_pos=1&_sid=207c0a107&_ss=r"
+        }
+    },
     {   
         categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/15_1be33d20-1d0c-410a-87aa-af08246bc18d_1000x1000_crop_center.webp",
             prix: "0 MAD",
-            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10011 - P10010 - P10009",
+            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10009",
             lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/muletas-axilares-pepe/"
         },
          itemB: {
@@ -768,7 +857,51 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/15_1be33d20-1d0c-410a-87aa-af08246bc18d_939x939.png?v=1683708137",
             prix: "427.57 MAD",
-            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10011 - P10010 - P10009",
+            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10009",
+            lien: "https://kmina.com/en-int/products/muletas-axilares"
+        },
+    },
+    {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/15_1be33d20-1d0c-410a-87aa-af08246bc18d_1000x1000_crop_center.webp",
+            prix: "0 MAD",
+            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10010",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/muletas-axilares-pepe/"
+        },
+         itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Bequille-Axillaire1.jpg.webp",
+            prix: "100.00 MAD",
+            titre: "Béquille Axillaire / Unité",
+            lien: "https://locamed.ma/product/bequille-axillaire/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/15_1be33d20-1d0c-410a-87aa-af08246bc18d_939x939.png?v=1683708137",
+            prix: "427.57 MAD",
+            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10010",
+            lien: "https://kmina.com/en-int/products/muletas-axilares"
+        },
+    },
+    {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/15_1be33d20-1d0c-410a-87aa-af08246bc18d_1000x1000_crop_center.webp",
+            prix: "0 MAD",
+            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10011",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/muletas-axilares-pepe/"
+        },
+         itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Bequille-Axillaire1.jpg.webp",
+            prix: "100.00 MAD",
+            titre: "Béquille Axillaire / Unité",
+            lien: "https://locamed.ma/product/bequille-axillaire/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/15_1be33d20-1d0c-410a-87aa-af08246bc18d_939x939.png?v=1683708137",
+            prix: "427.57 MAD",
+            titre: "Béquilles axillaires pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10011",
             lien: "https://kmina.com/en-int/products/muletas-axilares"
         },
     },
