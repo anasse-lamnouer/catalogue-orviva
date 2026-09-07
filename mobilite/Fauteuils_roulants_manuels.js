@@ -23,7 +23,30 @@ window.produitsData.push(
             lien: "https://ergoconcept.net/fauteuil-roulant-electrique-br7l-carbone/"
         }
     },
-    
+
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Fauteuils roulants manuels",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_106_Silla_Ruedas_KMINA_PRO_Transporte_detalle_167d0363-2bad-4f8c-9be2-6b4d150cea46_869x869-150x150.jpg",
+            prix: "7 200.00.0 MAD",
+            titre: "Fauteuil roulant pliant léger, fauteuil roulant de transport, bleu | KMINA PRO | K10082",
+            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/la-plume-pro/"
+        },
+        itemB: {
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JRjHrXBBga4uWiPIYvqiNqdz2AP-S1tQcbwd47f10g&s=10",
+            prix: "0.00 MAD",
+            titre: "",
+            lien: ""
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/Silla_Ruedas_KMINA_PRO_Transporte_detalle_167d0363-2bad-4f8c-9be2-6b4d150cea46_378x378.jpg?v=1768981055",
+            prix: "6 419.98 MAD",
+            titre: "Fauteuil roulant pliant léger, fauteuil roulant de transport, bleu | KMINA PRO | K10082",
+            lien: "https://kmina.com/en-int/products/silla-ruedas-kmina-pro"
+        }
+    },
+
     {
         categorie: "Mobilite",
         sousCategorie: "Fauteuils roulants manuels",
@@ -115,7 +138,28 @@ window.produitsData.push(
             lien: "https://www.tousergo.com/fauteuil-roulant/4862-fauteuil-roulant-manuel-leger-v500.html"
         }
     },
- 
+    {
+         categorie: "Mobilite",
+        sousCategorie: "Fauteuils roulants manuels",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_3_Silla_Ruedas_KMINA_PRO_Autopropulsable_Azul_principal_700x700-600x600.jpg.webp",
+            prix: "8 500.00 MAD",
+            titre: "Fauteuil roulant pliant autopropulsé léger, fauteuils roulants autopropulsés, bleu | KMINA PRO | K10084",
+            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/litemove-pro/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-pliant-Basix-2-dossier-fixe-1-1.jpg.webp",
+            prix: "6 590.00 MAD",
+            titre: "Fauteuil roulant pliant Basix 2 ( Dossier inclinable )",
+            lien: "https://locamed.ma/product/fauteuil-roulant-pliant-basix-2-dossier-inclinable/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/Silla_Ruedas_KMINA_PRO_Autopropulsable_perf_939x939.jpg?v=1768989378",
+            prix: "7 489.89 MAD",
+            titre: "Fauteuil roulant pliant autopropulsé léger, fauteuils roulants autopropulsés, bleu | KMINA PRO | K10084",
+            lien: "https://kmina.com/en-int/products/silla-ruedas-autopropulsable-kmina-pro"
+        }
+    },
     {
         categorie: "Mobilite",
         sousCategorie: "Fauteuils roulants manuels",
@@ -398,7 +442,7 @@ window.produitsData.push(
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_41_sillaruedasautopropulsable_a15b542f-f1fa-4662-9f26-42dce5c5c43a_869x869-e1780916769903.png",
             prix: "2 760.00 MAD",
-            titre: "Fauteuil roulant manuel (largeur d'assise 46 cm), fauteuil roulant pliable pour personnes âgées | PEPE | P10034",
+            titre: "Fauteuil roulant manuel (largeur d'assise 43 cm), fauteuil roulant pliable pour personnes âgées | PEPE | P10027",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/pepe-classique-autopropulsable/"
         },
         itemB: {
@@ -410,8 +454,8 @@ window.produitsData.push(
         itemC: {
             img: "https://kmina.com/cdn/shop/files/sillaruedasautopropulsable_fff5d45b-9f20-490a-89c1-c9c848b7ee40_939x939.png?v=1720449248",
             prix: "2 762.20 MAD",
-            titre: "Fauteuil roulant manuel (largeur d'assise 46 cm), fauteuil roulant pliable pour personnes âgées | PEPE | P10034",
-            lien: "https://kmina.com/en-int/products/silla-de-ruedas-plegable-autopropulsable"
+            titre: "Fauteuil roulant manuel (largeur d'assise 43 cm), fauteuil roulant pliable pour personnes âgées | PEPE | P10027",
+            lien: "https://kmina.com/en-int/products/silla-de-ruedas-autopropulsable-43-cm?_pos=1&_sid=0ffa3b2f7&_ss=r"
         }
     },
  
@@ -442,8 +486,8 @@ window.produitsData.push(
         categorie: "Mobilite",
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
-            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_88_silla_de_ruedas_aluminio_2_869x869.jpg",
-            prix: "0 MAD",
+            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_91_Silla_RUEDAS_TODOTERRENO_10grados_40228392-57cf-4bb1-83b9-9af0495c1486_869x869-1-e1780917546782.jpg",
+            prix: "4 422.00 MAD",
             titre: "Fauteuil roulant tout-terrain pliable (hauteur d'assise 46 cm), Fauteuils roulants pour seniors | KMINA | K10077",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/liberte-max/"
         },
@@ -454,7 +498,7 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-pliable/?srsltid=AfmBOoprkNUYG8JPDnFyGNF1B2LuzLVKg8lm-foIKzIRI4vOfKXNZNpZ"
         },
         itemC: {
-            img: "https://kmina.com/cdn/shop/files/sillaruedasautopropulsable_a15b542f-f1fa-4662-9f26-42dce5c5c43a_939x939.png?v=1698421975",
+            img: "https://kmina.com/cdn/shop/files/silla_de_ruedas_aluminio_2_939x939.jpg?v=1770196915",
             prix: "4 421.56 MAD",
             titre: "Fauteuil roulant tout-terrain pliable (hauteur d'assise 46 cm), Fauteuils roulants pour seniors | KMINA | K10077",
             lien: "https://kmina.com/en-int/products/silla-de-ruedas-todoterreno"
@@ -464,7 +508,7 @@ window.produitsData.push(
         categorie: "Mobilite",
         sousCategorie: "Fauteuils roulants manuels",
         itemA: {
-            img: "https://orviva.ma/wp-content/uploads/2026/04/imgi_91_Silla_RUEDAS_TODOTERRENO_10grados_40228392-57cf-4bb1-83b9-9af0495c1486_869x869-1-e1780917546782.jpg",
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_88_silla_de_ruedas_aluminio_2_869x869.jpg",
             prix: "4 400.00 MAD",
             titre: "Fauteuil roulant pliable léger en aluminium pour seniors (largeur d'assise 46 cm), Fauteuils roulants pour personnes âgées | KMINA | K10078",
             lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/fauteuil-roulant-tout-terrain-pliable-silla-a-roues/"
@@ -476,7 +520,7 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/fauteuil-roulant-aluminium-pliable/?srsltid=AfmBOoprkNUYG8JPDnFyGNF1B2LuzLVKg8lm-foIKzIRI4vOfKXNZNpZ"
         },
         itemC: {
-            img: "https://kmina.com/cdn/shop/files/silla_de_ruedas_aluminio_2_939x939.jpg?v=1770196915",
+            img: "https://kmina.com/cdn/shop/files/sillaruedasautopropulsable_a15b542f-f1fa-4662-9f26-42dce5c5c43a_939x939.png?v=1698421975",
             prix: "4 421.56 MAD",
             titre: "Fauteuil roulant pliable léger en aluminium pour seniors (largeur d'assise 46 cm), Fauteuils roulants pour personnes âgées | KMINA | K10078",
             lien: "https://kmina.com/en-int/products/silla-de-ruedas-plegable-y-ligera-para-ancianos-ancho-asiento-46-cm-sillas-de-ruedas-para-personas-mayores-kmina-k10078?_pos=18&_sid=5427ec513&_ss=r"
@@ -524,6 +568,29 @@ window.produitsData.push(
             prix: "1 390.89 MAD",
             titre: "Fauteuil roulant pliable léger pour personnes âgées, fauteuil roulant étroit pour usage domestique | PEPE | P10019",
             lien: "https://kmina.com/en-int/products/silla-de-ruedas-plegable-estrecha"
+        }
+    },
+    
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Fauteuils roulants manuels",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/silla-ruedas-exterior_869x869.webp",
+            prix: "2 760.00 MAD",
+            titre: "Fauteuil roulant pliable pour personnes âgées (largeur d'assise 43 cm), Fauteuils roulants pour seniors | PEPE | P10026",
+            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-manuels/liberte-compacte/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-BREEZY-90-grandes-roues-1-1.webp",
+            prix: "2 350.00 MAD",
+            titre: "Fauteuil BREEZY 90 petites roues",
+            lien: "https://locamed.ma/product/fauteuil-breezy-90-petites-roues/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/silla-ruedas-exterior_939x939.png?v=1698073709",
+            prix: "2 762.20 MAD",
+            titre: "Fauteuil roulant pliable pour personnes âgées (largeur d'assise 43 cm), Fauteuils roulants pour seniors | PEPE | P10026",
+            lien: "https://kmina.com/en-int/products/silla-ruedas-plegable-ligera"
         }
     },
     {

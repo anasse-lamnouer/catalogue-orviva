@@ -380,6 +380,28 @@ window.produitsData.push(
         categorie: "Mobilite",
         sousCategorie: "Déambulateurs",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/218_faf8f38c-b3ca-48c4-9656-aa54545ecc91_1000x1000_crop_center.webp",
+            prix: "1 930.00 MAD",
+            titre: "Déambulateur pour adultes, modèle senior avec siège, 4 roues, freins, noir | KMINA | K10011",
+            lien: "https://orviva.ma/boutique/mobilite/deambulateurs/sereno/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Rollator-4-roues-avec-siege-et-dossier-3.jpg",
+            prix: "1 100.00 MAD",
+            titre: "Rollator 4 roues avec siège et dossier",
+            lien: "https://locamed.ma/product/rollator-en-aluminium-4-roues/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/218_faf8f38c-b3ca-48c4-9656-aa54545ecc91_939x939.png?v=1686130722",
+            prix: "1 711.89 MAD",
+            titre: "Déambulateur pour adultes, modèle senior avec siège, 4 roues, freins, noir | KMINA | K10011",
+            lien: "https://kmina.com/en-int/products/andador-comfort-maneta-gris"
+        }
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Déambulateurs",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/218_faf8f38c-b3ca-48c4-9656-aa54545ecc91_1000x1000_crop_center-600x600.webp",
             prix: "1 930.00 MAD",
             titre: "Déambulateur pour adultes, modèle senior avec siège, 4 roues, freins, gris et noir | KMINA | K10012",
@@ -490,7 +512,7 @@ window.produitsData.push(
         categorie: "Mobilite",
         sousCategorie: "Déambulateurs",
         itemA: {
-            img: "https://orviva.ma/wp-content/uploads/2025/12/Confort-2RuedasNegro1_1000x1000_crop_center.webp",
+            img: "https://orviva.ma/wp-content/uploads/2025/12/Confort-2RuedasGris3_869x869-600x600.webp",
             prix: "1 125.00 MAD",
             titre: "Déambulateur adulte à 2 roues et siège viscoélastique, noir | KMINA | K10015",
             lien: "https://orviva.ma/boutique/mobilite/deambulateurs/le-duo-grip/"
@@ -502,9 +524,31 @@ window.produitsData.push(
             lien: "https://locamed.ma/product/rollator-4-roues-avec-siege/"
         },
         itemC: {
-            img: "https://media.farmacianuriapau.com/product/andador-kmina-2-ruedas-2-tacos-y-asiento-confort-800x800.jpg?width=1200",
+            img: "https://kmina.com/cdn/shop/products/Confort-2RuedasNegro1_939x939.jpg?v=1643816689",
             prix: "1 085.83 MAD",
             titre: "Déambulateur adulte à 2 roues et siège viscoélastique, noir | KMINA | K10015",
+            lien: "https://kmina.com/en-int/products/andador-comfort-2ruedas-negro?_pos=1&_sid=a2d1994f0&_ss=r"
+        }
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Déambulateurs",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/Confort-2RuedasGris3_869x869.webp",
+            prix: "1 125.00 MAD",
+            titre: "Déambulateur adulte à 2 roues et siège viscoélastique, gris | KMINA | K10016",
+            lien: "https://orviva.ma/boutique/mobilite/deambulateurs/le-duo-grip/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Rollator-4-roues-en-acier-avec-siege-1.jpg",
+            prix: "750.00 MAD",
+            titre: "Rollator 4 roues avec siège",
+            lien: "https://locamed.ma/product/rollator-4-roues-avec-siege/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/Confort-2RuedasGris3_939x939.jpg?v=1643816587",
+            prix: "1 085.83 MAD",
+            titre: "Déambulateur adulte à 2 roues et siège viscoélastique, gris | KMINA | K10016",
             lien: "https://kmina.com/en-int/products/andador-comfort-2ruedas-negro"
         }
     },

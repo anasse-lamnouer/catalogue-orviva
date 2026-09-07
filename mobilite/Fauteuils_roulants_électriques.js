@@ -225,6 +225,28 @@ window.produitsData.push(
         categorie: "Mobilite",
         sousCategorie: "Fauteuils roulants électriques",
         itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/SILLA_RUEDAS_ELECTRICA_ALUMINIO_6_869x869.webp",
+            prix: "26 975.00 MAD",
+            titre: "Fauteuil roulant électrique bleu | KMINA | K10074",
+            lien: "https://orviva.ma/boutique/mobilite/fauteuils-roulants-electriques/leclat-turbo/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2022/10/Fauteuil-releveur-electrique-3.png",
+            prix: "30 000.00 MAD",
+            titre: "Fauteuil roulant électrique Pliant Q50R",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-sunrise-q50-r/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/Mesadetrabajo1_1.5x_939x939.png?v=1770913895",
+            prix: "37 664.00 MAD",
+            titre: "Fauteuil roulant électrique bleu | KMINA | K10074",
+            lien: "https://kmina.com/en-int/products/silla-ruedas-electrica-azul-kmina?_pos=1&_sid=9120bf868&_ss=r"
+        }
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Fauteuils roulants électriques",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_yf73uzyf73uzyf73.png",
             prix: "26 975.00 MAD",
             titre: "Fauteuil roulant électrique gris | KMINA | K10075",

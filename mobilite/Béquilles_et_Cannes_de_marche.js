@@ -48,7 +48,7 @@ window.produitsData.push(
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/81DfvyjxGDL._AC_SL1500_1500x1500_crop_center.webp",
-            prix: "0 MAD",
+            prix: "495.00 MAD",
             titre: "Canne orthopédique pliante (pour gaucher), bâtons de marche pour seniors | KMINA | K10030",
             lien: "https://orviva.ma/boutique/non-classe/ergonomique-droite-et-gauche/"
         },
@@ -111,7 +111,7 @@ window.produitsData.push(
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/3_1b54f394-741c-4687-a4eb-6cf9fa69caed_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "695.00 MAD",
             titre: "Canne pliante, bâton de marche pour seniors, motif fleurs | PEPE | P10008",
             lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/le-baston-plegable/"
         },
@@ -128,11 +128,34 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/baston-plegable-flores"
         },
     },
-    {    categorie: "Mobilite",
+    {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/69_21f50a15-ca9e-41a1-a20e-b682bf5f0e0d_1000x1000_crop_center.webp",
+            prix: "430.00 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, fleurs rouges | KMINA | K10020",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/pro-fleurs-pliantes/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Canne-reglable-avec-poignee-ergonomique-Cream.png",
+            prix: "320.00 MAD",
+            titre: "Canne réglable avec poignée ergonomique Cream",
+            lien: "https://locamed.ma/product/canne-reglable-avec-poignee-ergonomique-cream/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/91BRjYITUNL._AC_SL1500_939x939.jpg?v=1687360568",
+            prix: "374.11 MAD",
+            titre: "Canne pliante, bâton de marche pour seniors, fleurs rouges | KMINA | K10020",
+            lien: "https://kmina.com/en-int/products/baston-plegable-flores-rojo?_pos=1&_sid=71f793e77&_ss=r"
+        },
+    },
+    {   
+        categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/812KGCVebBL._AC_SL1500_1568x1568_crop_center.webp",
-            prix: "0 MAD",
+            prix: "430.00 MAD",
             titre: "Canne pliante, bâton de marche pour seniors, fleurs bleues | KMINA | K10021",
             lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/pro-fleurs-pliantes/"
         },
@@ -153,7 +176,7 @@ window.produitsData.push(
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/BastonProExtensibleFibra_1000x1000_crop_center.webp",
-            prix: "695.00 MAD",
+            prix: "720.00 MAD",
             titre: "Canne extensible en fibre de carbone, bâton de marche pour seniors | KMINA | K10022",
             lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/pro-fibre/"
         },
@@ -174,7 +197,7 @@ window.produitsData.push(
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/BastonProExtensibleFloresRojo_1000x1000_crop_center.webp",
-            prix: "0 MAD",
+            prix: "375.00 MAD",
             titre: "Canne extensible, bâton de marche pour seniors, fleurs rouges | KMINA | K10024",
             lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/pro-fleurs/"
         },
@@ -189,6 +212,27 @@ window.produitsData.push(
             prix: "374.11 MAD",
             titre: "Canne extensible, bâton de marche pour seniors, fleurs rouges | KMINA | K10024",
             lien: "https://kmina.com/en-int/products/baston-extensible-flores-rojo"
+        },
+    },
+     {    categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/Disenosintitulo_30e2f0d6-7915-40cf-b4c4-b9e25ee0089d_1000x1000_crop_center.webp",
+            prix: "375.00 MAD",
+            titre: "Extendable Cane, Walking Sticks for Seniors, Blue Flowers | KMINA | K10025",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/pro-fleurs/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Canne-reglable-avec-poignee-ergonomique-Cream.png",
+            prix: "320.00 MAD",
+            titre: "Canne réglable avec poignée ergonomique Cream",
+            lien: "https://locamed.ma/product/canne-reglable-avec-poignee-ergonomique-cream/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/Disenosintitulo_30e2f0d6-7915-40cf-b4c4-b9e25ee0089d_939x939.jpg?v=1654173387",
+            prix: "374.11 MAD",
+            titre: "Extendable Cane, Walking Sticks for Seniors, Blue Flowers | KMINA | K10025",
+            lien: "https://kmina.com/en-int/products/baston-extensible-flores-azul?_pos=1&_sid=2d11eb204&_ss=r"
         },
     },
     {    categorie: "Mobilite",
@@ -275,7 +319,8 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/baston-silla-aluminio-negro"
         },
     },
-    {   categorie: "Mobilite",
+    {   
+        categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/1_4a6392d8-bab0-4378-854d-c3ed821179fc_1000x1000_crop_center.webp",
@@ -294,6 +339,28 @@ window.produitsData.push(
             prix: "374.11 MAD",
             titre: "Canne pliante, assise noire | PEPE | P10017",
             lien: "https://kmina.com/en-int/products/baston-silla-plegable-negro"
+        },
+    },
+     {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_92_1_6a245c88-8491-4f12-aec7-cd49e51ac50a_869x869.png",
+            prix: "450.00 MAD",
+            titre: "Canne pliante, siège en bronze | PEPE | P10018",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/canne-avec-siege-integre-noire/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-trepied-2.jpg.webp",
+            prix: "410.00 MAD",
+            titre: "Canne trépied",
+            lien: "https://locamed.ma/product/canne-trepied/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/1_6a245c88-8491-4f12-aec7-cd49e51ac50a_939x939.png?v=1683726776",
+            prix: "374.11 MAD",
+            titre: "Canne pliante, siège en bronze | PEPE | P10018",
+            lien: "https://kmina.com/en-int/products/baston-silla-plegable-bronce?_pos=1&_sid=1886b823b&_ss=r"
         },
     },
     {   categorie: "Mobilite",
@@ -464,7 +531,29 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/muletas-basic"
         },
     },
-    {    categorie: "Mobilite",
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/Disenosintitulo_869x869.webp",
+            prix: "640.00 MAD",
+            titre: "Béquilles rembourrées pour adultes (x2) orthopédiques en aluminium avec embouts larges noirs | KMINA | K10003",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/bequilles-comfort-plus/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-anglaise-progress-renforcee1-300x227.jpg.webp",
+            prix: "160.00 MAD",
+            titre: "Canne anglaise Progress articulée / Unité",
+            lien: "https://locamed.ma/product/canne-anglaise-progress-renforcee/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/EdicionWEB_939x939.png?v=1702283504",
+            prix: "641.40 MAD",
+            titre: "Béquilles rembourrées pour adultes (x2) orthopédiques en aluminium avec embouts larges noirs | KMINA | K10003",
+            lien: "https://kmina.com/en-int/products/muletas-comfort-plus-negro?_pos=1&_sid=64ca81877&_ss=r"
+        }
+    },
+    {   categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Disenosintitulo_869x869.webp",
@@ -506,10 +595,11 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/muletas-infantiles-colores-regulables"
         },
     },
-    {    categorie: "Mobilite",
+    {   
+        categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
-            img: "https://orviva.ma/wp-content/uploads/2025/12/232_99c8b6d6-d439-4054-952c-e5acc78403bc_869x869.webp",
+            img: "https://orviva.ma/wp-content/uploads/2025/12/1_869x869.webp",
             prix: "535.00 MAD",
             titre: "Béquilles pour adultes (x2) orthopédiques en aluminium, embouts larges noirs | KMINA | K10005",
             lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/bequille-de-confort/"
@@ -527,7 +617,52 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/muletas-comfort-negro"
         },
     },
-    {    categorie: "Mobilite",
+    {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/232_99c8b6d6-d439-4054-952c-e5acc78403bc_869x869.webp",
+            prix: "535.00 MAD",
+            titre: "Béquilles pour adultes (x2) Orthopédiques en aluminium, embouts larges gris | KMINA | K10006",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/bequille-de-confort/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-anglaise-progress-renforcee-600x453.jpg.webp",
+            prix: "160.00 MAD",
+            titre: "Canne anglaise Progress articulée / Unité",
+            lien: "https://locamed.ma/product/canne-anglaise-progress-renforcee/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/ComfortgrisWEB_939x939.png?v=1702032063",
+            prix: "427.57 MAD",
+            titre: "Béquilles pour adultes (x2) Orthopédiques en aluminium, embouts larges gris | KMINA | K10006",
+            lien: "https://kmina.com/en-int/products/muletas-comfort-gris?_pos=1&_sid=37571f17f&_ss=r"
+        },
+    },
+    {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/imgi_101_muletanegra_1_869x869.jpg",
+            prix: "0 MAD",
+            titre: "Béquilles orthopédiques pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10001",
+            lien: "https://orviva.ma/boutique/non-classe/bequilles-pepe/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Canne-anglaise-Classique1.jpg",
+            prix: "125.00 MAD",
+            titre: "Canne anglaise Classique / Unité",
+            lien: "https://locamed.ma/product/canne-anglaise-classique/?srsltid=AfmBOooHEik-4l9WExmF8-XlkdThvnIL2uDfZxlHRaqu7QFYa-_GEUsT"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/muletanegra_1_939x939.jpg?v=1783939787",
+            prix: "320.65 MAD",
+            titre: "Béquilles orthopédiques pour adultes (x2 unités), béquilles réglables en aluminium | PEPE | P10001",
+            lien: "https://kmina.com/en-int/products/muleta-ortopedica-adulto-negra-x2?_pos=1&_sid=e85abf697&_ss=r"
+        },
+    },
+    {   
+        categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/13_1000x1000_crop_center.webp",
@@ -548,7 +683,9 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/muleta-ortopedicas-adulto-azul-x2"
         },
     },
-    {    categorie: "Mobilite",
+    
+    {   
+        categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/IMG_2904Todo-01-01_869x869.webp",
@@ -569,7 +706,52 @@ window.produitsData.push(
             lien: "https://kmina.com/en-int/products/muletas-axilares-acolchadas"
         },
     },
-    {    categorie: "Mobilite",
+    {   
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2025/12/IMG_2904Todo-01-01_869x869.webp",
+            prix: "985.00 MAD",
+            titre: "Béquilles axillaires rembourrées (x2), orthopédiques, en aluminium noir pour adultes | KMINA | K10052",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/bequilles-sous-les-aisselles/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Bequille-Axillaire1.jpg.webp",
+            prix: "100.00 MAD",
+            titre: "Béquille Axillaire / Unité",
+            lien: "https://locamed.ma/product/bequille-axillaire/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/IMG_2904Todo-01-01_939x939.jpg?v=1704462197",
+            prix: "962.16 MAD",
+            titre: "Béquilles axillaires rembourrées (x2), orthopédiques, en aluminium noir pour adultes | KMINA | K10052",
+            lien: "https://kmina.com/en-int/products/muletas-axilares-acolchadas"
+        },
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Béquilles et Cannes de marche",
+        itemA: {
+            img: "https://orviva.ma/wp-content/uploads/2026/07/imgi_86_BastonProExtensibleMadera._869x869.jpg",
+            prix: "375.00 MAD",
+            titre: "Canne extensible, bâton de marche pour seniors, couleur bois | KMINA | K10031",
+            lien: "https://orviva.ma/boutique/mobilite/cannes-de-marche/canne-extensible-en-aluminium-pour-personnes-agees-noir-couleur-bois-kmina-k10023-k10031/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2024/07/Canne-reglable-en-aluminium-noir-et-avec-manche-en-bois.png",
+            prix: "200.00 MAD",
+            titre: "Canne réglable en aluminium noir et avec manche en bois",
+            lien: "https://locamed.ma/product/canne-reglable-en-aluminium-noir-et-avec-manche-en-bois/"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/products/BastonProExtensibleMadera._939x939.jpg?v=1643059900",
+            prix: "374,39 MAD",
+            titre: "Canne extensible, bâton de marche pour seniors, couleur bois | KMINA | K10031",
+            lien: "https://kmina.com/en-int/products/baston-extensible-madera"
+        }
+    },
+    {   
+        categorie: "Mobilite",
         sousCategorie: "Béquilles et Cannes de marche",
         itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/15_1be33d20-1d0c-410a-87aa-af08246bc18d_1000x1000_crop_center.webp",

@@ -71,6 +71,28 @@ window.produitsData.push(
         categorie: "Mobilite",
         sousCategorie: "Scooters électriques",
         itemA: {
+            img: "https://kmina.com/cdn/shop/files/ScooterElectricoPlegableAdultos_1_5867c33d-0bad-407d-88b4-c69f6bba94f7_939x939.jpg?v=1776770394",
+            prix: "17 200.00 MAD",
+            titre: "Trottinette électrique pliable noire pour adultes | PEPE | P10042",
+            lien: "https://orviva.ma/boutique/mobilite/scooters-electriques/scooter-electrique-pliable-europe/"
+        },
+        itemB: {
+            img: "https://locamed.ma/wp-content/uploads/2018/01/Fauteuil-roulant-electrique2-1-600x453.jpg.webp",
+            prix: "28 500.00 MAD",
+            titre: "Fauteuil roulant électrique Scooter Sapphire",
+            lien: "https://locamed.ma/product/fauteuil-roulant-electrique-scooter-sapphire-2/?srsltid=AfmBOookvlnaZGkD9BplzuOqCoIWnb3FvBkfd-yVO5f9Fzbyk0xuqkRS"
+        },
+        itemC: {
+            img: "https://kmina.com/cdn/shop/files/ScooterElectricoPlegableAdultos_1_5867c33d-0bad-407d-88b4-c69f6bba94f7_939x939.jpg?v=1776770394",
+            prix: "16 049.89 MAD",
+            titre: "Trottinette électrique pliable noire pour adultes | PEPE | P10042",
+            lien: "https://kmina.com/en-int/products/scooter-electrico-plegable-negro?_pos=1&_sid=a3138f380&_ss=r"
+        }
+    },
+    {
+        categorie: "Mobilite",
+        sousCategorie: "Scooters électriques",
+        itemA: {
             img: "https://orviva.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_6hbr966hbr966hbr.png",
             prix: "17 200.00 MAD",
             titre: "Trottinette électrique pliable blanche pour adultes | PEPE | P10043",

@@ -43,6 +43,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+  
   color: var(--text-primary);
   background-image:
     radial-gradient(
